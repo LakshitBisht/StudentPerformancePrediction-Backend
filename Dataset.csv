@@ -1,0 +1,1001 @@
+UID,Name,Sex,Age,10th,12th,Section,Sem1,Sem2,Sem3,Sem4,Sem5,Sem6,Sem7,Current CGPA,AMCAT,Skill1,Skill2,Skill3,Skill4,Avg. Attendance,Course Assigned,Performance,Placed Status
+20BCS6001,PARMAR AKSHAT BHANUPRASAD,Male,21,87,94,CSE-1,7.91,8.93,7.87,7.6,7.01,7.91,8.71,7.99,963,Android,Frontend,Python,Frontend,88.06,Machine Learning,Excellent,Yes
+20BCS6002,KARA TERRY,Male,22,90,85,CSE-1,8.63,7.51,7.95,8.19,7.23,8.66,8.36,8.08,510,ML,DL,Backend,UI/UX,97.51,Analyst,Bad,No
+20BCS6003,DHRUV SHARMA,Female,19,82,82,CSE-1,8.09,7.79,8.69,7.3,7.04,8.55,8.55,8,694,DL,Python,C,Android,87.2,Analyst,Average,No
+20BCS6004,MEHNOOR KAUR,Male,22,92,79,CSE-1,8.49,7.54,7.74,7.35,8.91,7.37,8.93,8.05,661,C,Python,UI/UX,C,89.58,Software Development,Average,No
+20BCS6005,SHRISTY KAPISMAY,Female,20,86,93,CSE-1,7.21,7.78,7.29,7.65,8.67,8.3,8.86,7.97,813,UI/UX,Android,UI/UX,UI/UX,82.72,Machine Learning,Good,Yes
+20BCS6006,MITAKSHRA NIDHI,Male,21,97,76,CSE-1,8.34,7.92,8.39,7.32,8.33,7.88,7.59,7.97,550,UI/UX,DL,DL,UI/UX,96.53,Machine Learning,Bad,No
+20BCS6007,PRACHIKA PANWAR,Female,19,72,83,CSE-1,7.09,8.56,8.61,7,7.74,7.18,7.66,7.69,787,Android,C,C++,ML,91.12,Software Development,Good,No
+20BCS6008,JAHNAVI BAJAJ,Female,22,79,91,CSE-1,8.17,7.68,8.23,7.61,7.9,8.87,7.56,8,593,Backend,C++,C++,Backend,77.12,Software Development,Bad,No
+20BCS6009,SHAMA,Female,21,88,94,CSE-1,8.26,8.25,8.08,8.91,8.01,8.1,7.08,8.1,864,ML,Frontend,Backend,C++,96.36,Analyst,Excellent,Yes
+20BCS6010,SAKSHI SAHU,Female,22,84,95,CSE-1,8.73,8.3,7.15,7.43,7.02,8.16,8.05,7.83,837,Android,Frontend,DL,Python,88.02,Software Development,Excellent,Yes
+20BCS6011,HARMANJOT KAUR,Female,20,82,99,CSE-1,8.51,8.18,7.8,7.07,7.35,7.09,7.22,7.6,548,ML,C,UI/UX,C,71.37,Analyst,Bad,No
+20BCS6012,ADITYA GARG,Male,21,87,79,CSE-1,7.51,8.75,8.96,8.71,8.53,7.11,8.65,8.32,810,Frontend,Python,C,DL,97.65,Web-Dev,Good,Yes
+20BCS6013,HANNAH WILSON,Male,20,98,99,CSE-1,8.44,7.41,7.48,8.93,7.82,7.51,7,7.8,898,C,C,C,Frontend,82.1,Machine Learning,Excellent,Yes
+20BCS6014,NEHA BHANDARI,Female,21,94,93,CSE-1,8.37,8.59,8.78,8.92,7.11,7.1,7.79,8.09,854,ML,Full-Stack,Full-Stack,Full-Stack,77.58,Software Development,Excellent,Yes
+20BCS6015,LIPAKSHI,Male,21,72,79,CSE-1,7.74,8.35,7.73,8.91,8.6,7.32,8.95,8.23,695,Full-Stack,DL,Full-Stack,UI/UX,81.82,Analyst,Average,No
+20BCS6016,Uravashi bhadu,Male,22,84,82,CSE-1,7.35,7.37,7.25,7.35,8.4,8.45,7.98,7.74,918,Python,Python,Android,Frontend,83.76,Analyst,Excellent,Yes
+20BCS6017,CHHODON LAMO,Male,20,87,77,CSE-1,8.8,8,8.45,8.76,7.16,8.92,7.09,8.17,724,UI/UX,C,Backend,C++,91.65,Software Development,Average,No
+20BCS6018,JASPREET KAUR,Female,21,86,97,CSE-1,8.75,8.65,8.29,7.06,8.65,8.24,7.6,8.18,623,Android,C,ML,Python,90.12,Machine Learning,Average,No
+20BCS6019,TARANDEEP KAUR,Male,19,95,87,CSE-1,7.47,7.53,8.17,8.51,7.6,8.5,8.05,7.98,899,Android,Backend,Python,C++,91.84,Machine Learning,Excellent,Yes
+20BCS6020,AASHI,Male,19,71,92,CSE-1,8.66,7.87,7.82,8.78,8.8,7.16,7.48,8.08,732,C++,Frontend,Full-Stack,UI/UX,97.93,Analyst,Good,No
+20BCS6021,RANDHIR SINGH,Female,20,94,80,CSE-1,7.21,8.19,8.04,7.06,8.87,7.41,7.75,7.79,709,UI/UX,Python,C++,DL,70.42,Web-Dev,Average,No
+20BCS6022,Shambhavi,Female,21,92,95,CSE-1,7.48,7.14,7.44,7.7,7.26,8.91,7.3,7.6,932,DL,Full-Stack,Backend,Android,99.94,Software Development,Excellent,Yes
+20BCS6023,TUSHAR VERMA,Female,20,94,81,CSE-1,8.49,7.69,7.32,7.85,8.81,7.22,8.09,7.92,857,UI/UX,Android,Full-Stack,ML,77.74,Analyst,Excellent,Yes
+20BCS6024,PRASUN SARKAR,Male,22,74,79,CSE-1,8.2,8.24,7.55,7.94,8.21,8.74,8.97,8.26,856,Frontend,Full-Stack,Full-Stack,Android,71.4,Analyst,Excellent,Yes
+20BCS6025,APURVA SINGH,Male,21,76,98,CSE-1,8.31,7.86,8.07,7.1,7.4,8.57,8.34,7.95,858,ML,Full-Stack,C,C,94.42,Web-Dev,Excellent,Yes
+20BCS6026,SIMRANPRIT KAUR,Male,19,97,77,CSE-1,8.09,7.94,8.25,7.46,7.25,8.13,7.51,7.8,673,ML,C,DL,Frontend,82.87,Analyst,Average,No
+20BCS6027,ANKITA,Male,22,82,97,CSE-1,8.46,8.31,7.66,8.74,7.98,7.76,7.06,8,693,Backend,DL,Python,C,93.51,Analyst,Average,No
+20BCS6028,KAJAL RAGHAV,Female,21,89,98,CSE-1,7.59,7.44,7.01,7.04,7.59,7.28,7.31,7.32,805,Android,DL,UI/UX,C,99.33,Analyst,Good,Yes
+20BCS6029,Shradha Mishra,Female,21,70,95,CSE-1,8.24,7.91,8.44,7.43,8.25,7.76,7.51,7.93,605,Full-Stack,Frontend,Backend,Android,95.17,Analyst,Bad,No
+20BCS6030,SARTHAK,Male,21,85,86,CSE-1,7.8,8.42,8.35,8.87,8.13,7.58,7.86,8.14,711,Frontend,Backend,ML,Android,91.68,Web-Dev,Average,No
+20BCS6031,NITIKA,Female,19,98,83,CSE-1,8.63,7.81,8.67,7.74,8.95,8.13,8.32,8.32,545,ML,C,ML,DL,99.31,Web-Dev,Bad,No
+20BCS6032,TARUN VERMA,Female,21,85,77,CSE-1,8.81,8.11,8.89,8.49,7.81,7.6,7.94,8.24,588,DL,C++,Backend,DL,98.01,Software Development,Bad,No
+20BCS6033,SWETA KUMARI TIWARI,Female,20,80,82,CSE-1,8.34,8.66,8.8,7.92,8.44,7.44,8.73,8.33,633,Full-Stack,UI/UX,ML,ML,99.91,Software Development,Average,No
+20BCS6034,Isha Thakur,Female,21,86,97,CSE-1,7.41,8.34,8.68,8.13,8.17,7.23,7.47,7.92,771,Frontend,DL,C,DL,93.31,Web-Dev,Good,Yes
+20BCS6035,OINAM LOBELLIYA DEVI,Male,20,92,76,CSE-1,7.05,8.67,8.12,7.22,8.51,8.92,7.41,7.99,900,Python,C,Python,DL,80.17,Analyst,Excellent,Yes
+20BCS6036,AFSHAAN SHAFI,Male,21,90,81,CSE-1,7.27,7.86,7.4,8.38,7.23,8.69,8.54,7.91,885,Full-Stack,Python,Backend,ML,95.54,Web-Dev,Excellent,Yes
+20BCS6037,DEVIKA N,Female,20,88,94,CSE-1,7.64,8.43,8.37,8.06,7.18,8.38,8.9,8.14,724,C++,Python,Frontend,Backend,89.43,Web-Dev,Good,No
+20BCS6038,jaya verma,Male,19,88,83,CSE-1,7.84,7.16,7.38,8.49,8.23,7.2,8.43,7.82,531,Frontend,UI/UX,Frontend,UI/UX,86.55,Software Development,Bad,No
+20BCS6039,NEHA BHANDARI,Female,22,98,83,CSE-1,7.61,7.96,8.23,8.67,8.37,8.29,7.12,8.04,949,Android,Backend,ML,Backend,80.1,Web-Dev,Excellent,Yes
+20BCS6040,Manoj KUMAR Dewangan,Male,19,71,76,CSE-1,7.47,8.75,7.05,8.66,7.91,8.3,7.32,7.92,909,C++,Frontend,C,DL,91.31,Analyst,Excellent,Yes
+20BCS6041,SHALEENI BISWAS,Male,22,74,79,CSE-1,8.42,7.37,7.9,8.89,8.89,7.72,7.91,8.16,565,Android,UI/UX,C,C,79.98,Web-Dev,Bad,No
+20BCS6042,Tanish Duggal,Male,19,79,86,CSE-1,8.2,7.72,7.17,8,8.4,7.72,7.59,7.83,829,ML,C,ML,DL,79.39,Machine Learning,Good,Yes
+20BCS6043,VISHALI CHIB,Male,20,73,89,CSE-1,8.52,7.24,7.94,7.25,7.5,7.6,8.31,7.77,638,C,Full-Stack,Python,C,78.07,Analyst,Average,No
+20BCS6044,MEGHA LABBY,Male,20,93,98,CSE-1,7.79,8.33,8.05,8.32,8.04,8.83,7.02,8.05,576,C,UI/UX,UI/UX,Frontend,89.5,Analyst,Bad,No
+20BCS6045,PERUMANDLA Sri Harsha,Female,19,90,82,CSE-1,7.72,7.57,8.88,8.15,7.35,8.01,7.51,7.88,880,C++,Python,Python,ML,70.7,Web-Dev,Excellent,Yes
+20BCS6046,VINAYAK RAJPUT,Male,22,97,82,CSE-1,7.05,7.15,7.31,7.06,7.72,7.5,7.33,7.3,977,Full-Stack,DL,Android,Python,72.05,Web-Dev,Excellent,Yes
+20BCS6047,p prem sagar,Female,22,71,79,CSE-1,7.62,7.79,7.66,8.65,8.43,7.42,7.68,7.89,890,Backend,Backend,C,Python,81.81,Machine Learning,Excellent,Yes
+20BCS6048,SAKSHAM JAMWAL,Female,22,70,90,CSE-1,8.65,8.77,8.31,7.63,8.51,7.58,7.5,8.14,551,Python,Backend,Full-Stack,Full-Stack,87.18,Software Development,Bad,No
+20BCS6049,REECHA GULERIA,Female,19,74,77,CSE-1,7.64,8.47,8.09,7.71,8.51,7.17,8.59,8.03,911,Python,Frontend,Python,UI/UX,86.01,Web-Dev,Excellent,Yes
+20BCS6050,JYOTI,Female,21,82,99,CSE-1,7.71,8.06,7.52,8.07,8.16,7.95,8.99,8.07,896,Backend,Python,Frontend,DL,73.73,Machine Learning,Excellent,Yes
+20BCS6051,HARMANPREET SINGH DHINGRA,Female,21,94,97,CSE-2,8.21,7.3,8.79,8.78,8.01,8.54,7.29,8.13,757,DL,C++,DL,DL,84.82,Machine Learning,Good,Yes
+20BCS6052,MOHIT KAUSHIK,Female,19,95,99,CSE-2,7.44,7.17,8.01,8.14,8.95,7.74,8.6,8.01,675,Frontend,UI/UX,Frontend,Backend,73.33,Analyst,Average,No
+20BCS6053,Shivangi Kalia,Male,19,88,85,CSE-2,7.18,8.48,7.15,7.69,8.53,8.5,8.55,8.01,861,ML,UI/UX,Frontend,Full-Stack,79.68,Analyst,Excellent,Yes
+20BCS6054,DEVARENJINI R,Male,19,92,77,CSE-2,8.49,7.47,8.06,7.46,7.35,8.74,7.58,7.88,679,Python,Backend,Python,C++,87.2,Software Development,Average,No
+20BCS6055,NUPUR NAGAR,Female,21,87,87,CSE-2,7.67,7.68,7.22,7.6,7.15,7.03,8.79,7.59,688,C,DL,Frontend,Full-Stack,76.89,Machine Learning,Average,No
+20BCS6056,AKANKSHA RAI,Female,20,97,99,CSE-2,7.3,8.29,7.58,7.13,8.02,8.04,7.18,7.65,572,Frontend,Python,UI/UX,DL,83.07,Analyst,Bad,No
+20BCS6057,GUNTAASH SINGH BRAR,Female,22,79,87,CSE-2,7.92,8,7.61,8.68,8.71,8.36,7.1,8.05,732,ML,Backend,Python,Frontend,98.38,Software Development,Good,No
+20BCS6058,VINAY KAUSHIK,Male,22,98,96,CSE-2,7.46,7.72,8.08,7.02,8.79,7.58,7.26,7.7,826,Full-Stack,UI/UX,Backend,Backend,83.41,Machine Learning,Excellent,Yes
+20BCS6059,DIVYA SHARMA,Male,22,77,99,CSE-2,8.92,7.86,7.84,8.54,8.39,8.46,7.39,8.2,984,C,Backend,C++,C,78.89,Software Development,Excellent,Yes
+20BCS6060,Ashish Dhull,Male,22,75,95,CSE-2,8.56,8.71,8.71,8.89,7.59,7.37,7.24,8.15,604,Full-Stack,Full-Stack,Android,ML,79.83,Web-Dev,Bad,No
+20BCS6061,SACHIN KUMAR GUPTA,Female,20,76,96,CSE-2,7.42,8.89,8.21,7.6,8.56,7.68,7.55,7.99,998,UI/UX,ML,C,Backend,93.33,Machine Learning,Excellent,Yes
+20BCS6062,HARDIK SHARMA,Male,19,94,86,CSE-2,8.29,7.11,7.75,7.75,8.28,8.66,7.6,7.92,848,UI/UX,Frontend,Android,ML,86.69,Machine Learning,Excellent,Yes
+20BCS6063,NIHARIKA THAKUR,Male,19,82,90,CSE-2,7.03,7.06,8.22,8.99,8.86,7.69,7.24,7.87,855,Backend,ML,DL,C,81.67,Software Development,Excellent,Yes
+20BCS6064,ANKIT KUMAR,Male,22,77,90,CSE-2,8.91,7.97,8.84,8.83,7.94,8.43,8.55,8.5,599,Python,Android,Backend,Frontend,86.3,Web-Dev,Bad,No
+20BCS6065,KARANDEEP ,Female,22,74,92,CSE-2,8.59,8.68,7.75,7.95,8.78,7.88,8.94,8.37,731,DL,Frontend,Frontend,DL,87.82,Machine Learning,Good,No
+20BCS6066,MEHAK BUDHIRAJA,Male,20,73,97,CSE-2,7.11,7.61,8.32,8.09,7.54,7.12,8.27,7.72,527,DL,Frontend,Full-Stack,C,77.9,Software Development,Bad,No
+20BCS6067,PRINCE,Male,20,98,97,CSE-2,8.48,8.4,7.72,8.12,8.45,7.42,7.19,7.97,550,UI/UX,DL,Frontend,Python,84.24,Web-Dev,Bad,No
+20BCS6068,YASHIKA SAINI,Male,21,75,85,CSE-2,8.81,7.81,7.28,8.52,7.08,7.13,8.45,7.87,770,Android,Full-Stack,Backend,Backend,91.65,Web-Dev,Good,No
+20BCS6069,HARMAN,Male,21,88,92,CSE-2,7.33,7.48,7.86,8.48,8.32,8.38,7.17,7.86,729,Python,C++,Full-Stack,Android,96.12,Machine Learning,Good,No
+20BCS6070,TUSHAR SINGH BHATI,Female,22,83,92,CSE-2,8.24,8.45,8.05,8.61,8.79,7.7,8.02,8.27,653,C,C++,Android,Full-Stack,75.06,Machine Learning,Average,No
+20BCS6071,ANUPEKSHA,Male,20,87,96,CSE-2,8.02,8.98,8.63,8.77,7.86,7.29,7.22,8.11,820,UI/UX,DL,Python,C++,97.06,Analyst,Excellent,Yes
+20BCS6072,ANJNA DEVI,Male,22,83,89,CSE-2,8.25,7.46,7.73,8.57,8.65,8,8.21,8.12,788,UI/UX,Python,ML,Frontend,97.47,Software Development,Good,Yes
+20BCS6073,MONIKA,Female,19,70,87,CSE-2,7.53,7.55,7.5,8.62,8.56,7.06,8.76,7.94,992,ML,Backend,Python,UI/UX,70.58,Web-Dev,Excellent,Yes
+20BCS6074,HARPREET KAUR,Female,20,82,95,CSE-2,7.72,7.06,8.59,8.27,8.16,8.42,8.86,8.15,607,UI/UX,Frontend,Android,ML,93.57,Software Development,Bad,No
+20BCS6075,gurpreet,Female,20,89,76,CSE-2,8.12,8.38,8.01,7.36,8.3,8.27,7.61,8.01,544,DL,C++,Backend,Backend,85.46,Web-Dev,Bad,No
+20BCS6076,AMAN KUMAR,Male,19,72,99,CSE-2,8.23,8.9,7.18,8.83,8.95,7.34,7.99,8.2,897,UI/UX,DL,Full-Stack,Backend,80.64,Software Development,Excellent,Yes
+20BCS6077,MANAS SHERRY,Female,22,75,92,CSE-2,8.56,8.13,7.23,8.99,8.78,7.89,7.08,8.09,839,ML,Python,Android,UI/UX,76.46,Web-Dev,Excellent,Yes
+20BCS6078,PRIYANKA SHARMA,Male,20,81,95,CSE-2,7.37,8.81,7.36,7.43,7.42,8.16,7.22,7.68,645,C++,Backend,Android,C,98.12,Software Development,Average,No
+20BCS6079,HEMANT,Female,20,90,89,CSE-2,7.91,8.2,7.09,8.17,7.98,7.21,7.23,7.68,704,Python,Python,Full-Stack,DL,77.43,Analyst,Average,No
+20BCS6080,ASHUTOSH RANJAN,Male,21,93,80,CSE-2,7.89,8.53,8.27,7.7,7.45,8.14,8.9,8.13,582,UI/UX,UI/UX,UI/UX,C++,75.67,Web-Dev,Bad,No
+20BCS6081,ASHISH VERMA,Female,20,75,89,CSE-2,8.97,8.38,7.17,7.05,7.06,8.24,8.17,7.86,558,Android,ML,Full-Stack,Python,97.78,Machine Learning,Bad,No
+20BCS6082,ANJALI SINGH,Male,20,81,80,CSE-2,8.29,7.88,8.97,8.04,8.2,8.8,8.81,8.43,803,UI/UX,Android,ML,Android,70.37,Analyst,Good,Yes
+20BCS6083,PRATHAM ARORA,Female,20,92,83,CSE-2,8.3,8.3,8.23,7.68,7.88,8.97,7.6,8.14,936,Frontend,Backend,Full-Stack,C++,79.95,Analyst,Excellent,Yes
+20BCS6084,MADHU MANHAS,Male,21,89,81,CSE-2,7.62,8.37,8.84,8.02,7.39,7.46,8.07,7.97,734,Python,Android,Android,Backend,84.5,Machine Learning,Good,No
+20BCS6085,RITIKA SHARMA,Male,21,85,96,CSE-2,8.19,8.62,7.35,8.76,8.41,8.82,8.7,8.41,607,C,Python,Python,Full-Stack,82,Machine Learning,Bad,No
+20BCS6086,Deepak chandel,Male,22,71,90,CSE-2,8.78,8.36,7.06,8.95,8.91,7.98,8.47,8.36,847,Backend,ML,DL,DL,91.09,Analyst,Excellent,Yes
+20BCS6087,Parul Sharma,Female,22,88,82,CSE-2,8.55,7.02,7.57,8.37,7.8,8.82,8.01,8.02,898,Python,Full-Stack,Full-Stack,C,77.22,Machine Learning,Excellent,Yes
+20BCS6088,MONIKA THAKUR,Male,21,99,80,CSE-2,8.95,8.68,7.86,7.02,8.36,8.71,8.7,8.33,680,Full-Stack,Backend,DL,C++,80.21,Web-Dev,Average,No
+20BCS6089,ANUBHAV SINGH,Male,21,83,75,CSE-2,7.48,7.93,7.81,8.52,7.21,7.17,8.43,7.79,975,C++,UI/UX,UI/UX,C++,86,Analyst,Excellent,Yes
+20BCS6090,Manisha Pattnaik,Female,21,73,98,CSE-2,8.13,8.49,8.37,8.03,7.46,7.27,7.28,7.86,891,Android,UI/UX,Python,C++,88.76,Web-Dev,Excellent,Yes
+20BCS6091,SANCHIT SHARMA,Female,21,96,78,CSE-2,8.94,8.61,7.32,7.29,8.48,7.56,7.47,7.95,678,Backend,C++,C++,UI/UX,84.83,Web-Dev,Average,No
+20BCS6092,ALINA RAI,Female,22,82,83,CSE-2,7.87,8.27,7.14,7.11,7.71,7.02,8.11,7.6,765,Python,DL,ML,DL,88.74,Software Development,Good,No
+20BCS6093,KOMAL SHARMA,Female,19,95,84,CSE-2,7.45,7.74,8.56,7.52,7.42,7.51,8.21,7.77,942,Frontend,ML,C,DL,87.26,Machine Learning,Excellent,Yes
+20BCS6094,PRIYA KUMARI,Male,22,80,98,CSE-2,8.94,7.52,7.57,7.62,7.2,8.38,7.19,7.77,801,Android,Backend,Frontend,Frontend,81.22,Analyst,Good,Yes
+20BCS6095,Dilshad Nagpal,Female,22,75,89,CSE-2,7.93,7.96,8.23,8.83,7.17,7.71,7.57,7.91,674,Python,Python,UI/UX,Full-Stack,75.42,Software Development,Average,No
+20BCS6096,MUSKAN MEHRA,Female,22,96,82,CSE-2,8.45,7.25,7.13,8.1,8.42,7.06,8.9,7.9,538,UI/UX,C++,DL,C,91.28,Web-Dev,Bad,No
+20BCS6097,HRITIKA RAI,Male,21,81,96,CSE-2,7.71,8.71,7.21,8.13,8.49,8.49,8.99,8.25,737,C,DL,DL,Full-Stack,87.43,Software Development,Good,No
+20BCS6098,MUKESH KUMAR CHOUDHARY,Female,19,80,92,CSE-2,7.29,8.88,8.74,8.76,7.81,8.69,7.84,8.29,591,ML,C,Android,C,82.82,Machine Learning,Bad,No
+20BCS6099,Ria potan,Male,20,82,96,CSE-2,8.2,7.49,7.49,9,7.93,8.21,8.3,8.09,725,ML,Python,Python,UI/UX,78.75,Machine Learning,Good,No
+20BCS6100,RAHUL MALIK,Female,19,84,75,CSE-2,7.76,8.61,7.63,8.74,7.69,8.91,7.1,8.06,681,DL,Frontend,Frontend,DL,92.43,Web-Dev,Average,No
+20BCS6101,RITESH CHAUHAN,Female,22,77,85,CSE-3,7.61,7.43,8.7,8.68,8.21,8.55,8.18,8.19,829,C++,Python,C++,UI/UX,71.69,Machine Learning,Good,Yes
+20BCS6102,REETIKA,Male,20,91,84,CSE-3,7.81,7.31,7.46,8.14,8.39,8.8,8.62,8.08,881,Full-Stack,Python,Frontend,C++,85.93,Software Development,Excellent,Yes
+20BCS6103,Rohan kumar,Male,20,73,90,CSE-3,8.5,8.74,8.36,8.19,8.47,7.52,7.81,8.23,776,DL,DL,Backend,Backend,84.39,Machine Learning,Good,No
+20BCS6104,Bhaskar Verma,Male,19,99,87,CSE-3,7.06,8.75,7.53,8.96,8.51,7.43,8.18,8.06,640,DL,ML,ML,Frontend,78.1,Machine Learning,Average,No
+20BCS6105,ANCHIT KOUR,Male,21,93,85,CSE-3,7.63,7.53,7.9,7.09,7.62,7.73,7.15,7.52,650,C++,C++,C++,C++,71.75,Machine Learning,Average,No
+20BCS6106,parul,Female,21,85,85,CSE-3,8.06,8.37,8.72,8.39,7.75,7.38,7.74,8.06,661,Backend,Full-Stack,Python,Frontend,97.72,Web-Dev,Average,No
+20BCS6107,SHIVANI,Male,20,70,89,CSE-3,8.58,7.86,7.12,7.96,8.59,7.52,8.83,8.07,786,ML,Frontend,Full-Stack,Android,91.22,Web-Dev,Good,Yes
+20BCS6108,BUNTY KUMAR,Male,20,98,93,CSE-3,7.46,7.34,8.02,7.46,8.5,7.88,8.52,7.88,559,Full-Stack,DL,C,Backend,71.42,Software Development,Bad,No
+20BCS6109,AKSHAY KUMAR,Female,21,91,75,CSE-3,7.27,8.13,7.82,7.13,8.23,7.2,8.48,7.75,856,Full-Stack,C++,Frontend,UI/UX,88.09,Software Development,Excellent,Yes
+20BCS6110,NANCY MALIK,Male,21,72,91,CSE-3,7.64,7.07,7.01,8.18,8,7.99,8.39,7.75,699,Full-Stack,DL,DL,C++,96.27,Analyst,Average,No
+20BCS6111,Teena Yadav,Male,20,79,85,CSE-3,8.87,8.27,8.74,8.78,7.2,8.13,7.89,8.27,585,DL,Python,ML,DL,71.01,Machine Learning,Bad,No
+20BCS6112,PARSHANT KUMAR,Female,21,99,80,CSE-3,7.06,8.11,7.02,8.3,8.97,7.4,7.9,7.82,742,UI/UX,Full-Stack,C,C++,80.62,Web-Dev,Good,No
+20BCS6113,HARMANJOT KAUR,Female,19,95,76,CSE-3,8.58,8.07,7.21,8.15,8.78,7.28,8.12,8.03,935,Full-Stack,UI/UX,ML,Android,90.32,Analyst,Excellent,Yes
+20BCS6114,RAJ KUMAR,Male,19,84,79,CSE-3,7.39,7.09,7.62,8.12,8.43,8.16,8.87,7.95,804,Python,Python,C,Python,95.3,Analyst,Good,Yes
+20BCS6115,Bitophen Chakraborty,Male,22,85,86,CSE-3,7.35,8.33,7.2,7.92,7.91,8.57,7.27,7.79,904,ML,UI/UX,DL,Python,95.03,Software Development,Excellent,Yes
+20BCS6116,KHUSHMEEN KAUR,Male,19,70,80,CSE-3,7.33,7.75,7.3,7.3,8.68,7.3,7.29,7.56,574,DL,Android,Full-Stack,C++,97.3,Software Development,Bad,No
+20BCS6117,SMRITI,Male,19,86,99,CSE-3,8.17,7.29,8.87,8.34,8.36,7.9,7.94,8.12,840,Android,Android,Android,Frontend,87.65,Web-Dev,Excellent,Yes
+20BCS6118,GURBIR SINGH,Male,20,94,80,CSE-3,7.33,8.74,8.53,7.98,8.46,7.05,7.08,7.88,664,C,DL,C++,Android,84.2,Analyst,Average,No
+20BCS6119,NITESH NARWAL,Male,20,88,91,CSE-3,8.14,7.41,7.15,8.84,8.81,7.59,7.74,7.95,610,UI/UX,C++,Frontend,ML,72.89,Web-Dev,Bad,No
+20BCS6120,Rohit Thakur,Female,21,70,87,CSE-3,8.39,7.55,8.96,7.43,8.06,7.27,7.65,7.9,790,Frontend,Android,ML,ML,78.83,Web-Dev,Good,Yes
+20BCS6121,RAMAN,Male,19,99,99,CSE-3,7.75,8.86,7.4,7.44,8.84,7.61,7.42,7.9,714,DL,Android,ML,C++,88.1,Analyst,Good,No
+20BCS6122,SUSHMA,Male,21,82,84,CSE-3,8.8,7.65,8.4,7.44,7,7.56,8.48,7.9,655,C,Full-Stack,Android,C++,91.79,Machine Learning,Average,No
+20BCS6123,Ritik Raj,Male,21,87,87,CSE-3,8.31,8.27,8.39,7.45,7.99,7.46,8.15,8,843,Backend,DL,ML,DL,92.4,Software Development,Excellent,Yes
+20BCS6124,Vikas jakhar,Female,22,93,94,CSE-3,7.09,8.74,7.1,7.18,8.75,7.55,8.34,7.82,721,UI/UX,ML,Backend,C++,77.56,Software Development,Good,No
+20BCS6125,NEHA BHALLA,Male,20,87,83,CSE-3,7.84,8.82,7.09,8.06,8.31,8.23,7.81,8.02,843,Full-Stack,Python,Backend,Python,80.66,Analyst,Excellent,Yes
+20BCS6126,Arti,Female,21,77,80,CSE-3,7.76,8.16,8.63,8.05,8.17,7.13,8.29,8.03,618,Android,DL,DL,Backend,79,Machine Learning,Bad,No
+20BCS6127,ROKHANULDIN HILAL,Female,22,72,85,CSE-3,8.42,7.75,8.58,8.59,8.19,8.5,8.2,8.32,791,C++,Full-Stack,C,C,92.65,Analyst,Good,Yes
+20BCS6128,NAVEEN KUMAR,Female,22,79,82,CSE-3,8.64,7.44,7.45,8.28,8.85,7.82,7.75,8.03,534,C,C++,UI/UX,Frontend,78.52,Software Development,Bad,No
+20BCS6129,RISHABH RAJ,Female,22,97,77,CSE-3,8.23,8.6,8.68,7.75,7.61,8.04,7.12,8,588,Python,Full-Stack,C++,ML,71.62,Web-Dev,Bad,No
+20BCS6130,SPARSH KUMAR,Male,22,81,82,CSE-3,8.79,7.71,7.6,8.57,8.05,7.65,7.52,7.98,634,Frontend,Android,C,Python,77.4,Web-Dev,Average,No
+20BCS6131,SHIVANSHU SHARMA,Male,20,90,92,CSE-3,7.25,7.08,8.28,7.91,8.81,7.61,7.71,7.81,593,Frontend,C++,Backend,Full-Stack,98.64,Analyst,Bad,No
+20BCS6132,ISHIKA,Male,20,91,99,CSE-3,7.74,8.72,8.1,7.47,7.12,8.96,8.07,8.03,651,Frontend,C,Python,C,87.69,Web-Dev,Average,No
+20BCS6133,Avinash kumar,Male,21,87,86,CSE-3,8.92,8.32,8.73,8.71,7.49,8.07,7.53,8.25,838,Frontend,Backend,Python,Python,86.02,Machine Learning,Excellent,Yes
+20BCS6134,ABHINAV SAHU,Female,21,76,81,CSE-3,7.31,8.26,8.44,7.15,8.83,7.57,8.93,8.07,914,DL,Frontend,UI/UX,ML,93.99,Machine Learning,Excellent,Yes
+20BCS6135,BIBHUPRASAD NAYAK,Female,19,81,90,CSE-3,7.52,7.29,7.54,7.69,8.91,8.94,7.99,7.98,537,Android,ML,DL,Python,76.01,Analyst,Bad,No
+20BCS6136,SABINA,Female,19,94,80,CSE-3,7.36,7.75,7.31,8.85,7.05,7.21,7.99,7.65,926,C++,DL,C++,Android,96.22,Software Development,Excellent,Yes
+20BCS6137,POOJA,Female,22,72,99,CSE-3,7.38,8.44,7.77,8.04,8.8,8.52,7.39,8.05,880,DL,UI/UX,UI/UX,Backend,86.53,Machine Learning,Excellent,Yes
+20BCS6138,JOBANPREET SINGH,Male,19,93,76,CSE-3,8.17,7.76,8.93,7.21,7.12,7.1,7.29,7.65,753,ML,DL,C++,ML,71.55,Analyst,Good,No
+20BCS6139,ANJALI,Female,20,82,82,CSE-3,7.08,8.5,8.8,8.44,8.68,7.84,8.59,8.28,974,Android,UI/UX,UI/UX,DL,89.78,Analyst,Excellent,Yes
+20BCS6140,RAMKRISHNA KHAN,Female,22,82,94,CSE-3,7.9,7.24,7.86,7.49,8.4,8.41,8.03,7.9,933,Full-Stack,Android,Android,C++,73.51,Web-Dev,Excellent,Yes
+20BCS6141,ABHISHEK SHARMA,Male,20,85,86,CSE-3,7.39,7.68,7.18,8.39,8.4,8.52,7.37,7.85,894,C++,C,Backend,Backend,89.65,Analyst,Excellent,Yes
+20BCS6142,DIPTIRTHA CHATTERJEE,Female,20,93,97,CSE-3,8.73,8.87,7.43,8.47,7.22,7,7.83,7.94,697,Frontend,Full-Stack,Backend,Android,77.84,Software Development,Average,No
+20BCS6143,RAJEEV KUMAR,Male,22,85,86,CSE-3,7.27,7.96,7.88,7.18,8.69,7.06,8.89,7.85,579,C,UI/UX,Backend,Frontend,99.14,Analyst,Bad,No
+20BCS6144,Jhanvi choudhary,Male,20,96,78,CSE-3,7.5,8.94,8.61,7.78,7.21,8.74,7.08,7.98,622,Android,C,Android,Backend,76.34,Web-Dev,Average,No
+20BCS6145,Hardik Wadhwa,Female,19,76,90,CSE-3,8.07,7.78,7.05,8.87,7.57,8.37,7.23,7.85,548,Android,C,Full-Stack,DL,73.28,Software Development,Bad,No
+20BCS6146,Pandravada sri venkata Rajaram akhil,Female,22,70,91,CSE-3,8.61,7.9,7.68,8.52,8.21,7.24,7.35,7.93,771,C,C,Android,C,77.3,Web-Dev,Good,No
+20BCS6147,AMOL BARWAL,Female,20,74,86,CSE-3,8.47,7.03,7.76,7.93,7.21,7.69,7.39,7.64,995,ML,ML,Android,Full-Stack,75.17,Software Development,Excellent,Yes
+20BCS6148,MOHAMMAD TARIQ ANSARI,Male,20,73,88,CSE-3,8.3,8.92,7.96,8.77,7.41,8.46,8.71,8.36,706,Full-Stack,Backend,Frontend,DL,83.24,Analyst,Average,No
+20BCS6149,THAKUR NIMESH SURESH,Female,21,91,93,CSE-3,8.6,7.32,7.14,8.45,7.9,7.63,8.94,8,757,Backend,C++,UI/UX,Backend,94.99,Analyst,Good,No
+20BCS6150,Harsh Raj,Male,19,95,83,CSE-4,8.1,8.88,7.13,8.64,8.21,7.34,8.15,8.06,947,C,DL,Frontend,Frontend,95.81,Analyst,Excellent,Yes
+20BCS6151,ANKIT  CHAHAL,Female,22,93,75,CSE-4,7.15,8.15,7.59,7.52,7.73,8.58,7.19,7.7,684,C,C,Frontend,Python,79.29,Software Development,Average,No
+20BCS6152,ANAND VISHWAKARMA ,Male,21,80,86,CSE-4,8.12,7.83,8.91,7.73,7.54,8.38,8.98,8.21,526,Full-Stack,UI/UX,Backend,Full-Stack,81.15,Web-Dev,Bad,No
+20BCS6153,Arshad Ahamad,Male,19,96,87,CSE-4,8.77,8.22,7.75,8.78,7.69,8.24,8.82,8.32,682,ML,ML,C,Backend,74.79,Analyst,Average,No
+20BCS6154,Shivam Sharma,Female,19,86,86,CSE-4,7.35,7.54,8.17,8.61,8.43,8.16,8.4,8.09,706,C++,C,C,Full-Stack,94.2,Analyst,Average,No
+20BCS6155,Pushpalata,Female,19,92,93,CSE-4,7.27,8.51,7.14,8.9,7.77,8.38,8.25,8.03,909,Full-Stack,C,ML,Backend,91.39,Web-Dev,Excellent,Yes
+20BCS6156,Joydeb Debnath,Male,19,99,92,CSE-4,7.66,8.85,7.54,7.38,7.93,7.38,8.63,7.91,813,DL,C++,DL,Python,80.67,Machine Learning,Excellent,Yes
+20BCS6157,RITIKA ,Female,22,83,98,CSE-4,8.36,7.03,7.99,8.06,8.23,8.25,8.11,8,568,UI/UX,C++,Python,UI/UX,98.73,Machine Learning,Bad,No
+20BCS6158,ALEKH SINGH,Female,21,87,93,CSE-4,7.38,7.82,7.5,8.63,7.54,8.97,7.94,7.97,988,Android,Python,C,Python,86.26,Analyst,Excellent,Yes
+20BCS6159,PRADIP KUMAR,Female,22,87,89,CSE-4,7.96,7.25,7.76,7.49,7.04,8.45,7.59,7.65,969,C++,C++,Python,DL,83.05,Machine Learning,Excellent,Yes
+20BCS6160,GYANESHWAR SINGH,Male,22,86,83,CSE-4,7.84,7.25,8.44,8.99,7.31,8.81,8.52,8.17,507,C++,C,ML,ML,94.98,Web-Dev,Bad,No
+20BCS6161,RIDHAMKUMAR DIPAKBHAI NAIK,Male,22,96,75,CSE-4,7.43,7.22,7.13,8.23,7.73,7.28,8.22,7.61,614,Android,C++,Backend,C++,85.42,Web-Dev,Bad,No
+20BCS6162,SANJANA DUA,Female,20,99,92,CSE-4,8.72,7.98,8.23,7.49,7.75,7.62,7.52,7.9,675,Python,UI/UX,C++,C++,82.05,Software Development,Average,No
+20BCS6163,DEEPANKAR SHARMA,Female,19,81,81,CSE-4,7.41,8.19,7.9,7.47,8.95,8.48,7.76,8.02,539,Full-Stack,Python,C,C++,97.68,Software Development,Bad,No
+20BCS6164,AYUSH MEHTA,Male,20,88,99,CSE-4,7.06,8.41,8.02,8.63,7.46,7.16,8.26,7.86,791,Backend,UI/UX,Frontend,DL,79.27,Machine Learning,Good,Yes
+20BCS6165,Harleen Kaur,Female,20,91,86,CSE-4,8.22,7.34,7.37,8.06,8.03,8.93,7.28,7.89,720,Full-Stack,Python,ML,Frontend,81.86,Analyst,Good,No
+20BCS6166,PARMPREET SINGH,Female,19,94,85,CSE-4,8.82,8.08,7.8,8.99,7.5,8.45,7.41,8.15,527,DL,C++,Python,Backend,71.69,Web-Dev,Bad,No
+20BCS6167,LALIT KOOLWAL,Female,21,76,99,CSE-4,8.99,7.61,8.61,7.35,8.12,8.83,8.62,8.3,699,Android,DL,Backend,UI/UX,77.59,Analyst,Average,No
+20BCS6168,ANSHUMAN SHARMA,Female,21,98,93,CSE-4,8.19,8.86,7.25,8.68,8.95,7.18,7.16,8.04,798,Full-Stack,Frontend,C,UI/UX,73.95,Web-Dev,Good,Yes
+20BCS6169,ABHINAV CHOWDHURY,Male,19,76,77,CSE-4,7.68,7.44,7.83,8.7,8.77,8.42,8.8,8.23,546,Android,Python,C++,Android,87.97,Web-Dev,Bad,No
+20BCS6170,MANISH KHEMANI,Female,21,87,82,CSE-4,8.49,8.35,8.53,7.93,8.82,7.6,8.6,8.33,672,Backend,Python,C,UI/UX,86.77,Analyst,Average,No
+20BCS6171,ANIKET TRIBEDI,Female,19,76,84,CSE-4,8.72,7.76,8.84,7.99,7.24,7.27,7.77,7.94,593,C++,C,Android,Full-Stack,90.37,Web-Dev,Bad,No
+20BCS6172,AVIK BHATTACHARYA,Male,19,98,88,CSE-4,7.11,7.59,7.89,7.79,7.28,8.35,8.34,7.76,512,Backend,DL,Backend,Backend,85.08,Machine Learning,Bad,No
+20BCS6173,MAYANK VERMA,Female,20,76,89,CSE-4,8.3,7.24,7.9,8.63,7.9,7.51,8.17,7.95,908,Frontend,Backend,C,DL,85.37,Web-Dev,Excellent,Yes
+20BCS6174,RAHUL VERMA ,Male,22,91,75,CSE-4,7.92,8.07,8.61,7.17,8.76,8.83,7.8,8.17,714,Full-Stack,ML,UI/UX,DL,89.4,Analyst,Average,No
+20BCS6175,JAIRATH MEHRA,Female,20,93,95,CSE-4,7.61,8.43,7.33,8.07,8.09,8.11,8.3,7.99,669,UI/UX,C++,Python,UI/UX,98.79,Machine Learning,Average,No
+20BCS6176,SAKSHI ARORA,Male,21,84,81,CSE-4,8.07,7.32,8.97,7.57,7.27,7.58,7.56,7.76,532,ML,DL,Python,Backend,92.44,Software Development,Bad,No
+20BCS6177,AKHILESH RUHELA,Female,20,91,83,CSE-4,8.85,7.67,8.75,7.92,8.48,7.31,7.78,8.11,946,Backend,Android,Full-Stack,Android,91.12,Machine Learning,Excellent,Yes
+20BCS6178,Amodhni Gupta,Female,19,98,83,CSE-4,8.58,8.99,8.61,7.9,7.28,8.38,7.88,8.23,790,Frontend,Frontend,UI/UX,C,81.59,Web-Dev,Good,Yes
+20BCS6179,GAURAV THAKUR,Male,20,92,82,CSE-4,7.94,8.07,8.12,8.37,7.71,7.05,8.94,8.03,916,UI/UX,Backend,UI/UX,C,89.54,Software Development,Excellent,Yes
+20BCS6180,PRABLEEN KAUR,Male,20,76,83,CSE-4,7.8,7.08,7.62,8.47,7.28,8.61,7.04,7.7,772,ML,Backend,Full-Stack,Python,70.66,Software Development,Good,No
+20BCS6181,DIVYANK SANDHU,Male,19,83,82,CSE-4,8.06,7.4,7.82,8.07,7.8,8.04,7.79,7.85,674,UI/UX,Full-Stack,Python,C,81.71,Analyst,Average,No
+20BCS6182,SAMIR ALAM,Female,21,80,97,CSE-4,7.14,8.06,7.74,7.51,8.26,9,7.93,7.95,840,Android,Python,Full-Stack,C++,93.62,Web-Dev,Excellent,Yes
+20BCS6183,RISHAB SAINI,Male,20,76,92,CSE-4,8.45,8.95,8.09,7.99,8.96,7.11,7.84,8.2,806,UI/UX,DL,Python,Python,84.07,Web-Dev,Good,Yes
+20BCS6184,SUMMAYA KHAN,Female,20,96,85,CSE-4,7.88,8.3,7.14,8.65,7.64,8.7,8.06,8.05,886,DL,C,Frontend,Full-Stack,74.2,Software Development,Excellent,Yes
+20BCS6185,ANANDHA KRISHNAN U,Female,21,92,83,CSE-4,8.94,8.22,7.57,7.81,7.12,8.73,8.32,8.1,868,Frontend,Backend,ML,Python,78.54,Machine Learning,Excellent,Yes
+20BCS6186,MUZEEB UR REHMAN,Female,22,71,96,CSE-4,8.32,8.48,7.35,7.48,7.18,8.65,8.17,7.95,998,Python,Backend,Android,Android,73.03,Machine Learning,Excellent,Yes
+20BCS6187,TANZEER KHAN,Male,19,74,79,CSE-4,7.15,8.98,8.12,7.97,7.57,8,7.79,7.94,677,ML,Backend,ML,Android,71.05,Web-Dev,Average,No
+20BCS6188,SHAURYA,Male,22,83,80,CSE-4,8.46,7.93,8.27,7.38,8.48,8.73,8.24,8.21,626,ML,Android,Backend,Android,80.94,Web-Dev,Bad,No
+20BCS6189,SAHIL KUMAR,Male,20,71,97,CSE-4,8.37,8.4,7.45,7.11,7.86,7.77,7.34,7.76,760,DL,ML,Python,C,84.22,Analyst,Good,No
+20BCS6190,BALARAM SASMAL,Female,20,81,89,CSE-4,7.65,8.98,8.72,8.06,7.91,7.02,8.74,8.15,568,Android,Android,Android,Backend,80.37,Machine Learning,Bad,No
+20BCS6191,Muskan Parihar,Female,20,81,75,CSE-4,8.85,7.05,7.69,8.12,8.64,8.82,7.65,8.12,559,Frontend,Full-Stack,Backend,ML,73.71,Software Development,Bad,No
+20BCS6192,ARSHPREET SINGH,Male,20,93,82,CSE-4,8.32,7.4,7.49,7.07,7.35,8.06,8.15,7.69,994,UI/UX,Full-Stack,C++,Full-Stack,79.88,Analyst,Excellent,Yes
+20BCS6193,S M  NEYAZ  AHMAD,Female,19,83,82,CSE-4,8.57,8.5,8.49,7.63,8.71,8.81,8.67,8.48,805,UI/UX,Backend,ML,DL,91.27,Machine Learning,Good,Yes
+20BCS6194,JAY PRAJAPATI,Female,20,96,95,CSE-4,8.86,7.07,7.48,7.04,7.62,8.47,8.98,7.93,860,C,Python,UI/UX,C++,72.23,Machine Learning,Excellent,Yes
+20BCS6195,ANMOL MARWAH,Male,21,86,77,CSE-4,7.69,7.96,8.12,7.95,7.97,8.73,8.4,8.12,671,DL,Full-Stack,Full-Stack,ML,83.74,Machine Learning,Average,No
+20BCS6196,SURAJ KUMAR,Female,20,83,98,CSE-4,7.53,8.21,8.98,8.72,7.54,8.39,7.5,8.12,809,C++,C++,Backend,Frontend,91.06,Web-Dev,Good,Yes
+20BCS6197,VANSHIKA LAMBA,Male,20,73,77,CSE-4,8.32,7.27,8.28,7.37,7.72,8.65,8.94,8.08,799,C,ML,Full-Stack,C++,72.98,Analyst,Good,Yes
+20BCS6198,YASH LOBRA ,Male,20,75,94,CSE-4,8.89,7.8,7.64,7.59,8.09,7.62,8.79,8.06,598,C++,C++,ML,Full-Stack,85.35,Machine Learning,Bad,No
+20BCS6199,JASMINE SAHNI,Male,21,74,93,CSE-4,7.17,8.3,7.14,7.05,7.35,7.75,7.63,7.48,799,C++,Backend,Full-Stack,ML,77.66,Web-Dev,Good,Yes
+20BCS6200,GURKIRAT SINGH,Female,22,89,79,CSE-5,7.12,8.87,7.14,7.63,7.98,7.42,7.59,7.68,616,ML,Python,DL,Android,93.04,Web-Dev,Bad,No
+20BCS6201,AYUSH GUPTA,Male,21,92,99,CSE-5,7.12,8.16,8.81,7.69,8.37,7.41,7.41,7.85,912,Python,Android,ML,Backend,87.07,Machine Learning,Excellent,Yes
+20BCS6202,ABHISHEK KUMAI ,Female,22,81,83,CSE-5,7.82,7.16,8.04,7.22,7.69,7.25,8.75,7.7,888,Backend,Full-Stack,Backend,C++,82.11,Web-Dev,Excellent,Yes
+20BCS6203,ANKIT DALAL,Female,22,71,96,CSE-5,7.85,8.77,8.77,7.5,7.52,7.93,7.02,7.91,894,ML,Frontend,UI/UX,Full-Stack,97.91,Web-Dev,Excellent,Yes
+20BCS6204,PAWAN KUMAR,Female,20,96,77,CSE-5,8.09,7.04,8.44,7.86,8.11,8.1,7.99,7.95,642,DL,C++,Python,DL,74.45,Analyst,Average,No
+20BCS6205,YUVRAJ BANSAL,Female,21,89,88,CSE-5,8.45,7.54,7.43,7.7,7.43,7.19,7.61,7.62,550,Android,DL,Android,Frontend,70.87,Web-Dev,Bad,No
+20BCS6206,NIVEDITA  DUTTA,Female,22,79,92,CSE-5,7,7.81,7.5,8.57,8.45,7,8.11,7.78,780,DL,Backend,Python,Python,97.23,Machine Learning,Good,Yes
+20BCS6207,HARSH SAHNI,Female,21,93,79,CSE-5,7.64,7.03,7.66,7.84,8.7,7.69,8.19,7.82,529,C++,Full-Stack,UI/UX,DL,87.64,Analyst,Bad,No
+20BCS6208,MANSI BRAHMBHATT,Male,21,73,86,CSE-5,8.4,8.98,8.23,8.16,7.18,7.2,7.49,7.95,691,Full-Stack,Python,Python,Full-Stack,83.79,Analyst,Average,No
+20BCS6209,NOLLEN RANGANAI MLAMBO,Male,20,97,95,CSE-5,7.23,7.13,7.3,7.23,8.88,8.75,7.5,7.72,719,C++,Full-Stack,DL,ML,86.24,Software Development,Good,No
+20BCS6210,DEVANG PANDEY,Female,22,74,91,CSE-5,8.86,7.87,7.47,8.35,8.9,8.48,7.41,8.19,669,C++,ML,Backend,Backend,73.8,Analyst,Average,No
+20BCS6211,MANPREET KAUR,Male,20,75,86,CSE-5,8.05,8.76,8.66,7.78,8.79,7.27,7.53,8.12,822,UI/UX,ML,C,Backend,70.57,Machine Learning,Good,Yes
+20BCS6212,Aleena Saji,Male,20,83,99,CSE-5,7.97,8.2,7.13,7.97,7.86,7.65,8.05,7.83,576,Python,Full-Stack,Android,Full-Stack,84.98,Analyst,Bad,No
+20BCS6213,RADHA JANGID,Male,19,73,95,CSE-5,8.78,8.42,7.46,7.01,7,8.64,7.29,7.8,872,Android,C++,C,Android,99.81,Machine Learning,Excellent,Yes
+20BCS6214,NANDINI GOGNA,Female,22,94,81,CSE-5,7.64,7.75,8.03,8.15,8.49,8.91,7.4,8.05,664,ML,Frontend,Backend,Backend,75.6,Software Development,Average,No
+20BCS6215,JUI ROY,Female,22,86,82,CSE-5,8.3,8.4,8.31,8.41,8.08,8.81,7.86,8.31,505,DL,UI/UX,Backend,ML,92.59,Web-Dev,Bad,No
+20BCS6216,BHAWANA GUPTA,Male,21,88,92,CSE-5,7.1,8.62,7.42,7.92,7.55,8.65,7.6,7.84,603,C++,Backend,UI/UX,Python,98.34,Web-Dev,Bad,No
+20BCS6217,SHUBHANGI SINGH,Male,22,91,75,CSE-5,7.93,7.76,7.43,7.94,8.37,8.12,7.68,7.89,651,DL,Android,Full-Stack,DL,86.72,Machine Learning,Average,No
+20BCS6218,SIMRANPREET KAUR SIDHU,Male,22,75,81,CSE-5,8.71,7.45,8.39,8.97,8.07,8.78,8.93,8.47,856,C,DL,Full-Stack,Full-Stack,92.24,Machine Learning,Excellent,Yes
+20BCS6219,HARLEEN KAUR,Female,19,81,78,CSE-5,7.41,7.99,7.9,8.82,7.86,7.64,8.78,8.06,595,Python,UI/UX,C++,Python,98.46,Machine Learning,Bad,No
+20BCS6220,ANURAG KUKREJA,Female,21,95,83,CSE-5,7.9,7.66,8.57,8.32,8.93,8.66,8.82,8.41,967,UI/UX,ML,ML,Android,90.09,Analyst,Excellent,Yes
+20BCS6221,ASHISH KUMAR,Female,20,92,90,CSE-5,7.4,7.96,8.79,8.13,7.93,8.24,7.25,7.96,758,Backend,C,Python,Full-Stack,88.03,Software Development,Good,No
+20BCS6222,AVINASH KOUR,Female,19,93,86,CSE-5,8.65,7.61,9,8.81,7.5,7.08,7.63,8.04,650,C++,C,Full-Stack,ML,87.66,Machine Learning,Average,No
+20BCS6223,BHUVANAGIRI MOUNISH,Male,22,73,83,CSE-5,7.3,7.87,8.3,7.5,8.71,7.66,7.68,7.86,896,Python,Frontend,Full-Stack,Full-Stack,77.6,Machine Learning,Excellent,Yes
+20BCS6224,himanshi bhatia,Female,22,75,83,CSE-5,8.94,8.11,7.53,7.07,8.46,7.98,8.51,8.09,820,ML,Python,Frontend,ML,80.15,Software Development,Good,Yes
+20BCS6225,RITIK NAGARIA,Female,19,72,98,CSE-5,7.31,7.26,7.38,8.73,8.73,7.72,8.99,8.02,794,Python,Backend,UI/UX,DL,97.2,Web-Dev,Good,Yes
+20BCS6226,MUSKAN CHAUHAN,Male,19,98,94,CSE-5,7.14,7.08,8.82,7.78,7.45,8.4,7.1,7.68,977,Python,ML,C,C++,85.39,Analyst,Excellent,Yes
+20BCS6227,SHRESTH GAUTAM,Female,20,92,94,CSE-5,7.89,8.04,8.74,7.22,8.24,7.28,7.15,7.79,593,Backend,Python,Frontend,DL,79.19,Web-Dev,Bad,No
+20BCS6228,MAMTA,Female,19,76,83,CSE-5,7.29,7.52,8.74,7.3,8.1,7.02,7.38,7.62,783,C,Full-Stack,C,ML,75.56,Web-Dev,Good,No
+20BCS6229,MANJEET,Female,22,70,83,CSE-5,8.92,8.63,7.72,8.96,7.91,7.98,7.35,8.21,578,Python,Frontend,C,ML,88.84,Web-Dev,Bad,No
+20BCS6230,MUNMUN DAS,Female,21,83,86,CSE-5,8.61,7.45,8.86,7.39,7.18,7.96,7.17,7.8,868,DL,ML,Python,C,89.26,Machine Learning,Excellent,Yes
+20BCS6231,LAVANYA GOYAL,Male,22,93,77,CSE-5,8.89,7.11,7.76,8.27,7.38,7.39,7.65,7.78,519,Frontend,DL,Python,Full-Stack,82.94,Web-Dev,Bad,No
+20BCS6232,UNNATI BIHANI,Female,19,71,78,CSE-5,8.49,8.73,7.6,8.84,7.47,7.29,8.08,8.07,845,ML,ML,C,Python,92.16,Machine Learning,Excellent,Yes
+20BCS6233,SAKSHAM BHATIA,Male,21,70,79,CSE-5,7.47,8.04,8.79,7.98,8.01,8.85,8.16,8.19,632,Android,ML,DL,ML,93.45,Machine Learning,Bad,No
+20BCS6234,NANDINI UPADHYAY,Female,19,76,82,CSE-5,7.79,7.1,7.83,7.3,7.34,8.91,7.66,7.7,942,C++,Python,Full-Stack,Full-Stack,78.25,Software Development,Excellent,Yes
+20BCS6235,RIDDHI GOEL,Male,20,77,91,CSE-5,8.59,7.88,8.73,8.65,7.02,8.79,7.26,8.13,628,UI/UX,C++,Python,C,83,Web-Dev,Average,No
+20BCS6236,DAWA ONGMU SHERPA,Female,21,71,77,CSE-5,8.65,7.27,7.45,8.01,8.75,8.67,7.16,7.99,707,Frontend,Full-Stack,DL,Android,97.49,Software Development,Average,No
+20BCS6237,AMAN WADHWA,Male,21,99,95,CSE-5,7.24,8.36,8.98,8.86,8.18,7.78,8.56,8.28,701,Frontend,ML,Android,UI/UX,79.76,Software Development,Good,No
+20BCS6238,PRIYA,Male,20,89,84,CSE-5,8.36,8.14,7.49,8.07,7.4,7.51,7.53,7.79,948,Full-Stack,Android,Full-Stack,Frontend,97.81,Machine Learning,Excellent,Yes
+20BCS6239,AAKARSH AMIT,Male,20,91,80,CSE-5,8.67,7.91,7.74,7.09,7.5,8.63,7.56,7.87,595,Full-Stack,Full-Stack,Backend,Backend,97.18,Machine Learning,Bad,No
+20BCS6240,RIYA,Female,19,78,97,CSE-5,8.6,7.13,7.38,7.18,8.1,8.77,7.61,7.82,658,Backend,Python,Full-Stack,Frontend,86.67,Analyst,Average,No
+20BCS6241,MEHAK CHAUHAN,Female,22,85,83,CSE-5,7.54,8.09,8.27,8.99,8.45,7.43,7.2,8,845,DL,DL,Backend,Frontend,71.3,Software Development,Excellent,Yes
+20BCS6242,KOUSTUBH DUBEY,Female,19,85,99,CSE-5,8.89,8.22,8.21,8.88,7.72,8.72,8.18,8.4,696,Frontend,Backend,Android,ML,76.38,Software Development,Average,No
+20BCS6243,SAKSHI CHOPRA,Female,22,89,75,CSE-5,8.37,8.72,7.92,8.15,7.8,8.76,7.36,8.15,505,Full-Stack,ML,Full-Stack,DL,98.7,Machine Learning,Bad,No
+20BCS6244,ASEEM GUPTA,Female,22,77,87,CSE-5,8.27,7.27,8.77,7.92,8.55,8.92,8.24,8.28,588,ML,DL,Frontend,Frontend,71.69,Machine Learning,Bad,No
+20BCS6245,PRITPAL SINGH,Female,19,85,98,CSE-5,7.63,7.86,8.35,7.56,7.32,8.38,7.25,7.76,550,Full-Stack,C,DL,C,97.27,Machine Learning,Bad,No
+20BCS6246,ANUSHKA CHAUHAN,Male,21,76,86,CSE-5,7.81,7.7,7.8,7.01,7.61,8.76,7.32,7.72,996,Backend,Python,UI/UX,Android,77.13,Machine Learning,Excellent,Yes
+20BCS6247,SOUMYA PRABHAKAR,Male,22,87,83,CSE-5,7.95,7.03,7.35,8.58,8.17,8.76,7.49,7.9,738,ML,DL,Python,Frontend,99.69,Analyst,Good,No
+20BCS6248,SHAKSHI RANA,Male,21,87,99,CSE-5,8.61,8.68,7.12,8.46,7.42,8.19,8.7,8.17,831,ML,C++,C,UI/UX,77.68,Web-Dev,Excellent,Yes
+20BCS6249,HIMANI MONGA,Female,21,80,98,CSE-5,7.79,8.76,8.8,8.65,8.62,8.72,8.99,8.62,580,DL,Python,Backend,C++,99.59,Web-Dev,Bad,No
+20BCS6250,PRIYA,Female,21,88,97,CSE-5,7.21,8.04,7.05,8.17,7.04,8.06,7.37,7.56,779,C,Backend,Frontend,Full-Stack,95.33,Analyst,Good,Yes
+20BCS6251,GOODLUCK HEZRON KIGONDO,Male,22,91,92,CSE-5,7.67,7.23,7.84,8.4,8.48,8.54,8.26,8.06,924,UI/UX,Python,UI/UX,Frontend,95.63,Analyst,Excellent,Yes
+20BCS6252,VIRAJ KAUSHIK,Female,20,99,86,CSE-6,7.12,7.92,8.08,8.82,8.16,8.89,8.94,8.28,816,C++,ML,Android,Frontend,98.24,Analyst,Excellent,Yes
+20BCS6253,APARAJITA PATEL,Male,22,89,83,CSE-6,8.49,8.95,7.23,8.98,7.24,7.58,7.55,8,703,Android,Backend,Python,C,72.86,Machine Learning,Average,No
+20BCS6254,PARAS KRISHAN,Male,22,89,89,CSE-6,8.97,8.25,8.47,8.2,8.63,8.09,7.83,8.35,673,Android,UI/UX,Full-Stack,Full-Stack,99.1,Analyst,Average,No
+20BCS6255,ISHU DEVGUN,Female,21,72,95,CSE-6,8.06,7.01,7.25,8.06,8.01,8.96,7.47,7.83,907,Frontend,C++,Backend,ML,91.24,Machine Learning,Excellent,Yes
+20BCS6256,ARYAN GOYAL,Male,22,86,97,CSE-6,7.31,8.13,8.48,8.08,7.96,7.96,9,8.13,796,UI/UX,UI/UX,UI/UX,UI/UX,80.56,Machine Learning,Good,Yes
+20BCS6257,GAURI THAKUR,Male,22,78,88,CSE-6,8.27,8.04,8.07,7.91,7.72,8.14,7.34,7.93,629,Python,Backend,C,C,95.08,Machine Learning,Average,No
+20BCS6258,KUSHAGRA KAKKAR,Male,20,87,87,CSE-6,7.18,7.14,7.34,7.77,8.44,7.02,8.82,7.67,946,C++,ML,Python,C,96.82,Software Development,Excellent,Yes
+20BCS6259,ARYA SHANKAR MAHAPRASHASTA,Male,19,72,83,CSE-6,7.63,7.23,7.86,7.85,8.17,8.62,7.98,7.91,909,Backend,C++,DL,Backend,81.04,Analyst,Excellent,Yes
+20BCS6260,Ashutosh Bhatia,Female,19,90,93,CSE-6,7.63,8.19,8.38,8.64,8.11,7.26,7.6,7.97,621,Backend,Backend,C++,Python,88.43,Machine Learning,Average,No
+20BCS6261,Puneet goyal,Female,19,76,91,CSE-6,8.46,8.24,7.93,8.88,8.45,8.39,7.57,8.27,813,Python,Full-Stack,Python,Python,94.92,Software Development,Good,Yes
+20BCS6262,GAGAN GABA,Male,22,81,82,CSE-6,7.4,7.3,7.06,7.05,7.65,7.2,7.99,7.38,705,UI/UX,DL,C,Python,72.6,Analyst,Average,No
+20BCS6263,GURJINDER SINGH,Female,21,97,76,CSE-6,8.31,7.81,8.69,7.48,8.12,7.41,8.35,8.02,764,Full-Stack,UI/UX,DL,Full-Stack,86.23,Machine Learning,Good,No
+20BCS6264,SURYANSH RAJ,Male,19,93,85,CSE-6,8.5,8.1,7.43,8.98,7.91,7.38,7.18,7.93,853,C++,C++,Android,C++,83.03,Web-Dev,Excellent,Yes
+20BCS6265,RISI VERMA,Male,21,90,96,CSE-6,7.15,8.69,7.17,8.1,8.41,7.89,8.45,7.98,951,Android,ML,ML,Android,84.1,Machine Learning,Excellent,Yes
+20BCS6266,MALLIKA RANA,Male,22,88,79,CSE-6,8.06,7.59,8.18,7.66,8.33,8.61,8.06,8.07,858,Frontend,C,Python,Python,98.36,Machine Learning,Excellent,Yes
+20BCS6267,MEGHA,Male,19,70,88,CSE-6,7.35,8.76,7.13,8.38,8.27,7.74,7.84,7.92,905,Android,UI/UX,Frontend,Full-Stack,84.11,Analyst,Excellent,Yes
+20BCS6268,GAURAV RAHEJA,Female,22,97,78,CSE-6,7.56,8.26,8.14,7.13,7.04,8.13,8.32,7.8,930,UI/UX,C++,DL,DL,83.78,Web-Dev,Excellent,Yes
+20BCS6269,MANIKANT SHARMA,Male,22,91,93,CSE-6,7.53,7.75,7.54,7.81,8.94,7.43,8.03,7.86,953,C,C,Backend,Frontend,88.6,Software Development,Excellent,Yes
+20BCS6270,KIRANDEEP KAUR,Male,21,82,94,CSE-6,7.21,8.27,8.69,8.01,8.51,8.38,7.47,8.08,833,UI/UX,Backend,C,Frontend,77.58,Machine Learning,Excellent,Yes
+20BCS6271,ARYAN CHAWLA,Male,20,93,80,CSE-6,8.51,8.52,7.28,7.39,8.73,8.25,7.81,8.07,679,Backend,Full-Stack,Python,Python,75.27,Web-Dev,Average,No
+20BCS6272,SACHIN KUMAR,Female,19,75,77,CSE-6,7.49,7.18,8.69,8.24,8.5,7.67,8.54,8.04,941,UI/UX,Frontend,DL,C,96.11,Web-Dev,Excellent,Yes
+20BCS6273,AYUSH YADAV,Male,22,85,91,CSE-6,8.43,7.82,8.69,7.49,7.56,8.05,7.15,7.88,642,Python,ML,DL,C,97.58,Web-Dev,Average,No
+20BCS6274,Payel Kumari Gupta,Male,22,98,95,CSE-6,8.71,7.17,7.29,7.83,8.54,7.85,7.74,7.88,579,DL,Backend,UI/UX,Backend,91.59,Web-Dev,Bad,No
+20BCS6275,YASHVI,Male,20,96,87,CSE-6,8.29,7.1,8.85,8.72,7.41,8.67,8.22,8.18,976,UI/UX,Android,C,Python,88.57,Machine Learning,Excellent,Yes
+20BCS6276,DEEPAK,Male,20,94,86,CSE-6,7.89,7.21,8.01,7.66,8.46,8.57,8.25,8.01,636,UI/UX,Android,Android,Android,79.29,Web-Dev,Average,No
+20BCS6277,SHIVALIKA,Male,20,72,86,CSE-6,7.55,7.87,8.12,8.94,7.94,7.1,7.02,7.79,989,UI/UX,Full-Stack,C++,Python,88.44,Machine Learning,Excellent,Yes
+20BCS6278,MANPREET KAUR,Female,21,79,99,CSE-6,7.55,8.22,7.66,8.6,7.36,7.37,8.51,7.9,590,C,ML,Python,C++,70.21,Analyst,Bad,No
+20BCS6279,MANISHA KAISTHA,Male,22,90,84,CSE-6,7,8.42,8.78,7.46,7.09,8.52,7.49,7.82,682,C,ML,Android,Python,87.33,Analyst,Average,No
+20BCS6280,Sharon,Female,19,75,99,CSE-6,8.15,8.38,7.89,7.54,7.92,7.85,7.5,7.89,810,Frontend,Android,Backend,C++,81.25,Machine Learning,Good,Yes
+20BCS6281,TUSHAR VASHISTH,Male,19,91,83,CSE-6,7.71,8.37,7.34,7.39,7.39,7.59,8.29,7.73,602,Android,Backend,C++,ML,94.14,Machine Learning,Bad,No
+20BCS6282,DEESHUV GARG,Male,22,89,96,CSE-6,8.07,7.44,8.49,7.07,8.37,7.78,7.7,7.85,924,C,UI/UX,Full-Stack,Frontend,97.19,Web-Dev,Excellent,Yes
+20BCS6283,NIRAJ KUMAR,Male,20,92,93,CSE-6,7.09,7.72,8.57,8.26,7.79,7.08,7.6,7.73,894,C++,UI/UX,C++,DL,86.4,Machine Learning,Excellent,Yes
+20BCS6284,GURSIMAR KAUR KALRA,Female,20,74,91,CSE-6,7.05,7.19,8.73,7.57,8.07,7.47,8.66,7.82,794,Full-Stack,Frontend,Python,Backend,99.82,Machine Learning,Good,Yes
+20BCS6285,VANSHIKA BATRA,Male,21,99,78,CSE-6,8.51,7.13,8.42,7.31,7.29,8.37,8.69,7.96,689,UI/UX,UI/UX,Android,Python,74.67,Software Development,Average,No
+20BCS6286,MONIKA CHOUDHARY,Male,21,72,95,CSE-6,8.81,8.16,8.66,8.99,7.52,8.66,7.46,8.32,789,Backend,C,UI/UX,C++,92.04,Analyst,Good,Yes
+20BCS6287,AASHNA,Male,21,72,99,CSE-6,8.44,7.83,8.81,8.58,7.28,7.34,8.82,8.16,601,ML,Android,Python,ML,87.14,Web-Dev,Bad,No
+20BCS6288,VIPUL SINGH,Male,21,85,98,CSE-6,7.79,8,8.06,7.94,8.21,7.43,8.93,8.05,537,Frontend,Android,DL,Backend,91.32,Analyst,Bad,No
+20BCS6289,DEEPAK SHARMA,Female,22,96,83,CSE-6,8.88,7.87,7.82,7.1,7.75,8.39,7.84,7.95,877,Android,Frontend,Backend,ML,92.93,Analyst,Excellent,Yes
+20BCS6290,SWATI SHARMA,Female,22,94,94,CSE-6,7.1,8.27,7.48,8.34,7.55,7.57,8.82,7.88,888,UI/UX,Backend,UI/UX,ML,77.9,Analyst,Excellent,Yes
+20BCS6291,AMAN DUGGAL,Female,22,72,87,CSE-6,8.36,8.61,7.2,7.18,8.62,8.92,7.37,8.04,992,ML,Python,C,Frontend,78.46,Machine Learning,Excellent,Yes
+20BCS6292,MONIKA DUGGAL,Male,19,91,95,CSE-6,7.07,7.39,8.01,8.54,7.48,8.19,7.73,7.77,691,C,C,C++,Frontend,82.07,Machine Learning,Average,No
+20BCS6293,MAISAM ZULFIQARI,Male,19,88,95,CSE-6,7.72,8.71,8.68,8.67,7.55,8.13,7.48,8.13,689,C++,Python,Full-Stack,Full-Stack,88.09,Web-Dev,Average,No
+20BCS6294,NAMAN BASSI,Male,19,97,91,CSE-6,7.81,8.03,8.86,7.07,8.3,8.77,8.6,8.21,664,DL,C,UI/UX,Python,80.13,Software Development,Average,No
+20BCS6295,JAHANVI GOYAL,Female,22,75,86,CSE-6,8.39,8.92,8.33,8.07,8.84,7.6,7.38,8.22,728,ML,Android,C++,Frontend,75.8,Analyst,Average,No
+20BCS6296,ISHA EVE ,Male,20,76,97,CSE-6,7.23,7.66,7.91,8.53,7.59,8.26,8.56,7.96,952,Python,Backend,DL,Frontend,99.21,Software Development,Excellent,Yes
+20BCS6297,BANITA KUMARI,Female,19,93,78,CSE-6,7.93,7.55,8.5,8.91,7.82,8.38,7.08,8.02,693,ML,ML,Backend,C,94.15,Analyst,Average,No
+20BCS6298,SHARMA VIBHUTI,Male,19,84,91,CSE-6,8.72,8.86,7.41,8.23,7.99,7.43,8.59,8.18,544,C++,C++,Python,C++,70.58,Web-Dev,Bad,No
+20BCS6299,AKRITI,Female,19,99,84,CSE-6,7.84,8.13,7.73,7.39,8.96,8.84,7.42,8.04,929,UI/UX,UI/UX,C++,Full-Stack,90.64,Web-Dev,Excellent,Yes
+20BCS6300,ANJALI BHERON,Female,20,80,89,CSE-6,7.48,7.16,8.87,7.15,8.2,8.85,7.63,7.91,994,ML,C,Backend,DL,89.22,Machine Learning,Excellent,Yes
+20BCS6301,KANISH JAIN,Female,19,73,84,CSE-6,7.1,8.18,7.64,8.26,7.64,7.8,7.29,7.7,681,C,UI/UX,DL,Full-Stack,85.59,Software Development,Average,No
+20BCS6302,ARPITA KHAJURIA,Male,22,90,76,CSE-7,7.16,8.56,8.66,8.63,7.75,8.87,8.57,8.31,620,UI/UX,Frontend,C++,Backend,86.5,Software Development,Bad,No
+20BCS6303,ARHAM SULTAN,Male,21,86,76,CSE-7,7.77,8.85,8.03,7.46,7.01,8.39,7.86,7.91,727,UI/UX,Android,Full-Stack,C,88,Web-Dev,Average,No
+20BCS6304,BISMILLAH JAN NOORI,Male,20,82,85,CSE-7,7.09,7.25,7.99,8,8.81,7.11,7.74,7.71,613,C++,Android,Python,C,73.14,Software Development,Bad,No
+20BCS6305,AKHILESH SINGH RANA,Female,20,74,76,CSE-7,8.52,8.18,8.49,8.78,7.5,8.74,8.29,8.36,815,ML,UI/UX,Full-Stack,DL,85.48,Software Development,Good,Yes
+20BCS6306,SHIVANSHI DANGI,Female,20,80,87,CSE-7,7.59,8.47,7.84,8.63,7.95,7.24,8.15,7.98,872,UI/UX,Python,Backend,DL,89.45,Machine Learning,Excellent,Yes
+20BCS6307,ADITYA VINAYAK,Female,21,71,88,CSE-7,8.08,8.68,8.55,7.33,8.77,8.29,8.29,8.28,986,ML,Frontend,DL,ML,86.04,Machine Learning,Excellent,Yes
+20BCS6308,SWETA CHAUDHARY,Male,20,76,89,CSE-7,7.86,7.78,7.43,8.13,7.58,7.79,8.46,7.86,556,UI/UX,Full-Stack,C++,C++,92.32,Web-Dev,Bad,No
+20BCS6309, Anchal sharma,Female,21,93,84,CSE-7,7.98,7.68,8.21,8.83,7.17,8.14,7.89,7.99,545,ML,C,ML,ML,75.35,Web-Dev,Bad,No
+20BCS6310,ZAHIDULLAH  HEMAT,Male,22,95,77,CSE-7,8.48,8.14,8.67,7.38,8.98,7.36,8.29,8.19,822,Android,ML,C++,C++,78.68,Web-Dev,Excellent,Yes
+20BCS6311,ZIGGYASA,Female,19,88,81,CSE-7,7.48,8.37,7.55,8.52,7.44,8.04,7.52,7.85,869,Full-Stack,C,C,UI/UX,72.35,Analyst,Excellent,Yes
+20BCS6312,Parul Verma,Male,19,71,79,CSE-7,8.01,8.48,8.17,7.08,8.25,8.87,7.69,8.08,603,Backend,Backend,Android,ML,75.42,Web-Dev,Bad,No
+20BCS6313,MOHAMMAD SAMIM JAHID ,Female,21,99,78,CSE-7,7.45,7.85,8.56,7.27,8.44,8.85,7.91,8.05,751,Python,UI/UX,Android,UI/UX,79.85,Machine Learning,Good,No
+20BCS6314,GURPREET SINGH,Male,21,72,95,CSE-7,8.27,7.4,7.9,7.68,7.4,7.52,7.7,7.7,773,UI/UX,Backend,Android,Android,87.37,Analyst,Good,No
+20BCS6315,KAWALJEET KAUR,Female,21,97,78,CSE-7,7.87,7.05,8.06,8.96,7.22,7.4,8.41,7.85,850,Full-Stack,Python,Frontend,Python,99.02,Web-Dev,Excellent,Yes
+20BCS6316,RAGAV SINGH,Male,22,98,99,CSE-7,8.93,7.38,8.14,7.88,8.71,8.52,7.09,8.09,857,Full-Stack,Full-Stack,C++,Backend,80.88,Web-Dev,Excellent,Yes
+20BCS6317,Sachin Sharma,Male,21,93,83,CSE-7,8.53,8.82,7.18,7.25,7.26,8.53,7.8,7.91,853,Python,Frontend,Android,Backend,88.46,Software Development,Excellent,Yes
+20BCS6318,RIYA SHARMA,Female,20,74,96,CSE-7,7.13,7.73,8.84,7.93,7.73,8.29,8.22,7.98,834,C++,C,C++,DL,85.32,Software Development,Excellent,Yes
+20BCS6319,Akshita sharma,Male,22,98,75,CSE-7,7.67,8.52,8.4,8.77,8,8.28,8.05,8.24,660,DL,C++,C,Android,95.97,Software Development,Average,No
+20BCS6320,GOURAV GOYAL,Female,22,91,83,CSE-7,8.99,8.76,7.03,7.89,7.88,7.83,7.82,8.03,702,Full-Stack,Android,C++,C++,99.97,Software Development,Average,No
+20BCS6321,SUKHPREET SINGH,Male,22,74,91,CSE-7,7.04,7.7,8.32,7.64,8.42,7.87,7.56,7.79,530,Frontend,Frontend,Frontend,Full-Stack,77.55,Analyst,Bad,No
+20BCS6322,RAHUL,Male,19,99,94,CSE-7,8.81,8.93,8.14,7.64,8.42,8.02,7.49,8.21,646,Backend,C,Frontend,C,88.19,Machine Learning,Average,No
+20BCS6323,Vishwas shira,Male,19,85,94,CSE-7,7.15,7.18,7.5,8.27,8.73,8.23,7.54,7.8,779,ML,UI/UX,UI/UX,Backend,70.36,Software Development,Good,Yes
+20BCS6324,DARPAN,Female,22,83,95,CSE-7,7.02,7.22,8.17,8.85,7.54,8.73,8.59,8.02,564,UI/UX,Full-Stack,ML,C,81.1,Machine Learning,Bad,No
+20BCS6325,DEEPAK KUMAR CHAURASIA,Female,19,83,97,CSE-7,8.59,7,7.9,7.56,8.14,7.53,7.83,7.79,508,Android,C++,Backend,Python,97.5,Analyst,Bad,No
+20BCS6326,RUTENDO VIOLET MAJAYA,Female,22,86,97,CSE-7,7.66,8.57,7.74,7.91,8.91,7.2,8.94,8.13,503,C++,ML,C++,ML,80.18,Machine Learning,Bad,No
+20BCS6327,SIMRATPAL KAUR ,Female,19,77,89,CSE-7,7.22,7.74,8.08,7.32,8.2,7.83,8.33,7.82,974,C++,C++,ML,Full-Stack,88.58,Machine Learning,Excellent,Yes
+20BCS6328,SHOBHA,Male,21,91,91,CSE-7,8.91,7.38,8.87,8.14,8.4,8.35,8.97,8.43,895,Backend,ML,DL,C++,88.5,Analyst,Excellent,Yes
+20BCS6329,BALRAM,Male,21,83,86,CSE-7,8.14,8.36,7.22,8.56,7.97,8,8.48,8.1,648,Full-Stack,C++,Frontend,UI/UX,98.06,Web-Dev,Average,No
+20BCS6330,TAMANNA,Male,20,70,76,CSE-7,8.98,8.25,7.22,7.56,8.88,8.37,8.94,8.31,852,ML,C++,Backend,ML,77.42,Analyst,Excellent,Yes
+20BCS6331,SHASHANK SHEKHAR BHARDWAJ,Female,21,83,83,CSE-7,7.75,8.6,7.01,7.28,7.93,8.24,8.04,7.84,880,Frontend,Backend,Python,C++,83.37,Machine Learning,Excellent,Yes
+20BCS6332,DAKSH  RATHI,Male,20,89,77,CSE-7,7.58,7.74,7.51,7.51,8.1,8.77,7.71,7.85,744,Python,Android,UI/UX,Backend,73.21,Machine Learning,Good,No
+20BCS6333,UMAR CHANDAIL,Female,19,89,86,CSE-7,8.74,7.47,8.65,7.02,8.47,8.66,8.07,8.15,568,C++,ML,UI/UX,Full-Stack,93.3,Machine Learning,Bad,No
+20BCS6334,SUKHBEER SINGH,Female,20,73,79,CSE-7,7.09,7.22,7.08,7.73,8.21,8.65,7.83,7.69,895,Android,C++,Full-Stack,Python,77.2,Analyst,Excellent,Yes
+20BCS6335,RAJVIR SINGH,Male,19,86,96,CSE-7,8.23,8.24,8.92,7.12,7.65,8.06,8.84,8.15,751,C++,UI/UX,Python,Frontend,80.98,Web-Dev,Good,No
+20BCS6336,DEEKSHA SHARMA,Male,20,78,96,CSE-7,8.4,7.31,8.58,8.82,8.17,7.37,7.03,7.95,778,Backend,C,Full-Stack,ML,86.74,Software Development,Good,Yes
+20BCS6337,SHUBHANGI SHUKLA,Male,22,91,86,CSE-7,8.66,8.11,7.62,8.55,8.12,8.07,8.68,8.26,597,Backend,DL,ML,Frontend,85.29,Machine Learning,Bad,No
+20BCS6338,SIMRAN ,Male,21,80,84,CSE-7,8.23,7.65,8.63,7.91,8.08,7.74,8.31,8.08,758,ML,C++,C++,DL,77.29,Software Development,Good,No
+20BCS6339,PIYUSH PANDEY,Female,19,95,96,CSE-7,8.72,7.24,8.88,7.36,7.63,7.94,7.41,7.88,838,DL,UI/UX,Python,Backend,99.81,Analyst,Excellent,Yes
+20BCS6340,Meenakshi  Devi,Male,21,93,87,CSE-7,8.16,8.93,7.48,8.5,8.11,7.44,8.62,8.18,570,Backend,Python,Android,Full-Stack,81.93,Machine Learning,Bad,No
+20BCS6341,DILPREET SINGH,Female,21,76,90,CSE-7,7.21,7.01,8.01,8.7,8.75,8.47,8.93,8.15,656,ML,ML,ML,ML,74.98,Software Development,Average,No
+20BCS6342,URVASHI ARORA,Male,22,71,95,CSE-7,7.51,7.62,7.2,7.46,7.6,7.49,8.16,7.58,506,C++,UI/UX,C,Frontend,82.76,Software Development,Bad,No
+20BCS6343,ARPIT,Male,21,87,85,CSE-7,7.05,7.45,8.82,8.66,8.15,7.25,7.04,7.77,984,C,ML,DL,UI/UX,91.67,Machine Learning,Excellent,Yes
+20BCS6344,SHRUTIKA KALTA,Male,20,91,96,CSE-7,7.98,8.6,8.64,7.35,7.04,8.25,7.35,7.89,539,UI/UX,Full-Stack,DL,Android,88.69,Software Development,Bad,No
+20BCS6345,LAKSHAY ,Female,21,93,97,CSE-7,8.05,8.8,7.28,7.31,8.31,7.39,9,8.02,945,C,DL,Full-Stack,Android,95.44,Machine Learning,Excellent,Yes
+20BCS6346,NAVEEN GARG,Female,22,79,91,CSE-7,8.9,8.14,8.6,8.88,8.48,8.43,8.45,8.55,662,C++,C,Frontend,C,80.37,Analyst,Average,No
+20BCS6347,ATUL THAKUR,Male,20,83,89,CSE-7,8.61,7.47,8.78,8.54,8.34,8.77,7.17,8.24,732,Android,ML,Full-Stack,C,96.41,Machine Learning,Good,No
+20BCS6348,DEV KUMAR KACCHAWAHA,Male,20,92,99,CSE-7,7.13,7.03,8.88,8,8.36,8.21,7.94,7.94,920,Python,C,Full-Stack,Python,95.36,Web-Dev,Excellent,Yes
+20BCS6349,AMAN CHANDEL,Male,22,99,88,CSE-7,7.78,8.05,7.46,8.55,8.91,8.74,7.44,8.13,723,C++,UI/UX,UI/UX,Backend,87.55,Software Development,Good,No
+20BCS6350,AJAY KUMAR,Female,20,99,86,CSE-7,7.4,7.08,8.01,8.95,7.09,8.79,7.52,7.83,715,C++,C,ML,Python,93.22,Software Development,Good,No
+20BCS6351,ISHITA CHOPRA,Female,19,82,88,CSE-7,8.43,8.61,8.53,7.2,8.37,8.51,8.53,8.31,706,C,Backend,UI/UX,C,82.48,Machine Learning,Average,No
+20BCS6352,KHUSHI TAK,Female,21,92,95,CSE-8,8.07,8.83,7.28,7.5,8.43,8.65,7.4,8.02,792,Android,ML,DL,Python,72.89,Software Development,Good,Yes
+20BCS6353,SAKSHI HEDAU,Female,22,98,88,CSE-8,7.41,7.78,7.09,7.15,7.7,7.77,7.09,7.43,975,Python,DL,Full-Stack,ML,97.24,Machine Learning,Excellent,Yes
+20BCS6354,ANUSHKA CHAUDHARY,Female,21,78,96,CSE-8,8.61,8.21,7.37,7.64,8.42,8.84,7.85,8.13,842,C++,Backend,DL,UI/UX,78.85,Web-Dev,Excellent,Yes
+20BCS6355,HARDEEP SINGH,Male,22,93,78,CSE-8,7.55,8.25,8.02,7.2,7.89,8.56,7.12,7.8,582,Frontend,Python,Python,UI/UX,71.21,Web-Dev,Bad,No
+20BCS6356,ARSH KASUHAL,Male,22,97,99,CSE-8,7.7,8.21,8.02,7.73,7.23,8.84,7.17,7.84,706,C,Backend,C++,Full-Stack,78.61,Analyst,Good,No
+20BCS6357,Himanshu rai,Male,19,72,84,CSE-8,7.47,7.76,8.52,8.43,7.52,8.83,8.62,8.16,502,Android,Android,DL,Python,97.57,Machine Learning,Bad,No
+20BCS6358,KUNAL,Female,19,95,99,CSE-8,7.77,8.08,8.36,7.49,8.75,8.25,7.32,8,607,C,Android,C++,Android,89.67,Web-Dev,Average,No
+20BCS6359,MEHAK SETHI,Female,19,70,78,CSE-8,7.77,8.47,7.32,7.19,7.35,8.95,8.08,7.88,761,Android,Backend,ML,Frontend,73.05,Analyst,Good,No
+20BCS6360,SHAKSHI JARYAL,Female,22,95,86,CSE-8,7.63,7.82,8.51,8.09,8.47,8.15,7.12,7.97,809,Android,Full-Stack,Backend,Backend,84.2,Web-Dev,Good,Yes
+20BCS6361,RANDEEP SODHI,Female,19,82,75,CSE-8,8.02,8.71,8.72,7.86,8.36,8.72,7.9,8.33,842,Backend,Full-Stack,ML,Frontend,80.16,Analyst,Excellent,Yes
+20BCS6362,TANAY SHARMA,Male,21,97,81,CSE-8,8.25,7.7,8.42,8.2,7.75,8.89,8.38,8.23,815,C,Android,ML,ML,84.46,Machine Learning,Excellent,Yes
+20BCS6363,VANSH BALI,Male,21,98,87,CSE-8,8.31,7.53,7.71,8.23,7.64,8.72,7.15,7.9,724,UI/UX,DL,Android,C,78.08,Web-Dev,Good,No
+20BCS6364,ARYAN SHAANBIR SINGH GREWAL,Male,20,88,94,CSE-8,7.97,7.9,7.78,7.07,7.51,7.34,7.54,7.59,658,Backend,Full-Stack,DL,Full-Stack,71.74,Analyst,Average,No
+20BCS6365,SNEHPREET KAUR,Female,22,90,85,CSE-8,7.66,7.25,8.25,7.71,7.34,8.92,8.13,7.89,802,DL,C++,ML,Android,94.73,Software Development,Good,Yes
+20BCS6366,GIRISHA JAIN,Male,19,99,84,CSE-8,7.55,8.76,8.92,8.39,7.22,7.93,7.06,7.98,974,UI/UX,Python,DL,Android,87.53,Software Development,Excellent,Yes
+20BCS6367,NISHTHA SHARMA,Male,22,80,97,CSE-8,8.4,7.32,8.25,7.4,7.08,8.12,7.38,7.71,592,ML,ML,ML,C++,82.19,Software Development,Bad,No
+20BCS6368,SHIVANI MILVANIYA,Male,20,96,80,CSE-8,7.92,8.64,8.17,8.45,8.69,8.07,8.78,8.39,695,C++,Python,UI/UX,Android,96.77,Web-Dev,Average,No
+20BCS6369,PIYUSH ROY,Male,21,99,93,CSE-8,7.64,7.76,7.25,7.85,8.37,8.24,7.2,7.76,862,Full-Stack,C++,Backend,UI/UX,79.94,Machine Learning,Excellent,Yes
+20BCS6370,SAKSHI MISHRA,Male,20,88,79,CSE-8,7.37,8.84,8.76,7.84,7.82,8.44,7.86,8.13,657,Android,C,UI/UX,DL,77.68,Machine Learning,Average,No
+20BCS6371,LAKSHAY KHAPRA ,Male,21,72,75,CSE-8,7.99,8.08,8.39,7.89,7.62,7.29,8.97,8.03,767,Android,Full-Stack,DL,ML,87.64,Web-Dev,Good,No
+20BCS6372,TANIA DHIMAN,Male,20,84,90,CSE-8,7.41,8.95,8.86,8.03,7.83,8.63,8.06,8.25,653,Full-Stack,C,UI/UX,Backend,92.8,Analyst,Average,No
+20BCS6373,Ajay Kumar,Female,22,89,78,CSE-8,8.64,7.43,7.73,7.27,7,8.64,7.43,7.73,810,Python,DL,C++,DL,99.17,Software Development,Good,Yes
+20BCS6374,Ashmita Saxena,Female,20,84,87,CSE-8,8.1,7,8.69,7.15,8.4,7.63,8.8,7.97,845,DL,Android,Frontend,Python,96.98,Analyst,Excellent,Yes
+20BCS6375,HARMANPREET SINGH,Female,20,86,78,CSE-8,8.37,8.62,8.1,7.68,8.56,8.71,8.34,8.34,503,Full-Stack,Python,ML,Android,74.19,Machine Learning,Bad,No
+20BCS6376,SAMIDHA SWARAJ,Female,19,99,80,CSE-8,7.87,7.82,7.01,8.12,7.76,7.56,7.6,7.68,866,UI/UX,C++,ML,UI/UX,84.85,Web-Dev,Excellent,Yes
+20BCS6377,KRISHNA MEHTA,Female,20,97,77,CSE-8,7.6,8.98,8.33,7,8.13,8.19,8.71,8.13,621,Backend,Android,Backend,Android,86.96,Machine Learning,Average,No
+20BCS6378,SEJAL MEHENDIRATTA,Male,21,92,75,CSE-8,8.34,7.17,7.81,7.62,8.39,7.35,7.2,7.7,993,Backend,ML,UI/UX,Backend,78.52,Software Development,Excellent,Yes
+20BCS6379,KUSHPREET KAUR,Male,22,92,94,CSE-8,7.73,8.72,8.17,8.69,7.68,8.37,8.6,8.28,636,Backend,C++,UI/UX,C++,81.13,Software Development,Average,No
+20BCS6380,SAHIL YADAV,Female,19,75,98,CSE-8,7.44,8.69,7.31,8.49,7.67,8.91,8.3,8.12,985,Android,Full-Stack,C,Android,93.43,Analyst,Excellent,Yes
+20BCS6381,ROHIT YADAV ,Female,22,77,90,CSE-8,7.93,8.77,7.88,8.42,7.54,7.07,7.85,7.92,963,Full-Stack,Backend,Python,Android,92.42,Analyst,Excellent,Yes
+20BCS6382,CHHAVI RAJPUT,Male,21,72,82,CSE-8,7.76,7.47,8.41,8.94,7.8,8.33,8.08,8.11,593,C,Frontend,ML,Android,83.88,Web-Dev,Bad,No
+20BCS6383,ASHISH RATHI,Male,21,72,84,CSE-8,8.79,8.41,7.55,8.77,8.03,7.72,8.02,8.18,690,C,Android,C,Android,91.9,Machine Learning,Average,No
+20BCS6384,Aaradhya Maheshwari,Male,22,73,80,CSE-8,7.2,7.78,8.97,8.25,7.69,8.17,8.4,8.07,811,C,Frontend,Full-Stack,Backend,99.8,Machine Learning,Good,Yes
+20BCS6385,AYUSH ,Female,20,99,77,CSE-8,8.42,7.53,8.52,7.96,8.21,8.88,8.66,8.31,707,ML,C,Full-Stack,ML,76.03,Web-Dev,Average,No
+20BCS6386,SAHARSH KUMAR,Female,20,81,91,CSE-8,7.11,8.2,7.58,7.87,7.08,8.32,8.82,7.85,514,C,Python,UI/UX,UI/UX,97.09,Web-Dev,Bad,No
+20BCS6387,PRIKSHIT BHARDWAJ,Female,21,81,88,CSE-8,7.27,7.93,7.37,7.69,8.24,8.82,7.88,7.89,894,Frontend,UI/UX,Full-Stack,Python,83.93,Software Development,Excellent,Yes
+20BCS6388,SAURAV SINGH,Female,19,85,86,CSE-8,7.17,8.52,8.54,7.56,8.19,8.14,7.61,7.96,839,DL,UI/UX,UI/UX,Python,98.66,Software Development,Excellent,Yes
+20BCS6389,MADHVENDRA DHADWAL,Female,22,96,76,CSE-8,7.61,7.93,7.67,7.54,8.32,7.84,8.08,7.86,787,Backend,Android,C++,Python,81.56,Web-Dev,Good,Yes
+20BCS6390,HARSHDEEP HOODA,Male,21,84,80,CSE-8,7.59,7.46,7.39,7.69,8.86,7.84,8.12,7.85,897,Full-Stack,C++,Python,Frontend,87.01,Machine Learning,Excellent,Yes
+20BCS6391,SANDHU HARPREET SINGH ,Female,20,89,82,CSE-8,7.5,8.12,7.11,7.38,8.02,8.92,7.81,7.84,660,Backend,ML,Frontend,Python,95.03,Web-Dev,Average,No
+20BCS6392,ALISHA KAMBOJ,Female,19,85,86,CSE-8,8.87,8.23,7.75,8.93,7.31,7.93,7.26,8.04,531,C,Frontend,Python,Frontend,92.58,Machine Learning,Bad,No
+20BCS6393,UTKARSH,Female,20,82,81,CSE-8,8.41,7.12,8.2,7.74,8.67,7.23,8.79,8.02,907,Full-Stack,DL,DL,Full-Stack,98.94,Web-Dev,Excellent,Yes
+20BCS6394,MANAV GOEL,Female,21,75,78,CSE-8,7.36,8.79,8.88,7.07,7.92,8.64,8.14,8.11,814,Frontend,Backend,ML,Frontend,86.38,Web-Dev,Good,Yes
+20BCS6395,VARSHA SHARMA,Female,21,97,76,CSE-8,8.47,8.69,7.59,8.96,7.19,8.28,8.55,8.25,641,ML,Python,C,Full-Stack,87.44,Analyst,Average,No
+20BCS6396,SAMRIDDHI SINGH,Female,19,92,98,CSE-8,7.49,8.29,7.77,7.39,7.49,8.63,8.02,7.87,517,C,Android,Frontend,Backend,89.27,Machine Learning,Bad,No
+20BCS6397,ASHUTOSH THAKUR,Female,19,71,95,CSE-8,7.5,8.09,8.18,8.85,7.71,8.06,8.18,8.08,540,DL,Backend,Full-Stack,Full-Stack,86.42,Analyst,Bad,No
+20BCS6398,KUSHAL,Female,20,88,98,CSE-8,8.97,8.75,8.17,8.78,7.72,8.78,7.64,8.4,633,UI/UX,Frontend,C++,Full-Stack,84.26,Analyst,Average,No
+20BCS6399,JASPREET KOUR,Female,22,74,75,CSE-8,7.49,8.07,8.67,8.22,8.6,8.52,7.54,8.16,924,Python,UI/UX,Backend,Backend,86.15,Machine Learning,Excellent,Yes
+20BCS6400,ISHA SINHA,Female,20,92,94,CSE-9,8.01,8.9,7.21,7.09,7.95,7.44,7.58,7.74,731,Backend,Backend,Full-Stack,Backend,74.84,Web-Dev,Good,No
+20BCS6401,SHALINI SINGH,Male,21,84,93,CSE-9,7.3,7,8.09,8.37,7.3,7.49,8.14,7.67,765,Backend,Full-Stack,ML,Python,93.35,Machine Learning,Good,No
+20BCS6402,Tajinder,Female,21,80,89,CSE-9,8.54,8.12,8.49,8.12,9,8.89,7.9,8.44,662,DL,ML,Frontend,C,70.83,Machine Learning,Average,No
+20BCS6403,Smile,Male,19,76,99,CSE-9,7.48,8.71,8.48,8.48,7.95,7.18,8.76,8.15,605,Full-Stack,C++,Python,Backend,89.87,Machine Learning,Bad,No
+20BCS6404,MANPREET KAUR TAKKAR,Male,20,99,77,CSE-9,7.48,8.99,8.13,7.36,7.71,8.31,8.55,8.08,655,C,Full-Stack,C++,DL,78.39,Software Development,Average,No
+20BCS6405,TANVEEN KAUR,Male,22,92,98,CSE-9,7.96,7.25,8.63,8.13,7.55,8.37,8.51,8.06,812,Full-Stack,Android,Android,DL,74.34,Analyst,Excellent,Yes
+20BCS6406,NAVDEEP SINGH,Male,20,99,84,CSE-9,7.04,8.9,7.17,7.08,8.46,8.91,8.61,8.02,773,Backend,Backend,C,Python,93.94,Machine Learning,Good,Yes
+20BCS6407,Ashutosh Panchal,Female,19,80,86,CSE-9,8.24,7.46,7.78,7.13,8.85,7.63,8.5,7.94,991,ML,ML,UI/UX,Android,99.68,Analyst,Excellent,Yes
+20BCS6408,MD TANVEER IRFAN,Female,21,86,78,CSE-9,7.4,7.45,7.69,8.91,7.57,7.2,7.3,7.65,737,UI/UX,UI/UX,DL,Python,89.02,Machine Learning,Good,No
+20BCS6409,SHRUTI DHINGRA,Male,22,99,92,CSE-9,7,7.64,7.2,8.61,7.09,7.01,7.79,7.48,775,Python,Full-Stack,Frontend,DL,73.92,Web-Dev,Good,Yes
+20BCS6410,PRANAV AGNIHOTRI,Male,19,81,77,CSE-9,8.47,7.1,8.13,7.66,7.44,8.54,7.74,7.87,557,Frontend,C,ML,Backend,80.02,Analyst,Bad,No
+20BCS6411,GURSIMRAN KAUR,Female,22,83,93,CSE-9,8.88,8.53,7.07,7.18,7.2,8.74,8.28,7.98,971,Android,UI/UX,DL,Full-Stack,95.43,Machine Learning,Excellent,Yes
+20BCS6412,IMAMUL HUQUE,Male,19,85,82,CSE-9,8.26,8.67,8.1,7.38,7.67,7.68,8.26,8,517,Python,C++,Frontend,Python,79.92,Web-Dev,Bad,No
+20BCS6413,RAJ VISHAW BANDHU ATTRI,Male,21,71,99,CSE-9,7.49,7.72,8.41,8.21,8.69,7.6,7.16,7.9,624,UI/UX,C,Python,Frontend,70.69,Machine Learning,Bad,No
+20BCS6414,NAVNEET KAUR,Male,19,70,75,CSE-9,7.05,8.95,7.37,8.39,7.11,7.4,8.99,7.89,950,C++,C,Backend,ML,79.43,Analyst,Excellent,Yes
+20BCS6415,NOVDEEP DUTTA,Female,19,97,94,CSE-9,7.06,7.29,8.17,8.13,7.07,8.01,8.53,7.75,779,C,UI/UX,Android,ML,93.25,Machine Learning,Good,Yes
+20BCS6416,MANSI,Female,19,83,90,CSE-9,7.39,8.99,8.8,8.38,8.41,7.56,7.44,8.14,556,Backend,C,Python,Python,90.76,Web-Dev,Bad,No
+20BCS6417,SUPRADEEP SAMANTA,Female,20,97,76,CSE-9,8.94,7.81,7.93,7.79,7.78,8.54,7.12,7.99,939,Backend,Python,Python,Frontend,87.17,Software Development,Excellent,Yes
+20BCS6418,ADITYA GOGIA,Male,21,89,84,CSE-9,7.26,8.12,7.18,8.95,7.89,7.07,8.63,7.87,741,ML,UI/UX,Android,Full-Stack,82.7,Web-Dev,Good,No
+20BCS6419,ANJALI RANI,Male,20,83,81,CSE-9,7.44,8.01,7.47,7.98,8.04,7.98,8.27,7.88,512,Backend,C,C++,Backend,83.18,Software Development,Bad,No
+20BCS6420,ANAND KAND,Male,21,79,78,CSE-9,8.02,8.41,8.41,8.96,7.79,7.12,8.93,8.23,810,ML,DL,Backend,Python,89.37,Software Development,Good,Yes
+20BCS6421,ANJANA GUPTA,Female,19,96,86,CSE-9,7.82,7.5,7.69,8.11,8.24,7.51,8.32,7.88,686,ML,Full-Stack,Full-Stack,UI/UX,82.37,Machine Learning,Average,No
+20BCS6422,BONGILE MATHUTHU,Female,19,72,89,CSE-9,7.39,7.82,7.79,8.05,7.78,8.7,7.51,7.86,531,DL,DL,C,Frontend,70.49,Analyst,Bad,No
+20BCS6423,LAVKESH GAOUR,Male,20,89,79,CSE-9,7.31,7.41,8.86,8.85,8.79,7.46,7.12,7.97,643,Python,UI/UX,ML,Android,81.28,Machine Learning,Average,No
+20BCS6424,SHEHRYAR  EDIBAM,Male,22,93,97,CSE-9,8.74,7.94,8.27,8.75,7.6,8.72,7.21,8.18,687,ML,Frontend,Full-Stack,Backend,82.07,Machine Learning,Average,No
+20BCS6425,AMANDEEP,Male,20,71,98,CSE-9,7.37,7.98,8.26,7.76,7.73,7.28,7.12,7.64,679,C,Backend,C,Full-Stack,99.89,Analyst,Average,No
+20BCS6426,SULTAN SINGH,Male,19,92,93,CSE-9,8.62,7.76,7.07,8.25,8.55,8.37,7.76,8.05,774,Frontend,ML,ML,Full-Stack,91.42,Software Development,Good,Yes
+20BCS6427,PRIYANKA  PRASAD,Female,20,87,93,CSE-9,8.05,7.15,8.49,7.36,8.56,8.88,8.05,8.08,731,C,Full-Stack,UI/UX,UI/UX,79.12,Software Development,Good,No
+20BCS6428,NANCY ARORA,Male,20,85,93,CSE-9,7.52,7.17,8.19,7.85,8.26,7,7.81,7.69,618,Python,UI/UX,Python,C,85.49,Web-Dev,Bad,No
+20BCS6429,VISHVENDER TANWAR,Female,19,87,84,CSE-9,8.43,7.65,8.37,7.45,7.28,7.83,8.26,7.9,721,Android,Full-Stack,Full-Stack,Android,75.41,Analyst,Average,No
+20BCS6430,BHAVNEET,Female,22,88,75,CSE-9,8.3,7.21,7.03,8.24,8.97,8.03,8.35,8.02,621,UI/UX,C++,ML,Backend,71.94,Web-Dev,Bad,No
+20BCS6431,SRISHTI KUMAR,Male,20,86,80,CSE-9,7.98,7.62,7.02,8.55,8.95,8.19,8.16,8.07,542,Python,Frontend,Backend,C++,89.64,Web-Dev,Bad,No
+20BCS6432,HIMANSHU,Male,22,96,78,CSE-9,8.23,8.92,7.28,8.83,7.78,8.37,7.18,8.08,742,ML,DL,Full-Stack,Full-Stack,78.81,Analyst,Good,No
+20BCS6433,GWANZURA PAINAS,Female,19,98,94,CSE-9,7.37,8.25,8.37,7.21,8.45,8.44,7.28,7.91,522,DL,Frontend,Backend,Android,86.94,Machine Learning,Bad,No
+20BCS6434,RITIK SAINI,Male,22,84,96,CSE-9,8.18,8.06,8.6,7.59,7.17,7.75,8.58,7.99,618,UI/UX,Backend,DL,UI/UX,83.88,Software Development,Average,No
+20BCS6435,LOVEJOT  SINGH,Female,20,96,96,CSE-9,8.14,8.35,7.87,7.52,7.99,8.19,8.47,8.08,598,DL,Android,Frontend,Full-Stack,92.73,Software Development,Bad,No
+20BCS6436,PUSPANJALI KUMARI,Male,21,71,93,CSE-9,8.29,7.84,7.12,8.08,7.02,7.79,8.13,7.75,555,Backend,Full-Stack,C++,C,76.16,Software Development,Bad,No
+20BCS6437,SAHIL SHARMA,Male,21,84,87,CSE-9,8.07,7.98,7.45,7.66,8.06,8.97,8.55,8.11,699,ML,ML,Frontend,Full-Stack,83.21,Machine Learning,Average,No
+20BCS6438,TARANA JEHTA,Female,19,75,97,CSE-9,8.91,7.01,7.11,8.68,8.54,7.94,8.51,8.1,727,C++,DL,Frontend,ML,92.7,Web-Dev,Good,No
+20BCS6439,PANDEY RISHU RAJ,Male,20,71,79,CSE-9,8.17,7.68,8.96,8.77,7.02,7.49,8.56,8.09,817,DL,Backend,Android,Frontend,74.75,Software Development,Good,Yes
+20BCS6440,MANJEET SINGH,Male,21,81,86,CSE-9,8.75,8.82,7.36,8.02,7.03,8.34,8,8.05,688,DL,ML,C++,ML,85.96,Analyst,Average,No
+20BCS6441,PIYUSH KUMAR,Male,22,93,94,CSE-9,8.13,8.67,8.19,8.72,8.78,7.3,8.72,8.36,662,UI/UX,DL,Frontend,Backend,70.82,Software Development,Average,No
+20BCS6442,LEEMA SINGH,Female,19,94,89,CSE-9,8.25,8.02,7.75,7.76,7.95,8.17,7.19,7.87,948,C,UI/UX,Frontend,Android,88.87,Web-Dev,Excellent,Yes
+20BCS6443,SHIPRA SAINI,Female,22,80,99,CSE-9,7.04,7.33,7.34,8.21,8.53,8.27,7.96,7.81,674,DL,Android,Backend,Full-Stack,77,Web-Dev,Average,No
+20BCS6444,MAYANK TYAGI,Female,19,92,78,CSE-9,7.72,8.5,8.44,8.95,8.23,7.08,8.76,8.24,932,C,Frontend,C,Backend,85.16,Software Development,Excellent,Yes
+20BCS6445,ABHISHEK SINGH,Female,22,99,91,CSE-9,7.04,7.24,7.56,7.95,8.3,7.28,8.84,7.74,945,ML,UI/UX,C,UI/UX,78.7,Web-Dev,Excellent,Yes
+20BCS6446,KHUSHI,Male,22,95,99,CSE-9,8.83,8.05,8.13,7.48,7.11,8.48,8.57,8.09,582,ML,C,Frontend,C++,79.3,Machine Learning,Bad,No
+20BCS6447,AJAY,Male,19,92,84,CSE-9,7.52,8.34,8.74,8.59,7.53,8.74,8.43,8.27,574,ML,Android,Android,Python,81.04,Software Development,Bad,No
+20BCS6448,ADITYA SHARMA,Female,21,80,85,CSE-9,7.76,8.42,7.7,7.79,8.75,7.45,7.83,7.96,915,Android,C,Android,Full-Stack,92.75,Analyst,Excellent,Yes
+20BCS6449,PRINCE,Female,21,98,76,CSE-9,7.19,7.93,8.7,8.37,7.85,8.32,8.63,8.14,748,DL,Full-Stack,UI/UX,C,91.77,Software Development,Good,No
+20BCS6450,AMAN KUMAR,Male,20,83,76,CSE-9,7.22,7.86,8.89,8.86,7.35,8.76,8.46,8.2,933,Full-Stack,Backend,Full-Stack,ML,99.41,Software Development,Excellent,Yes
+20BCS6451,SHIVANSH CHANDEL,Female,22,96,82,CSE-9,7.23,7.16,8.98,8.7,8.8,8.16,8.4,8.2,620,Frontend,C++,Backend,Android,98.16,Web-Dev,Average,No
+20BCS6452,MEHAK ,Male,19,86,96,CSE-10,7.55,8.35,7.19,7.46,7.5,8.32,7.29,7.67,969,C,Frontend,Full-Stack,C,87.6,Machine Learning,Excellent,Yes
+20BCS6453,JATIN KUKREJA,Male,20,97,81,CSE-10,8,7.34,7.07,7.62,8.91,8.23,8.37,7.93,776,Android,Full-Stack,C,C,82.17,Analyst,Good,Yes
+20BCS6454,SAHIL MAAN,Male,21,73,88,CSE-10,7.73,8.82,8.45,8.74,8.52,7.82,7.96,8.29,671,Android,Python,Backend,DL,83.71,Software Development,Average,No
+20BCS6455,PALLAVI SHARMA,Male,22,77,84,CSE-10,8.06,7.9,8.09,8.76,8,8.54,7.92,8.18,821,ML,C,UI/UX,Android,85.88,Web-Dev,Good,Yes
+20BCS6456,SHAILLY,Male,22,70,82,CSE-10,8.88,8.89,7.49,7.44,8.06,8.87,7.28,8.13,770,ML,C++,Android,Frontend,76.15,Software Development,Good,No
+20BCS6457,RAJNEESH CHOHAN,Male,22,84,89,CSE-10,7.4,7.14,7.66,8.92,8.04,8.58,7.11,7.84,837,C,Frontend,ML,UI/UX,74.01,Software Development,Excellent,Yes
+20BCS6458,MANKARAN SINGH,Male,19,81,81,CSE-10,7.4,8.84,7.01,8.82,8.62,8.83,7.39,8.13,800,Full-Stack,Frontend,ML,Full-Stack,91.67,Software Development,Good,Yes
+20BCS6459,KASHISH NANDA,Male,19,97,80,CSE-10,7.05,8.77,7.88,8.97,8.63,7.41,7.56,8.04,678,DL,Full-Stack,Backend,Python,79.59,Machine Learning,Average,No
+20BCS6460,GAGANPREET KAUR GILL,Male,21,73,94,CSE-10,7.28,7.73,7.69,8.93,7.6,8.45,8.94,8.09,910,Frontend,ML,Python,Backend,93.12,Machine Learning,Excellent,Yes
+20BCS6461,HARSHIT ,Male,20,97,81,CSE-10,8.73,8.03,7.78,7.41,8.96,8.05,8.15,8.16,846,C++,Full-Stack,DL,Full-Stack,80.16,Analyst,Excellent,Yes
+20BCS6462,SURAJ BAHADUR THAPA,Female,21,86,78,CSE-10,8.37,7.2,8.84,7.67,8.75,7.13,7.89,7.98,977,Android,C++,C,Backend,93.57,Software Development,Excellent,Yes
+20BCS6463,DIMPLE,Male,21,72,88,CSE-10,8.38,7.54,8.77,7.73,7.91,7.91,8.14,8.05,711,C++,UI/UX,UI/UX,Android,75.84,Machine Learning,Average,No
+20BCS6464,DIVYA JANDIAL,Male,20,80,94,CSE-10,8.34,7.64,8.31,7.91,8.11,7.02,8.25,7.94,691,Full-Stack,C++,Android,C,95.78,Machine Learning,Average,No
+20BCS6465,SHIVANI THAKUR,Male,20,94,97,CSE-10,7.16,7.84,7.88,7.11,8.13,7.83,8.39,7.76,528,Backend,Android,Frontend,DL,94.22,Software Development,Bad,No
+20BCS6466,SHRESHTHA,Female,22,85,84,CSE-10,7.49,8.25,7.58,7.17,7.19,7.26,7.37,7.47,582,ML,ML,ML,C++,90.93,Machine Learning,Bad,No
+20BCS6467,ROHIT PATEL,Female,21,82,91,CSE-10,8.78,7.13,7.01,8.17,8.4,7.29,7.3,7.73,563,C,Full-Stack,Full-Stack,DL,82.32,Web-Dev,Bad,No
+20BCS6468,PRIYA AGARWAL,Female,21,71,86,CSE-10,8.52,8.48,7.44,7.56,7.59,8.58,7.42,7.94,973,Android,Android,C++,ML,76.38,Web-Dev,Excellent,Yes
+20BCS6469,NIDHI CHAUHAN,Female,22,82,81,CSE-10,7.04,7.55,7.07,8.23,7.44,8.71,8.41,7.78,985,Android,Full-Stack,Android,Python,94.71,Web-Dev,Excellent,Yes
+20BCS6470,HARMAN PREET KAUR,Male,22,99,91,CSE-10,8.71,8.15,7.64,8.09,7.56,7.84,7.4,7.91,682,ML,Android,Android,Android,97.35,Machine Learning,Average,No
+20BCS6471,PARTEEK  NARWAL,Female,19,92,89,CSE-10,7.25,7.81,7.37,8.39,8.89,7.55,8.37,7.95,510,ML,Full-Stack,ML,DL,97.81,Machine Learning,Bad,No
+20BCS6472,HARPREET SINGH JAGAL,Male,21,89,84,CSE-10,8.15,8.33,8.4,8.25,8.19,8.26,8.13,8.24,650,Python,Backend,UI/UX,ML,70.2,Software Development,Average,No
+20BCS6473,ISHITA GARG,Female,21,76,98,CSE-10,7.43,8.43,8.11,8.03,8.21,7.92,8.65,8.11,804,Frontend,Android,Full-Stack,Android,87.85,Software Development,Good,Yes
+20BCS6474,KAPIL DEV SINGH,Male,20,84,85,CSE-10,8.13,8.01,7.88,7.84,7.83,8.52,8.57,8.11,687,Android,Frontend,ML,Backend,85.41,Software Development,Average,No
+20BCS6475,SHREYA PATYAL,Female,21,92,86,CSE-10,7.08,7.78,8.8,8.93,7.07,8.95,8.69,8.19,988,ML,ML,ML,Python,77.96,Machine Learning,Excellent,Yes
+20BCS6476,SEJAL,Male,21,89,87,CSE-10,8.12,7.05,8.61,7.16,8.67,8.88,8.26,8.11,539,DL,Python,ML,Python,77.41,Software Development,Bad,No
+20BCS6477,DIPAK NATH,Female,22,71,76,CSE-10,8.97,7.98,7.51,8.67,8.14,7.45,7.28,8,979,DL,DL,UI/UX,Android,94.62,Software Development,Excellent,Yes
+20BCS6478,MOHHAMAD AFZAL ,Male,22,75,85,CSE-10,7.56,7.06,7.97,8.6,7.13,7.35,7.91,7.65,991,Full-Stack,Frontend,Android,Backend,97.95,Machine Learning,Excellent,Yes
+20BCS6479,NITIN DHAKLA,Male,20,79,88,CSE-10,7.06,7.96,8.4,8.3,7.82,7.22,7.18,7.71,682,C++,Frontend,C++,Frontend,97.44,Machine Learning,Average,No
+20BCS6480,PRIYANSHU,Female,19,92,99,CSE-10,8.1,8.93,7.7,8.15,8.19,7.1,7.36,7.93,861,Android,Frontend,Frontend,C,84.36,Web-Dev,Excellent,Yes
+20BCS6481,LINTLE PETUNIA MOKHUTSOANE,Male,19,92,76,CSE-10,8.81,7.18,7.8,8.02,7.35,8.06,7.48,7.81,887,C,Frontend,C,Backend,97.48,Web-Dev,Excellent,Yes
+20BCS6482,GURLEEN KAUR,Male,20,96,83,CSE-10,8.91,8.9,7.89,7.01,8.07,8.87,8,8.24,636,Frontend,C,UI/UX,ML,77.08,Machine Learning,Average,No
+20BCS6483,PALAK KAPOOR,Female,22,90,91,CSE-10,8.95,8.55,7.33,7.96,7.77,7.42,7.79,7.97,800,Frontend,C++,C,ML,71.51,Web-Dev,Good,Yes
+20BCS6484,ASHIS KUMAR PATEL,Male,22,97,99,CSE-10,8.54,8.94,8.31,8.87,7.81,7.98,8.62,8.44,699,C++,Python,C,Frontend,88.08,Web-Dev,Good,No
+20BCS6485,JYOTI,Male,20,98,80,CSE-10,7.72,7.3,7.98,8.25,8.75,8.92,7.63,8.08,872,C++,Frontend,ML,Full-Stack,88.09,Web-Dev,Excellent,Yes
+20BCS6486,GOURAV,Male,20,98,92,CSE-10,7.62,7.28,8.1,7.62,7.91,8.62,7.99,7.88,823,Full-Stack,C,Python,Android,80.28,Machine Learning,Excellent,Yes
+20BCS6487,SAKSHAM,Female,22,90,79,CSE-10,7.31,8.76,8.7,7.86,7.65,8.26,7.32,7.98,733,Full-Stack,ML,Full-Stack,Backend,93.17,Analyst,Good,No
+20BCS6488,HARSHDEEP SINGH,Male,21,84,79,CSE-10,7.54,8.05,7.42,8.94,8.46,8.83,7.88,8.16,791,Android,Full-Stack,Full-Stack,C,70.27,Analyst,Good,Yes
+20BCS6489,HARDEEP SINGH,Male,21,73,75,CSE-10,8.62,7.26,7.13,7.14,7.99,8.11,8.53,7.83,582,C++,Full-Stack,Android,Python,82.35,Analyst,Bad,No
+20BCS6490,PRIYANKA,Female,19,89,76,CSE-10,7.77,7.98,7.66,7.17,7.61,7.28,8.76,7.75,822,C,Android,C++,Backend,75.36,Web-Dev,Good,Yes
+20BCS6491,RAJNI,Male,19,89,83,CSE-10,8.69,8.61,7.38,7.75,8.82,7.93,7.09,8.04,949,UI/UX,Android,Frontend,DL,94.29,Web-Dev,Excellent,Yes
+20BCS6492,SIMRAN,Male,20,93,97,CSE-10,7.87,7.53,8.65,7.35,7.41,8.81,7.59,7.89,931,ML,Frontend,Android,ML,71.1,Analyst,Excellent,Yes
+20BCS6493,KUMESH DANDYAN,Male,19,96,78,CSE-10,8.35,7.47,7.16,7.26,7.4,8.08,7.82,7.65,975,DL,Backend,Python,ML,89.15,Software Development,Excellent,Yes
+20BCS6494,LOVEDEEP SINGH,Male,19,72,81,CSE-10,7.95,8.88,7.49,7.25,7.17,7.92,7.17,7.69,502,Backend,Python,ML,Full-Stack,71.36,Software Development,Bad,No
+20BCS6495,SUVIDHA SEHRAWAT,Female,20,83,91,CSE-10,7.74,7.69,7.39,8.08,8.22,8.62,7.57,7.9,678,ML,C,C,Backend,93.36,Machine Learning,Average,No
+20BCS6496,BARKHA SARIN,Male,21,90,90,CSE-10,8.15,7.59,7.45,7.23,8.76,7.01,7.22,7.63,733,DL,Full-Stack,Android,Python,99.76,Software Development,Good,No
+20BCS6497,KAMANPREET KAUR,Female,20,73,76,CSE-10,8.97,8.72,8.66,7.97,7.93,8.8,8.24,8.47,516,Python,Backend,C,DL,95.86,Web-Dev,Bad,No
+20BCS6498,DIMPLE CHOUDHARY,Male,20,93,87,CSE-10,8.54,7.82,8.73,8.66,7.45,7.64,7.02,7.98,850,ML,Frontend,Python,DL,87.47,Software Development,Excellent,Yes
+20BCS6499,SUVIDHA JAIN,Male,19,77,78,CSE-10,7.48,7.53,7.85,7.05,8.03,7.14,8.17,7.61,888,ML,UI/UX,UI/UX,Python,86.85,Machine Learning,Excellent,Yes
+20BCS6500,AMIT SINGH,Female,22,81,98,CSE-10,8.92,7.15,8.26,7.14,8.49,7.66,7.02,7.81,728,Full-Stack,Frontend,Full-Stack,UI/UX,96.89,Machine Learning,Good,No
+20BCS6501,NIKHIL MANAN,Male,22,70,80,CSE-10,8.4,8.76,7.26,8.84,8.08,7.87,7.11,8.05,819,Full-Stack,Full-Stack,ML,ML,93.79,Machine Learning,Good,Yes
+20BCS6502,Kartikay Sabherwal,Male,22,76,93,CSE-11,8.23,7.33,7.74,7.79,8.19,8.57,8.5,8.05,904,Full-Stack,DL,C++,Full-Stack,76.62,Web-Dev,Excellent,Yes
+20BCS6503,Aniket Sharma,Female,21,90,92,CSE-11,7.18,7.68,7.39,7.93,8.15,8.24,8.96,7.93,843,C,C++,ML,Full-Stack,83.11,Analyst,Excellent,Yes
+20BCS6504,SAJANDEEP SINGH,Female,22,74,98,CSE-11,7.56,8.69,7.66,8.56,8.35,7.15,7.92,7.98,530,Backend,Backend,Android,Android,76.08,Analyst,Bad,No
+20BCS6505,BHOOMI TAKKAR,Male,22,93,90,CSE-11,7.3,7.26,7.02,7.48,7.51,8.06,8.31,7.56,565,C,C,Python,Frontend,82.06,Machine Learning,Bad,No
+20BCS6506,Yash Poriya,Female,21,77,79,CSE-11,8.56,7.44,7.66,8.71,8.68,7.95,7.67,8.1,615,UI/UX,Frontend,Backend,ML,97.5,Web-Dev,Bad,No
+20BCS6507,MEGHNA KOLUSH,Female,22,95,91,CSE-11,8.3,7.21,8.45,7.27,8.02,7.44,8.01,7.81,642,C++,Backend,Python,C,92.18,Software Development,Average,No
+20BCS6508,RITISH,Female,22,98,87,CSE-11,8.25,8.4,8.37,7.87,7.88,7.13,8.84,8.11,886,ML,Frontend,DL,Android,95.51,Software Development,Excellent,Yes
+20BCS6509,KUNAL KAUSHIK ,Female,19,71,89,CSE-11,7.35,8.49,8.59,8.98,8.9,8.09,7.83,8.32,605,ML,ML,C,C++,95.15,Analyst,Bad,No
+20BCS6510,ANURAG BHIVAJI KALWALE,Male,21,93,79,CSE-11,7.26,7.02,7.44,7.02,7.99,8.75,8.76,7.75,812,C,C,Python,C,97.07,Web-Dev,Good,Yes
+20BCS6511,CHINMAY RATHEE,Female,21,92,98,CSE-11,7.84,7.42,7.25,7.11,8.35,7.35,7.51,7.55,934,Python,Full-Stack,Android,Android,93.8,Machine Learning,Excellent,Yes
+20BCS6512,BHARAT JINDAL,Male,20,84,83,CSE-11,8.39,8.17,8.11,7.43,7.25,7.46,7.01,7.69,750,UI/UX,UI/UX,Python,Frontend,78,Machine Learning,Good,No
+20BCS6513,DIPANSHU JINDAL ,Female,21,92,79,CSE-11,7.13,7.79,7.08,8.58,8.2,8.93,8.19,7.99,848,Frontend,Frontend,Full-Stack,Python,94.1,Analyst,Excellent,Yes
+20BCS6514,HARSHVIR SINGH BATTH ,Male,21,96,91,CSE-11,8.64,7.78,8.58,8.2,8.82,7.83,7.43,8.18,884,Python,DL,ML,ML,87.25,Web-Dev,Excellent,Yes
+20BCS6515,TAMANNA NAGPAL ,Male,20,77,84,CSE-11,7.91,8.33,7.72,7.88,8.38,7.76,8.98,8.14,569,C++,Backend,Android,Python,78.43,Analyst,Bad,No
+20BCS6516,PRERANA GHOSH,Male,19,75,77,CSE-11,7.02,7.05,7.06,8.82,7.3,8.08,8.48,7.69,747,Android,Backend,Full-Stack,Android,76.9,Machine Learning,Good,No
+20BCS6517,KUSHAGRI,Female,22,79,93,CSE-11,7.4,8.2,7.82,8.95,8.61,8.37,7.67,8.15,807,Python,DL,C++,ML,90.17,Web-Dev,Good,Yes
+20BCS6518,SWATI,Female,21,81,78,CSE-11,8.33,7.73,8.8,8.89,7.63,7.87,7.19,8.06,618,Full-Stack,C++,Full-Stack,Full-Stack,96.94,Software Development,Bad,No
+20BCS6519,SHAKSHI HOODA,Male,19,75,75,CSE-11,8.58,8.11,7.51,7.92,7.46,8.13,8.76,8.07,937,Frontend,Backend,C,Backend,73.23,Software Development,Excellent,Yes
+20BCS6520,PRIYA,Female,19,76,86,CSE-11,7.35,7.44,8.66,8.13,7.53,8.82,7.34,7.9,632,DL,C++,DL,Full-Stack,79.07,Web-Dev,Bad,No
+20BCS6521,RAJAT PURI,Female,20,77,75,CSE-11,8.66,8.87,7.65,7.4,7.4,7.76,7.18,7.85,503,C++,Full-Stack,UI/UX,C++,76.68,Analyst,Bad,No
+20BCS6522,AADITYA,Female,22,92,96,CSE-11,7.83,8.47,8.21,7.51,8.46,7.33,8.74,8.08,650,C,C++,DL,Python,92.5,Analyst,Average,No
+20BCS6523,YASHIKA TALWAR,Male,22,86,92,CSE-11,8.17,7.93,7.29,8.25,8.21,8.61,7.6,8.01,527,DL,Frontend,ML,DL,76.88,Web-Dev,Bad,No
+20BCS6524,VISHAVJEET SINGH,Male,21,95,78,CSE-11,8.39,8.26,7.09,8.23,7.15,7.73,7.07,7.7,504,Full-Stack,UI/UX,DL,C++,93.98,Software Development,Bad,No
+20BCS6525,YUGANSHI,Female,19,77,81,CSE-11,8.12,8.17,8.62,7.68,8.77,7.56,8.87,8.26,603,DL,Python,ML,DL,79.01,Web-Dev,Bad,No
+20BCS6526,RIYA MASCARENHAS,Female,22,80,93,CSE-11,7.9,8.26,7.38,7.27,7.19,7.49,8.87,7.77,927,Full-Stack,UI/UX,UI/UX,UI/UX,94.96,Web-Dev,Excellent,Yes
+20BCS6527,SHALINI GARG,Female,19,99,92,CSE-11,7.93,7.46,7.83,8.59,7.42,8.31,7.47,7.86,772,Backend,ML,C++,UI/UX,94.97,Machine Learning,Good,Yes
+20BCS6528,AAYUSHI ,Female,20,77,98,CSE-11,7.37,8.9,7.89,7.91,7.65,8.55,7.45,7.96,713,UI/UX,Frontend,Python,Backend,82.8,Web-Dev,Average,No
+20BCS6529,LOKESH YADAV,Male,19,86,98,CSE-11,7.9,8.91,8.64,7.49,7.64,8.53,7.56,8.1,625,Android,C,DL,DL,83.56,Software Development,Average,No
+20BCS6530,NAVNEET KAUR,Female,21,91,94,CSE-11,8.69,7.18,8.47,8.68,7.95,8.24,8.14,8.19,922,C,Full-Stack,Android,Full-Stack,74.16,Machine Learning,Excellent,Yes
+20BCS6531,Nishtha Lahane,Female,21,79,96,CSE-11,8.65,7.81,8.08,8.56,7.21,7.87,7.06,7.89,684,C++,ML,Full-Stack,Android,77.87,Web-Dev,Average,No
+20BCS6532,VIKAS CHANSOLIYA,Male,22,86,87,CSE-11,7.37,7.97,8.09,7.47,7.01,8.63,8.08,7.8,971,ML,ML,Python,Frontend,91.67,Machine Learning,Excellent,Yes
+20BCS6533,Harshit bhardwaj,Female,19,98,96,CSE-11,7.28,8.46,7.76,7.99,8,8.23,8.01,7.96,949,Python,Python,Full-Stack,C,99.2,Web-Dev,Excellent,Yes
+20BCS6534,PAYAL YADAV,Female,19,99,92,CSE-11,8.47,8.59,7.12,7.16,8.42,7.98,7.09,7.83,918,Python,Backend,ML,Python,80.7,Web-Dev,Excellent,Yes
+20BCS6535,MOHD IQBAL,Male,22,94,92,CSE-11,7.02,8.02,8.92,8.28,7.5,7.85,8.13,7.96,796,C,Full-Stack,Backend,Frontend,98.78,Software Development,Good,Yes
+20BCS6536,ADITYA AGGARWAL,Female,21,87,79,CSE-11,7.01,7.11,8.52,7.65,7.13,7.01,8.51,7.56,685,Full-Stack,Android,C++,Python,86.17,Machine Learning,Average,No
+20BCS6537,ABHISHEK KAMBOJ,Female,21,75,89,CSE-11,8.5,7.39,8.99,7.92,7.37,7.73,8.06,7.99,713,UI/UX,C,Full-Stack,Backend,88.41,Analyst,Average,No
+20BCS6538,HARSH CHAHAR,Male,20,95,81,CSE-11,8.15,8.4,8.94,8.93,7.04,8.51,7.72,8.24,953,ML,ML,Frontend,Backend,82.39,Software Development,Excellent,Yes
+20BCS6539,AYUSH CHAHAR,Female,21,70,80,CSE-11,7.71,7.3,7.23,8.54,7.89,8.16,7.09,7.7,819,Python,UI/UX,C++,Python,71.62,Web-Dev,Good,Yes
+20BCS6540,SARGAM SHARMA,Male,22,71,96,CSE-11,7.66,7.43,8.14,7.88,7.47,7.95,8.67,7.89,552,C,Full-Stack,ML,DL,83.21,Machine Learning,Bad,No
+20BCS6541,HARSHARAN SINGH,Male,22,98,92,CSE-11,7.27,8.59,7.49,8.61,7.62,8.16,8.36,8.01,991,Backend,Full-Stack,Backend,Frontend,97.14,Machine Learning,Excellent,Yes
+20BCS6542,AKASH,Male,20,83,81,CSE-11,8.69,8.28,7.14,7.21,8.77,8.18,8.45,8.1,669,Full-Stack,C,C,DL,80.51,Analyst,Average,No
+20BCS6543,EKNOOR KAUR ROSHA,Female,20,71,76,CSE-11,7.7,7.27,8.37,8.44,7.01,7.77,7.29,7.69,763,C,ML,Frontend,Python,71.37,Analyst,Good,No
+20BCS6544,KAPIL ATTRI,Female,19,75,97,CSE-11,7.54,8.27,7.77,7.8,7.03,7.36,7.53,7.61,728,DL,Android,C++,C,94.86,Machine Learning,Good,No
+20BCS6545,ARYAN KATARIA,Female,19,71,85,CSE-11,8.2,7.31,8.48,7.08,7.36,8.62,8.34,7.91,876,UI/UX,Backend,Backend,Backend,71.37,Analyst,Excellent,Yes
+20BCS6546,NIVEDITA GOYAL,Male,22,75,76,CSE-11,8.75,8.69,7.55,8.9,7.54,8.52,7.65,8.23,702,Backend,Python,UI/UX,Python,86.87,Web-Dev,Average,No
+20BCS6547,DEEPAK KASHYAP,Female,22,77,96,CSE-11,8.4,7.63,8.28,8.49,8.7,7.01,8.34,8.12,913,Frontend,Backend,DL,C++,71.9,Web-Dev,Excellent,Yes
+20BCS6548,SOURAV SUMAN,Male,21,76,86,CSE-11,8.67,7.79,7.23,7.18,8.4,7.07,8.53,7.84,788,Python,UI/UX,Android,ML,91.27,Software Development,Good,Yes
+20BCS6549,SHIVANI,Female,21,93,90,CSE-11,8.56,7.53,8.2,7.62,8.01,8.08,8.27,8.04,592,Frontend,DL,Android,ML,83.67,Analyst,Bad,No
+20BCS6550,GOKUL NAIR,Male,19,90,93,CSE-11,8.71,8.28,7.71,7.45,7.26,8.84,7.22,7.92,612,Frontend,Android,UI/UX,UI/UX,86.8,Software Development,Average,No
+20BCS6551,PRIYANKA KATAL,Male,22,77,97,CSE-11,7.1,7.34,8.99,8,7.94,8.99,7.75,8.02,891,DL,Python,ML,Android,97.99,Machine Learning,Excellent,Yes
+20BCS6552,KARUNA,Female,19,88,93,CSE-12,8.82,7.9,8.22,8.38,8.91,8.35,8.3,8.41,980,Python,ML,Android,Frontend,75.21,Web-Dev,Excellent,Yes
+20BCS6553,RITIKA,Male,19,96,77,CSE-12,7.68,8,8.82,8.66,7.75,7.5,7.39,7.97,654,C++,C++,Frontend,ML,89.16,Analyst,Average,No
+20BCS6554,SHAYNA,Female,19,91,82,CSE-12,8.29,8.62,8.92,8.74,7.12,7.96,8.69,8.33,585,C,C,DL,ML,84.29,Software Development,Bad,No
+20BCS6555,SANSKRITI PRATIK,Male,19,82,96,CSE-12,7.36,7.15,7.79,8.86,8.45,7.29,8.83,7.96,563,Python,Android,DL,UI/UX,92.06,Web-Dev,Bad,No
+20BCS6556,TUSHAR KALIA,Male,19,94,85,CSE-12,7.41,7.83,8.32,8.47,8.26,7.67,7.73,7.96,805,Android,Android,C,Frontend,75.74,Web-Dev,Good,Yes
+20BCS6557,NITIN MALIK,Male,20,82,96,CSE-12,7.67,8.06,7.95,7.16,7.49,7.7,8.21,7.75,891,Android,Android,Android,DL,83.89,Analyst,Excellent,Yes
+20BCS6558,NIKITA GUPTA,Male,19,91,99,CSE-12,7.14,7.89,8.51,7.05,8.78,7.65,8.67,7.96,666,UI/UX,Python,Backend,UI/UX,82.66,Web-Dev,Average,No
+20BCS6559,MS APURVA ARORA,Male,21,85,95,CSE-12,8.52,7.34,7.72,7.63,7.94,7.24,7.33,7.67,550,Frontend,Backend,Android,Python,85.62,Software Development,Bad,No
+20BCS6560,AZHAR BADSHAH,Male,21,70,87,CSE-12,7.42,8.86,8.65,8.27,7.31,8.63,7.45,8.08,952,Python,Android,ML,Backend,71.79,Analyst,Excellent,Yes
+20BCS6561,TANVEER SINGH,Male,19,91,93,CSE-12,7.23,8.76,8.17,7.55,8.65,8.72,8.77,8.26,669,Backend,Python,Backend,C,81.83,Analyst,Average,No
+20BCS6562,BISWIN THOMAS K,Male,21,70,83,CSE-12,8.9,8.04,8.17,8.06,7.94,7.84,7.04,8,872,Backend,Full-Stack,C++,UI/UX,89.47,Software Development,Excellent,Yes
+20BCS6563,MANISH KUMAR SAINI,Male,22,87,80,CSE-12,8.54,8.99,7.45,7.3,8.15,7.07,8.83,8.05,515,DL,Frontend,Python,Android,92.29,Web-Dev,Bad,No
+20BCS6564,SHAHEEN KAUR,Male,22,83,91,CSE-12,7.59,8.93,7.05,8,8.02,8.33,8.84,8.11,568,Full-Stack,Python,UI/UX,ML,96.11,Analyst,Bad,No
+20BCS6565,NEIL S MACWAN,Female,19,71,87,CSE-12,8.9,8.67,7.63,7.18,8.32,7.39,7.61,7.96,551,ML,Backend,Frontend,Full-Stack,87.65,Web-Dev,Bad,No
+20BCS6566,HARMAN SINGH GOGE,Female,21,98,80,CSE-12,8.57,8.82,8.05,7.22,7.85,8.32,7.77,8.09,545,UI/UX,Android,Python,DL,98.45,Analyst,Bad,No
+20BCS6567,SAHIL,Female,19,80,96,CSE-12,7.92,8.48,8.57,7.83,7.33,8.78,8.36,8.18,570,Frontend,C,UI/UX,Backend,76.25,Software Development,Bad,No
+20BCS6568,DIOTIMA BOSE,Male,20,98,92,CSE-12,7.88,8.7,7.48,7.37,8.82,7.64,7.01,7.84,607,C,Backend,Frontend,ML,83.89,Web-Dev,Average,No
+20BCS6569,MOHD UVAISH,Female,20,72,87,CSE-12,8.81,8.36,7.29,8.57,7.97,7.1,8.78,8.13,798,DL,Backend,C++,C,73.67,Analyst,Good,Yes
+20BCS6570,ROOPA SHARMA,Male,21,93,81,CSE-12,7.87,8.24,8.39,7.4,8.37,7.06,7.45,7.83,891,Backend,Android,Python,Android,70.67,Analyst,Excellent,Yes
+20BCS6571,ANJALI SAHU,Female,21,75,82,CSE-12,7.41,7.19,7.62,8.42,7.33,8,8.7,7.81,553,DL,Frontend,Android,Frontend,88.56,Software Development,Bad,No
+20BCS6572,ANMOL SINGH,Female,20,72,99,CSE-12,7.6,8.37,8.13,8.18,7.23,7.74,7.94,7.88,963,ML,C,Python,Python,96.8,Software Development,Excellent,Yes
+20BCS6573,ROHIT PAL,Male,20,95,92,CSE-12,7.82,8.67,8.13,7.18,8.01,7.97,8.39,8.02,631,DL,Full-Stack,DL,C,78.33,Analyst,Average,No
+20BCS6574,EAK NARAYAN DHAKAL,Male,21,71,88,CSE-12,8.87,7.09,7.03,8.28,8.24,7.88,8.56,7.99,984,Python,Backend,Backend,Android,93.91,Machine Learning,Excellent,Yes
+20BCS6575,AARON GARG,Female,20,96,82,CSE-12,7.83,7.23,8.05,8.89,8.35,8.21,8.35,8.13,905,Android,Frontend,C,C++,83.86,Machine Learning,Excellent,Yes
+20BCS6576,AMAN SHARMA,Female,20,81,87,CSE-12,8.27,8.33,7.94,7.24,8.57,7.07,8.47,7.98,970,C++,Backend,C++,DL,93.8,Machine Learning,Excellent,Yes
+20BCS6577,WILFRED  BUKROH,Male,20,91,84,CSE-12,7.79,7.11,8.42,7.76,7.42,7.15,8.93,7.8,885,C,Python,C++,DL,94.33,Web-Dev,Excellent,Yes
+20BCS6578,SONAM KUMARI,Male,19,88,85,CSE-12,7.97,7.79,8.09,7.61,7.74,8.49,7.63,7.9,836,Backend,UI/UX,Frontend,C,93.25,Machine Learning,Excellent,Yes
+20BCS6579,ARSH KAPOOR,Male,22,95,79,CSE-12,7.83,8.92,7.64,7.45,7.77,7.31,8.21,7.88,804,ML,DL,Python,DL,71.22,Software Development,Good,Yes
+20BCS6580,AKSHIT CHANDEL,Female,22,98,95,CSE-12,8.48,8.02,8.8,7.17,7.15,7.15,8.38,7.88,946,ML,DL,Full-Stack,Android,76.33,Analyst,Excellent,Yes
+20BCS6581,NEERU,Male,19,83,88,CSE-12,7.31,8.74,7.53,8.29,8.46,7.92,8.7,8.14,890,Python,Python,C,Android,75.26,Machine Learning,Excellent,Yes
+20BCS6582,RATTANJOT SINGH,Male,21,94,79,CSE-12,8.94,8.72,8.61,8.64,8.02,8.15,8.55,8.52,745,Android,Android,Backend,UI/UX,94.8,Machine Learning,Good,No
+20BCS6583,YASH THAKUR,Male,21,92,76,CSE-12,7.03,7.51,7.84,7.86,8.23,7.38,7.61,7.64,649,DL,Full-Stack,C,Full-Stack,87.27,Machine Learning,Average,No
+20BCS6584,REVANTH GOLI,Female,20,87,85,CSE-12,8.32,8.24,7.13,8.92,8.23,7.64,7.25,7.96,929,UI/UX,C,Full-Stack,Backend,75.37,Software Development,Excellent,Yes
+20BCS6585,ADITYA SEKHRI,Female,20,90,91,CSE-12,8.34,8.45,7.79,8.06,7.95,8.56,7.85,8.14,927,Full-Stack,Android,Backend,C++,95.13,Web-Dev,Excellent,Yes
+20BCS6586,Manas Kumar rupani,Female,22,71,95,CSE-12,7.64,8.2,7.92,8.54,7.53,7.81,8.92,8.08,732,C++,C,UI/UX,C++,91.81,Web-Dev,Good,No
+20BCS6587,ESHA KHANNA,Male,22,99,96,CSE-12,8.54,7.17,8.93,7.78,7.84,7.6,7.7,7.94,640,ML,C++,ML,C,94.71,Machine Learning,Average,No
+20BCS6588,Sristhi pawar,Male,22,99,99,CSE-12,8.78,7.22,7.49,7.4,8.13,7.69,8.17,7.84,511,Android,Android,Python,Full-Stack,70.44,Web-Dev,Bad,No
+20BCS6589,GAGAN GHAI,Female,20,81,86,CSE-12,8.8,7.14,8.09,7.91,8.51,8.23,7.2,7.98,904,ML,C,DL,UI/UX,92.33,Analyst,Excellent,Yes
+20BCS6590,SAFAA MEHBOOB,Male,21,94,80,CSE-12,7.02,8.64,8.37,7.72,7.87,8.84,8.4,8.12,775,ML,DL,C,Android,90.98,Machine Learning,Good,Yes
+20BCS6591,AKASH KUMAR ,Female,20,84,86,CSE-12,8.12,7.74,8.14,8.19,8.13,7.45,7.67,7.92,786,Frontend,Backend,Python,C++,98.51,Web-Dev,Good,Yes
+20BCS6592,VIKAS KUMAR,Male,21,83,97,CSE-12,7.48,8.78,7.95,7.68,7.44,8.5,7.2,7.86,922,Backend,C++,C++,DL,83.35,Software Development,Excellent,Yes
+20BCS6593,PRADYUMN THAKUR,Male,20,91,92,CSE-12,7.27,8.19,7.7,7.57,7.17,8.82,8.22,7.85,983,Backend,UI/UX,UI/UX,DL,74.2,Web-Dev,Excellent,Yes
+20BCS6594,PRABHJOT SINGH,Female,21,90,95,CSE-12,8.69,7.24,7.95,8.77,8.91,7.2,8.09,8.12,636,Backend,Frontend,C,ML,88.49,Web-Dev,Average,No
+20BCS6595,ASHWANI,Male,20,90,86,CSE-12,7.04,7.54,8.04,8.4,7.96,7.32,8.31,7.8,911,Python,Frontend,Backend,DL,87.67,Web-Dev,Excellent,Yes
+20BCS6596,ABHINAV RAJ,Female,20,78,86,CSE-12,7.37,8.92,7.4,7.48,8.66,7.24,8.13,7.89,921,DL,Python,Backend,ML,84.4,Analyst,Excellent,Yes
+20BCS6597,AJAY KUMAR SAINI,Male,22,75,98,CSE-12,8.69,7.45,8.22,8.96,8.25,8.88,8.87,8.47,893,Full-Stack,Frontend,Backend,Android,74.31,Software Development,Excellent,Yes
+20BCS6598,AKSHAT JAWA,Female,22,99,91,CSE-12,8.85,8.08,8.8,7.06,8.08,7.43,8.11,8.06,635,C,C++,Python,Backend,88.85,Analyst,Average,No
+20BCS6599,KHUSHBOO,Male,20,89,91,CSE-12,8.66,8,8.06,7.83,8.02,8.96,7.7,8.18,927,UI/UX,UI/UX,Android,C++,75.34,Machine Learning,Excellent,Yes
+20BCS6600,Aman kumar,Male,20,70,94,CSE-12,8.59,8.06,7.53,7.93,7.57,8.45,7.41,7.93,794,C,C,DL,Full-Stack,72.09,Software Development,Good,Yes
+20BCS6601,DHEERAJ G LAKHANI,Male,20,72,83,CSE-12,7.32,7.65,8.02,7.08,8.38,7.73,8.49,7.81,931,Backend,UI/UX,UI/UX,Android,81.75,Software Development,Excellent,Yes
+20BCS6602,APURAV SHARMA,Male,19,93,99,CSE-13,7.46,8.15,7.42,7.02,7.6,7.03,8.82,7.64,791,Python,Python,C,UI/UX,96.31,Machine Learning,Good,Yes
+20BCS6603,ASHUTOSH MISHRA,Female,20,96,96,CSE-13,7.16,7.31,8.09,7.07,8.34,8.09,7.94,7.71,509,Backend,Android,DL,UI/UX,92.41,Web-Dev,Bad,No
+20BCS6604,JOYCE KHOKHAR,Male,21,87,98,CSE-13,8.49,8.07,8.06,8.66,8.7,8.84,8.18,8.43,969,Full-Stack,DL,Full-Stack,C++,74.99,Analyst,Excellent,Yes
+20BCS6605,DEBSATYAM DEY,Female,21,94,77,CSE-13,8.79,8.86,8.7,7.87,7.92,8.59,7.24,8.28,890,Python,C,Python,C,76.3,Software Development,Excellent,Yes
+20BCS6606,AYUSHI RAJPUT,Male,19,85,98,CSE-13,8.68,8.11,8.13,7.66,8.37,7.28,7.08,7.9,737,C++,Python,C,Python,70.5,Software Development,Good,No
+20BCS6607,KAJAL RANI,Male,22,92,92,CSE-13,7.61,7.31,8.13,7.85,7.65,7.52,7.26,7.62,944,ML,Full-Stack,Android,Full-Stack,99.32,Web-Dev,Excellent,Yes
+20BCS6608,SUNIL SHARMA,Female,22,85,97,CSE-13,7.03,7.02,8.68,8.4,8.02,7.68,8.86,7.96,588,C++,Backend,C++,Frontend,80.96,Machine Learning,Bad,No
+20BCS6609,Sanskar Shaw,Female,21,89,90,CSE-13,7.45,8.83,7.68,8.24,7.58,8.23,7.34,7.91,705,UI/UX,Backend,Python,Frontend,81.91,Web-Dev,Average,No
+20BCS6610,RAMAN KUMAR,Male,19,88,75,CSE-13,8.7,7.71,7.81,8.7,8.54,8,8.89,8.34,549,Full-Stack,Android,Android,ML,76.08,Analyst,Bad,No
+20BCS6611,SHAILJA SHARMA,Male,20,72,91,CSE-13,8.86,7.59,8.85,8.26,7.83,8.14,7.27,8.11,613,Frontend,Full-Stack,C++,Python,95.94,Software Development,Bad,No
+20BCS6612,ANUSHKA ,Female,19,86,79,CSE-13,8.87,8.99,7.04,7.3,7.26,8.94,8.41,8.12,952,DL,Android,DL,Frontend,90.85,Machine Learning,Excellent,Yes
+20BCS6613,PARIKSHIT THAKUR,Female,20,83,98,CSE-13,7.04,8.49,8.64,7.19,7.91,7.45,8.11,7.83,577,Frontend,Frontend,Python,Frontend,87.09,Machine Learning,Bad,No
+20BCS6614,SWATI SINGH,Female,20,99,91,CSE-13,8.81,7.57,8.37,8.75,8.11,8.37,8.9,8.41,991,C++,ML,DL,UI/UX,73.18,Analyst,Excellent,Yes
+20BCS6615,HARSHDEEP SINGH,Male,19,75,97,CSE-13,8.1,7.41,7.09,8.7,8.35,8.19,7,7.83,726,Python,Full-Stack,C,Android,82.64,Analyst,Good,No
+20BCS6616,RISHIKA RANA,Male,21,82,76,CSE-13,8.65,8.95,8.74,7.32,8.24,8.79,8.85,8.51,998,Backend,Python,Python,C++,89.43,Web-Dev,Excellent,Yes
+20BCS6617,HARSHIT MANHAS,Female,19,85,91,CSE-13,8.56,7.72,8.48,8.9,7.15,8.88,7.45,8.16,872,Backend,Frontend,C++,C,84.44,Software Development,Excellent,Yes
+20BCS6618,GURLEEN,Female,19,80,97,CSE-13,7.81,7.04,8.68,8.68,8.6,8.98,7.07,8.12,595,Python,ML,Android,C,77.52,Software Development,Bad,No
+20BCS6619,VENKAT KSE,Female,21,73,78,CSE-13,7.08,7.89,7.34,8.11,8.03,7.1,7.4,7.56,923,ML,C++,Full-Stack,Full-Stack,90.2,Analyst,Excellent,Yes
+20BCS6620,GURMAN KAUR,Female,19,97,82,CSE-13,7.45,8.36,7.89,7.79,7.78,8.68,8.71,8.09,798,C++,DL,Backend,Python,98.25,Software Development,Good,Yes
+20BCS6621,ANIMESH GHOSH,Male,21,89,77,CSE-13,7.73,7.91,8.57,8.55,7.15,7.73,7.49,7.88,787,Backend,Frontend,Android,C++,91.75,Analyst,Good,Yes
+20BCS6622,Eknoor Kaur,Male,19,72,94,CSE-13,8.5,8.05,7.78,7.44,7.94,8.92,7.46,8.01,889,DL,C,Android,Python,91.94,Software Development,Excellent,Yes
+20BCS6623,RITIKA,Female,20,72,92,CSE-13,8.94,8.97,8.08,7.46,7.1,8.21,7.59,8.05,715,Android,DL,ML,C,96.55,Software Development,Average,No
+20BCS6624,NIDHI SHARMA,Female,19,85,77,CSE-13,8.68,7.85,7.05,8.18,8.4,8.14,7.82,8.02,633,Python,DL,Frontend,DL,95.27,Software Development,Average,No
+20BCS6625,SHRAVAN KHUNTI SHAMLABHAI,Female,21,72,96,CSE-13,7.17,8.19,8.1,8.11,7.63,8.84,7.72,7.97,680,Android,C,DL,Full-Stack,95.52,Machine Learning,Average,No
+20BCS6626,Triyamb K Ojha,Female,22,96,91,CSE-13,7.66,8.27,7.37,8.81,8.25,7.18,8.97,8.07,902,Frontend,Full-Stack,UI/UX,ML,96.52,Analyst,Excellent,Yes
+20BCS6627,RIYA,Male,22,86,99,CSE-13,7.03,7.93,8.69,8.89,7.1,8.18,8.81,8.09,889,DL,Backend,C++,ML,82.36,Software Development,Excellent,Yes
+20BCS6628,MADHAV SINGH CHIB,Male,21,94,88,CSE-13,8.62,7.55,8.46,7.97,8.36,8.86,8.95,8.4,589,Full-Stack,ML,C,UI/UX,94.23,Software Development,Bad,No
+20BCS6629,SINGH VARUN SANJEEV ,Female,22,82,93,CSE-13,7.87,7.47,7.97,8.17,8.37,8.69,7.69,8.03,762,ML,Frontend,C,Full-Stack,75.95,Web-Dev,Good,No
+20BCS6630,NEHA,Male,20,89,91,CSE-13,7.01,8.76,7.97,8.87,8.53,8.02,7.96,8.16,542,C,C,UI/UX,Android,89.91,Software Development,Bad,No
+20BCS6631,PRIYA THAKUR,Female,21,96,87,CSE-13,8.23,8.36,8.92,7.5,8.76,7.55,8.44,8.25,910,Backend,ML,ML,ML,74.85,Analyst,Excellent,Yes
+20BCS6632,MEHUL GUPTA,Male,20,93,81,CSE-13,8.87,7.02,7.75,8.88,7.38,8.93,8.13,8.14,908,C,C,DL,Frontend,87.25,Machine Learning,Excellent,Yes
+20BCS6633,NAVITA KUMARI,Female,22,95,97,CSE-13,7.01,7.82,8.34,8.13,7.05,7.24,7.33,7.56,962,ML,Android,DL,Full-Stack,94.59,Software Development,Excellent,Yes
+20BCS6634,MANVENDRA,Female,21,84,81,CSE-13,7.42,8.61,8.85,7.51,8.11,8.48,7.21,8.03,514,Backend,UI/UX,ML,Android,92.43,Analyst,Bad,No
+20BCS6635,KALPNA,Female,22,72,91,CSE-13,7.47,8.86,8.9,7.24,7.65,8.71,7.68,8.07,540,DL,C++,C,DL,78.3,Web-Dev,Bad,No
+20BCS6636,G S SAI TRISHA ,Female,19,85,77,CSE-13,8.23,7.82,8.25,7.05,7.86,7.24,8.21,7.81,783,Python,Python,Python,Frontend,95.01,Analyst,Good,No
+20BCS6637,KAMALESH YADAV,Female,20,74,95,CSE-13,8.07,7.92,7.82,8.25,7.82,8.63,8.36,8.12,872,DL,Python,Frontend,UI/UX,71.19,Software Development,Excellent,Yes
+20BCS6638,MAYANK YADAV,Female,22,70,89,CSE-13,8.8,8.65,7.07,7.87,8.3,7.86,7.82,8.05,874,Frontend,UI/UX,Frontend,C,85.18,Analyst,Excellent,Yes
+20BCS6639,SURAJ,Male,20,82,87,CSE-13,8.57,8.54,8.66,7.1,8.51,8.56,8.94,8.41,531,UI/UX,C,DL,Backend,70.34,Analyst,Bad,No
+20BCS6640,ABHISHEK S NAIR,Female,22,85,98,CSE-13,7.27,7.87,8.58,7.36,7.08,7.05,8.62,7.69,672,C,C,ML,C,76.19,Analyst,Average,No
+20BCS6641,TULIKA SHARMA,Male,21,76,98,CSE-13,7.67,7.53,7.31,8.42,7.63,7.86,7.76,7.74,530,Android,Full-Stack,DL,Frontend,92.31,Machine Learning,Bad,No
+20BCS6642,PALLAVI,Male,21,96,76,CSE-13,8.04,7.9,8.48,7.11,8.97,8.95,7.97,8.2,731,Frontend,ML,ML,Frontend,91.38,Web-Dev,Good,No
+20BCS6643,SUKHAMDEEP KAUR,Male,21,91,91,CSE-13,7.71,8.73,7.12,8.96,7.11,8.78,8.64,8.15,966,Python,DL,Python,ML,77.09,Software Development,Excellent,Yes
+20BCS6644,GURSIMRAN KAUR,Female,21,73,92,CSE-13,7.61,8.11,7.21,8.3,8.16,7.44,8.03,7.84,997,C++,Python,Android,Full-Stack,94.21,Machine Learning,Excellent,Yes
+20BCS6645,DEVENDER BHALARIA,Female,20,88,81,CSE-13,8.82,7.09,7.52,7.65,7.01,8.66,9,7.96,543,Full-Stack,Android,UI/UX,Frontend,78.44,Analyst,Bad,No
+20BCS6646,ANUSREE PRAKASH,Male,21,71,80,CSE-13,8.28,7.48,8.76,7.6,7.51,7.35,7.34,7.76,681,Android,ML,Full-Stack,Python,71.55,Machine Learning,Average,No
+20BCS6647,Advaith Karnad,Female,20,95,78,CSE-13,7.28,7.5,8.23,7.47,8.68,7.56,7.6,7.76,795,DL,C++,Android,Android,89.44,Web-Dev,Good,Yes
+20BCS6648,Tirupatee Balajee,Male,20,75,80,CSE-13,8.25,8.24,8.61,7.91,7.79,8.81,7.94,8.22,883,Full-Stack,ML,C,C++,86.77,Web-Dev,Excellent,Yes
+20BCS6649,ADITYA KUMAR SINGH,Female,20,79,87,CSE-13,8.59,8.36,7.54,7.74,7.97,7.42,8.12,7.96,772,Python,Frontend,C,Python,89.2,Web-Dev,Good,No
+20BCS6650,JYOTI DOGRA,Female,20,87,95,CSE-13,7.27,8.75,7.95,8.2,7.05,7.02,7.78,7.72,697,C++,C++,Android,C++,93.59,Software Development,Average,No
+20BCS6651,JAY GADOYA,Male,19,78,86,CSE-13,7.28,7.27,7.71,8.67,8.51,8.99,8.28,8.1,954,Full-Stack,Backend,Backend,C++,84.98,Software Development,Excellent,Yes
+20BCS6652,AMAAN AHMED KHAN,Male,19,71,97,CSE-14,8.22,8.77,8.99,8.33,7.51,8.17,7.57,8.22,940,UI/UX,Full-Stack,ML,ML,77.94,Software Development,Excellent,Yes
+20BCS6653,JASKARAN SINGH BHATIA,Female,20,74,95,CSE-14,7.39,7.18,8.51,7.53,8.84,8.21,7.12,7.83,774,DL,C++,Frontend,Full-Stack,70.37,Web-Dev,Good,No
+20BCS6654,AISHNA CHAUHAN,Male,20,86,93,CSE-14,8.86,7.64,7.41,8.04,7.62,7.58,7.97,7.87,725,DL,Frontend,Python,UI/UX,78.24,Software Development,Good,No
+20BCS6655,SHOUVIK DAS,Female,22,84,92,CSE-14,7.55,8.18,8.54,7.95,8.06,7.89,7.63,7.97,730,Backend,Full-Stack,C,Frontend,96.77,Machine Learning,Good,No
+20BCS6656,SHIKHAR VERMA,Female,22,76,81,CSE-14,7.91,8.04,7.07,7.88,7.95,8.49,8.09,7.92,932,ML,Backend,ML,Python,92.13,Software Development,Excellent,Yes
+20BCS6657,WAIKHOM SWIZERLAND SINGH,Female,22,95,86,CSE-14,8.66,7.2,8.11,7.21,7,8.74,7.82,7.82,706,UI/UX,Full-Stack,Android,C,99.91,Software Development,Average,No
+20BCS6658,ADITYA AMIT VERMA,Female,22,95,92,CSE-14,7.48,8.36,7.32,8.81,8.47,8.15,8.07,8.09,629,Full-Stack,Android,Frontend,Frontend,76.15,Analyst,Average,No
+20BCS6659,Shruti Dutta,Male,21,94,78,CSE-14,7.2,7.31,8.13,7.09,8.08,8.91,8.22,7.85,864,ML,DL,DL,Backend,82.6,Machine Learning,Excellent,Yes
+20BCS6660,YUKTA SHARMA,Female,22,93,93,CSE-14,8.24,7.85,7.94,7.02,8.13,7.54,8,7.82,865,Android,UI/UX,DL,Android,92.09,Web-Dev,Excellent,Yes
+20BCS6661,AJAY KUMAR,Female,20,99,88,CSE-14,7.55,7.28,7.5,8.94,7.92,7.53,8.4,7.87,531,Python,C++,Backend,Android,97.28,Analyst,Bad,No
+20BCS6662,GURLEEN SINGH,Female,20,89,76,CSE-14,7.44,8.53,8.31,7.9,7.09,8.41,7.28,7.85,630,Python,Android,Python,Frontend,72.59,Web-Dev,Bad,No
+20BCS6663,PRACHI SINGH,Male,21,74,94,CSE-14,7.1,8.61,7.13,7.38,8.91,8.47,8.54,8.02,876,DL,UI/UX,Backend,ML,93.96,Web-Dev,Excellent,Yes
+20BCS6664,PRIYANSHI SRIVASTAVA,Female,19,95,82,CSE-14,8.44,7.48,7.76,7.26,7.82,7.75,7.44,7.71,914,C,UI/UX,Python,Frontend,92.27,Software Development,Excellent,Yes
+20BCS6665,Abhinav Saxena ,Female,20,71,77,CSE-14,7.85,8.58,8.1,8.33,7.19,7.96,8.28,8.04,821,DL,UI/UX,DL,Frontend,95.74,Analyst,Good,Yes
+20BCS6666,Sonia,Female,20,96,81,CSE-14,7.13,8.88,8.92,8.81,8.42,8.83,7.75,8.39,607,Python,Android,Frontend,Python,94.5,Analyst,Bad,No
+20BCS6667,VIKAS,Female,20,76,81,CSE-14,7.23,8.24,7.53,7.24,7.56,8.64,7.84,7.75,532,Frontend,Android,DL,C,76.73,Machine Learning,Bad,No
+20BCS6668,Harshita Nunia,Male,22,70,90,CSE-14,8.29,8.81,7.5,8.15,7.74,7.43,8.32,8.03,919,ML,Full-Stack,Backend,C,84.21,Analyst,Excellent,Yes
+20BCS6669,Tanisha Raj Sharma,Female,21,92,83,CSE-14,7.31,7.26,8.58,7.48,8.69,8.13,8.67,8.02,744,DL,DL,Android,C++,72.97,Machine Learning,Good,No
+20BCS6670,GOURAB KOLEY,Female,22,83,98,CSE-14,7.92,8.79,7.44,7.11,7.56,7.15,8.46,7.78,700,ML,DL,Python,ML,95.44,Machine Learning,Average,No
+20BCS6671,GARIMA KALRA,Female,21,97,90,CSE-14,7.11,7.47,7.38,7.17,8.43,7.66,7.81,7.58,683,C++,Frontend,Android,DL,95.16,Web-Dev,Average,No
+20BCS6672,NITYAM SHARMA,Male,22,97,91,CSE-14,8.47,7.21,7.11,8.27,8.96,8.75,7.4,8.02,883,ML,C++,Android,Android,79.99,Analyst,Excellent,Yes
+20BCS6673,HARSHDEEP SINGH  TAKHTER,Female,19,79,98,CSE-14,8.27,8.18,7.88,8.03,7.53,7.16,7.74,7.83,992,Frontend,C,C,DL,88.84,Machine Learning,Excellent,Yes
+20BCS6674,VARUN SATI,Male,20,92,97,CSE-14,7.62,7.8,8.72,7.85,7.16,7.74,7.16,7.72,998,Full-Stack,Android,UI/UX,C++,83.89,Web-Dev,Excellent,Yes
+20BCS6675,KARAN SHORY,Female,19,94,77,CSE-14,7.83,7.27,7.36,7.34,7.05,8.41,8.61,7.7,713,Android,DL,Frontend,Android,94.35,Machine Learning,Average,No
+20BCS6676,MANVI AHUJA,Female,20,85,89,CSE-14,8.51,8.39,8.97,7.86,8.38,8.58,7.78,8.35,938,C,Full-Stack,Python,Backend,80.24,Software Development,Excellent,Yes
+20BCS6677,RAVNEET KAUR,Male,22,93,91,CSE-14,8.39,7.88,8.12,7.68,7.42,7.94,7.72,7.88,598,Full-Stack,UI/UX,Python,Backend,92.73,Web-Dev,Bad,No
+20BCS6678,Yamini,Female,20,83,96,CSE-14,7.55,8.58,8.25,7.91,7.54,8.89,7.95,8.1,689,Python,Backend,C++,UI/UX,72.74,Web-Dev,Average,No
+20BCS6679,AVNEET KAUR,Female,19,80,95,CSE-14,8.48,7.8,8.14,7.96,8.91,8.54,7.83,8.24,977,C++,Android,Python,Backend,90.49,Web-Dev,Excellent,Yes
+20BCS6680,Satvick Verma,Male,20,89,80,CSE-14,8.36,7.17,8.26,7.87,8.11,8.75,7.33,7.98,771,DL,C++,Python,UI/UX,98.87,Machine Learning,Good,No
+20BCS6681,NEERAJ THAKUR,Male,20,97,77,CSE-14,8.68,7.22,8.58,7.89,7.49,7.25,7.35,7.78,729,DL,C++,Frontend,C++,87.57,Web-Dev,Good,No
+20BCS6682,MILIND ,Male,22,95,87,CSE-14,8.48,7.97,7.64,7.83,8.8,8.48,7.02,8.03,956,C++,Frontend,Backend,Backend,99.91,Web-Dev,Excellent,Yes
+20BCS6683,GIA ANAGA BRAMARAMBA MOKSHAGUNDAM,Male,21,72,97,CSE-14,8.1,8.85,9,8.18,7.85,8.19,7.82,8.28,903,C,Frontend,Frontend,Frontend,90.88,Analyst,Excellent,Yes
+20BCS6684,DEV DIPAK GHIYA,Male,19,82,91,CSE-14,8.27,7.2,8.63,7.62,8.8,8.08,7.21,7.97,515,C,Full-Stack,Android,Frontend,81.59,Web-Dev,Bad,No
+20BCS6685,DCOSTA STEVE PETER ,Female,20,73,75,CSE-14,7.84,7.68,7.19,7.49,8.55,7.52,7.33,7.66,510,Backend,UI/UX,C,C,99.48,Analyst,Bad,No
+20BCS6686,GANDIKOTA NAGA SYAMALASAI REVANT,Male,21,92,94,CSE-14,8.46,8.18,7.83,8.32,8.69,8.09,8.54,8.3,566,DL,Frontend,DL,ML,94.8,Analyst,Bad,No
+20BCS6687,PARDEEP SINGH,Female,21,99,99,CSE-14,7.95,8.19,7.75,7.58,7.85,7.16,8.8,7.9,802,Backend,Frontend,C,Frontend,88.35,Machine Learning,Excellent,Yes
+20BCS6688,Prince Kumar verma,Female,19,97,91,CSE-14,7.96,7.6,8.12,8.3,7.95,7.57,7.7,7.89,544,Backend,Android,Full-Stack,Android,92.88,Web-Dev,Bad,No
+20BCS6689,HARSH JAIN,Female,21,79,90,CSE-14,8.83,7.34,8.87,7.26,8.77,7.82,8,8.13,857,Python,Android,Frontend,C++,72.68,Machine Learning,Excellent,Yes
+20BCS6690,SHRUTI SHARMA,Female,19,81,99,CSE-14,8.96,8.7,8.78,7.28,8.81,8.13,7.56,8.32,700,DL,C,Frontend,Backend,76.02,Analyst,Average,No
+20BCS6691,Ankit Roy,Female,20,84,90,CSE-14,7.61,8.04,7.73,8.37,8.29,7.1,8.56,7.96,639,Python,Frontend,ML,ML,97.4,Software Development,Average,No
+20BCS6692,BHUMIKA ,Male,21,97,99,CSE-14,8.8,7.81,8.12,7.48,7.3,8.64,8.52,8.1,781,Full-Stack,Full-Stack,Android,C,89.77,Web-Dev,Good,Yes
+20BCS6693,MUSKAN,Male,21,80,95,CSE-14,7.69,7.34,8.63,7.96,7.22,8.57,7.38,7.83,927,UI/UX,Android,Backend,Frontend,94.56,Software Development,Excellent,Yes
+20BCS6694,MONIKA KUDYAR ,Female,21,86,88,CSE-14,8.67,8.88,7.13,7.01,8.71,7.64,7.52,7.94,796,C,UI/UX,Full-Stack,DL,84.5,Analyst,Good,Yes
+20BCS6695,TANISHKA BURMAN,Male,19,73,92,CSE-14,7.33,7.27,8.43,7.25,8.8,8.66,8.63,8.05,574,ML,UI/UX,Full-Stack,Python,80.46,Software Development,Bad,No
+20BCS6696,NIDHI MOHINDRA,Male,22,91,98,CSE-14,8.78,8.14,7.6,7.52,8.38,8.21,7.84,8.07,550,C,C++,C++,C++,89.01,Software Development,Bad,No
+20BCS6697,Prachi Chaubey,Female,19,79,99,CSE-14,7.22,8.1,8.12,7.25,7.43,8.53,7.59,7.75,768,Frontend,C,Python,Python,83.85,Machine Learning,Good,Yes
+20BCS6698,SHIVANI SHARMA,Female,21,72,83,CSE-14,7.15,7.41,8.49,7.5,7.32,8.29,8.27,7.78,606,C,UI/UX,DL,Full-Stack,92.25,Web-Dev,Bad,No
+20BCS6699,MAYANK PUNCHI,Female,21,87,89,CSE-14,8.89,7.12,8.46,8.13,8.55,7.07,7.46,7.95,944,C++,Backend,UI/UX,Full-Stack,78.42,Software Development,Excellent,Yes
+20BCS6700,Deeptimayee Behera,Female,19,83,90,CSE-14,7.56,8.55,8.96,7.55,7.53,8.34,7.15,7.95,643,Backend,Backend,ML,Backend,87.82,Software Development,Average,No
+20BCS6701,HARSIMRAN SINGH,Male,21,75,84,CSE-14,8.02,7.55,7.7,8.88,8.97,8.25,8.93,8.33,652,ML,ML,C,Backend,95.03,Software Development,Average,No
+20BCS6702,AKASHDEEP SINGH,Female,20,87,88,CSE-15,7.39,7.41,8.36,7.9,8.88,7.74,8.82,8.07,914,C++,Frontend,Android,Full-Stack,81.64,Machine Learning,Excellent,Yes
+20BCS6703,GUNVEEN KAUR,Male,21,96,82,CSE-15,7.85,8.34,8.49,7.29,8.97,8.86,8.15,8.28,624,C,Frontend,Frontend,C,99.09,Software Development,Average,No
+20BCS6704,PARMDEEP SINGH,Male,19,95,79,CSE-15,8.91,7.18,8.72,8.42,7.62,8.8,7.47,8.16,992,DL,DL,Android,C,72.21,Machine Learning,Excellent,Yes
+20BCS6705,Kanupriya ,Female,20,75,89,CSE-15,8.45,7.14,8.79,8.8,8.73,7.02,7.95,8.13,928,UI/UX,Backend,C++,Frontend,79.85,Software Development,Excellent,Yes
+20BCS6706,NISHANT GARLA,Male,20,83,76,CSE-15,7.25,8.99,8.61,7.79,8.32,7.05,8.59,8.09,789,UI/UX,C,Android,Android,72.08,Machine Learning,Good,Yes
+20BCS6707,Abhishek Bharti,Female,20,82,78,CSE-15,8.36,7.88,7.7,7.79,7.41,9,7.84,8,637,UI/UX,Android,ML,C++,76.29,Software Development,Average,No
+20BCS6708,PRIYA PATEL,Female,19,94,95,CSE-15,8.37,8.92,8.67,7.78,8.13,7.41,8.07,8.19,855,Python,Android,UI/UX,Python,70.69,Software Development,Excellent,Yes
+20BCS6709,Yogeeta,Male,19,82,92,CSE-15,7.58,7,7.97,7.86,8.88,8.26,8.14,7.96,676,DL,DL,Backend,C++,79.28,Analyst,Average,No
+20BCS6710,AJAY LAL,Male,20,86,83,CSE-15,7.2,8.9,7.22,7.31,8.53,7.82,8.98,7.99,830,UI/UX,Python,Android,C,94.71,Analyst,Excellent,Yes
+20BCS6711,M BHARATH,Male,20,92,82,CSE-15,8.34,7.26,7.9,8.26,8.55,7.58,8.19,8.01,504,Python,UI/UX,Android,C,98.74,Web-Dev,Bad,No
+20BCS6712,IPSHITA KAUR,Female,21,97,99,CSE-15,7.04,8.36,7.85,8.15,7.02,8.14,8.69,7.89,780,ML,Python,Full-Stack,DL,78.22,Web-Dev,Good,Yes
+20BCS6713,ABHISHEK MASIH,Male,21,90,98,CSE-15,8.17,7.29,8.61,7.6,7.47,7.99,8.43,7.94,802,Python,UI/UX,Android,C++,76.71,Analyst,Good,Yes
+20BCS6714,AMEEN GILL,Female,22,81,96,CSE-15,7.29,8.82,7.97,7.27,7.91,8.58,8.04,7.98,709,Frontend,ML,Python,ML,70.5,Analyst,Average,No
+20BCS6715,ABHAY GUPTA,Female,21,96,98,CSE-15,8.38,7.04,7.35,7.26,8.53,7.99,7.99,7.79,554,C++,C++,Python,C,83.16,Software Development,Bad,No
+20BCS6716,PRANJAL SRIVASTAVA,Male,19,70,97,CSE-15,8.37,8.58,8.33,8.4,8.9,7.22,8.79,8.37,974,ML,ML,C,C,89.27,Machine Learning,Excellent,Yes
+20BCS6717,DRISHTI UPPAL,Female,19,79,97,CSE-15,7.33,7.02,7.06,7.53,7.64,8.77,8.72,7.72,529,Backend,UI/UX,Python,Full-Stack,93.87,Web-Dev,Bad,No
+20BCS6718,ZUBAIR ALI,Female,21,89,95,CSE-15,7.44,8.9,8.91,7.2,8.04,7.43,7.73,7.95,957,Android,Android,UI/UX,Backend,86.72,Software Development,Excellent,Yes
+20BCS6719,SUHAIL KHAN,Male,21,88,86,CSE-15,8.78,8.34,7.94,7.64,7.5,8.53,8.48,8.17,943,C++,DL,C,ML,75.69,Web-Dev,Excellent,Yes
+20BCS6720,Khushal ,Male,22,80,78,CSE-15,8.94,7.82,8.9,8.32,8.39,8.93,7.27,8.37,777,Backend,C,Frontend,UI/UX,99.29,Machine Learning,Good,No
+20BCS6721,KOYENA MAITY,Male,21,91,86,CSE-15,8.17,7.54,8.87,7.57,8.11,7.35,8.97,8.08,705,UI/UX,DL,Android,C++,82.08,Machine Learning,Average,No
+20BCS6722,MANIK MUNJAL,Male,19,84,75,CSE-15,7.73,7.76,8.81,8.87,8.43,7.29,7.23,8.02,814,Backend,ML,UI/UX,C,73.02,Web-Dev,Good,Yes
+20BCS6723,Lakhwinder singh,Female,20,74,96,CSE-15,8.32,7.61,8,8.59,8.78,7.62,8.67,8.23,596,C++,Python,Android,ML,81.68,Analyst,Bad,No
+20BCS6724,SUMIT SINGH,Female,20,86,98,CSE-15,8.63,8.21,8.3,7.78,7.36,7.95,8.82,8.15,923,Full-Stack,C++,Frontend,C,73.12,Software Development,Excellent,Yes
+20BCS6725,IROM BEBICHA DEVI,Male,21,96,99,CSE-15,8.12,7.78,8.37,8.24,7.14,8.24,8.29,8.03,544,Frontend,C,Frontend,Python,96.42,Machine Learning,Bad,No
+20BCS6726,PRIYA,Male,20,89,84,CSE-15,7.06,8.26,7.81,8.51,8.33,8.85,8.15,8.14,563,UI/UX,Android,C,C,97.65,Web-Dev,Bad,No
+20BCS6727,PRITY MALLICK,Female,20,91,95,CSE-15,8.32,8.75,8.58,7.18,8.89,8.69,7.62,8.29,541,Full-Stack,Full-Stack,C++,Full-Stack,91.24,Machine Learning,Bad,No
+20BCS6728,VAISHALI KAPOOR,Female,19,93,84,CSE-15,8.99,8.93,8.47,7.54,7.28,8.09,7.52,8.12,643,UI/UX,Android,UI/UX,Android,74.09,Software Development,Average,No
+20BCS6729,VINEET ARORA,Female,21,95,98,CSE-15,8.98,8.79,8.4,7.96,7.01,8.17,8.15,8.21,613,ML,DL,Backend,Python,76.87,Machine Learning,Average,No
+20BCS6730,TRISHA,Female,19,81,89,CSE-15,8.31,7.36,8.9,7.68,7.99,7.86,8.07,8.02,977,DL,Android,Full-Stack,Full-Stack,92.13,Analyst,Excellent,Yes
+20BCS6731,PARUL BALLAGAN,Male,21,86,92,CSE-15,7.35,8.82,8.79,8.88,8.39,8.24,7.15,8.23,503,Full-Stack,C,UI/UX,Full-Stack,84.64,Web-Dev,Bad,No
+20BCS6732,RACHANA,Male,22,90,76,CSE-15,8.86,7.06,7.64,7.08,7.28,7.64,8.47,7.72,551,Frontend,DL,Frontend,Python,71.29,Analyst,Bad,No
+20BCS6733,SHREYA SINGH,Female,19,79,91,CSE-15,7.71,7.98,8.11,8.36,8.32,8.53,7.48,8.07,607,Frontend,Python,DL,Frontend,80.46,Analyst,Bad,No
+20BCS6734,YUMKHAIBAM ARCHANA DEVI,Male,19,85,98,CSE-15,7.01,7.48,7.83,7.33,8.03,8.3,8.66,7.81,508,UI/UX,ML,ML,Python,70.02,Analyst,Bad,No
+20BCS6735,GAYATRI KUMARI,Male,21,93,81,CSE-15,7.51,7.81,7.07,7.03,7.33,7.84,8.4,7.57,859,Full-Stack,DL,ML,Python,79.76,Software Development,Excellent,Yes
+20BCS6736,RAHUL,Female,20,81,79,CSE-15,7.61,7.02,8.44,8.8,8.2,8.17,8.06,8.04,903,Android,Python,C++,DL,92.9,Web-Dev,Excellent,Yes
+20BCS6737,SHEETAL RANI,Male,20,86,90,CSE-15,7.74,8.61,8.31,8.18,8.31,7.04,8.62,8.12,906,ML,C++,Frontend,Backend,74.44,Machine Learning,Excellent,Yes
+20BCS6738,AKUL CHATRATH,Male,21,70,97,CSE-15,7.42,8.3,8.1,8.03,7.19,8.91,7.33,7.9,589,DL,Full-Stack,Full-Stack,C,88.76,Machine Learning,Bad,No
+20BCS6739,ARSHDEEP SINGH KAINTH,Male,22,70,91,CSE-15,7.16,8.57,7.98,7.27,7.82,8.68,7.38,7.84,989,Android,ML,Android,Frontend,73.34,Analyst,Excellent,Yes
+20BCS6740,MUSKAN THAKUR,Female,19,71,94,CSE-15,8.65,8.6,7.92,7.98,8.74,8.15,8.57,8.37,787,Python,UI/UX,C,ML,83.49,Software Development,Good,Yes
+20BCS6741,FARAZ AHMAD MALIK,Female,20,88,77,CSE-15,8.55,7.39,8.77,7.53,7.6,8.45,7.7,8,627,ML,Android,Frontend,DL,96.46,Software Development,Bad,No
+20BCS6742,HEAVENPREET KAUR,Female,21,89,81,CSE-15,7.13,8.69,8.26,7.84,7.95,8.03,7.46,7.91,593,Android,DL,Backend,C++,77.37,Analyst,Bad,No
+20BCS6743,ANANYA UBHAN,Female,22,75,81,CSE-15,7.08,8.45,8.59,7.1,7.03,8.44,7.03,7.67,787,Full-Stack,C++,Android,C,87.82,Analyst,Good,No
+20BCS6744,MD MAHFOOZUR RAHMAN,Male,22,99,90,CSE-15,8.03,8.45,8.95,7.09,7.97,7.45,7.25,7.88,830,C++,Android,Android,Android,75.38,Software Development,Excellent,Yes
+20BCS6745,EBENEZER,Male,21,86,78,CSE-15,8.98,8.29,8.21,7.06,8.69,8.83,8.62,8.38,585,Full-Stack,Frontend,Backend,C++,75.56,Analyst,Bad,No
+20BCS6746,GURUMAYUM BIKASH SHARMA,Female,20,75,87,CSE-15,8,8.2,7.56,8.91,8.72,7.4,7.54,8.05,842,Python,C++,UI/UX,C,72.78,Analyst,Excellent,Yes
+20BCS6747,NAVNEET KAUR,Male,19,89,93,CSE-15,7.33,7.23,8.99,8.89,7.95,7.19,8.29,7.98,542,C,UI/UX,ML,UI/UX,78.75,Analyst,Bad,No
+20BCS6748,RITISH SHARMA,Male,19,84,82,CSE-15,8.02,8.64,8.68,8.43,8.87,8.19,8.91,8.53,705,UI/UX,Android,Backend,DL,81.02,Machine Learning,Average,No
+20BCS6749,UDHAYVEER SINGH,Female,21,93,91,CSE-15,8.31,8.24,7.07,7.13,8.78,7.56,8.5,7.94,825,DL,C++,ML,Frontend,82.31,Analyst,Excellent,Yes
+20BCS6750,ANJALI BHANDARI,Female,22,98,86,CSE-15,8.59,7.39,7.79,7.06,8.56,7.48,7.55,7.77,947,C++,Backend,C,Backend,84.37,Web-Dev,Excellent,Yes
+20BCS6751,PALAK,Female,21,94,99,CSE-15,7.38,8.8,7.96,7.45,7.6,8.98,7.76,7.99,786,Frontend,C++,UI/UX,Python,76.38,Analyst,Good,Yes
+20BCS6752,Neha tripathi,Male,22,80,90,CSE-16,8.04,8.16,8.18,8.39,7.03,7.16,8.39,7.91,725,ML,C,ML,ML,81.7,Software Development,Good,No
+20BCS6753,RAJKUMARI MENAKA DEVI,Female,19,84,96,CSE-16,7.7,7.13,8.83,8.45,8.38,7.65,8.01,8.02,852,Python,Android,Python,DL,91.23,Software Development,Excellent,Yes
+20BCS6754,ROHIT RAI,Male,20,94,85,CSE-16,7.84,8.27,8.76,7.2,8.95,8.8,8.61,8.35,775,Android,DL,DL,ML,73.02,Software Development,Good,Yes
+20BCS6755,TARUN,Male,19,94,97,CSE-16,7.03,7.28,7.07,7.25,8.15,7.91,8.19,7.55,520,Frontend,Full-Stack,Python,Frontend,99.46,Machine Learning,Bad,No
+20BCS6756,TANIYA SINGH,Male,22,88,87,CSE-16,8.7,7,7.95,8.67,8.84,7.59,8.71,8.21,855,UI/UX,UI/UX,Full-Stack,UI/UX,92.87,Software Development,Excellent,Yes
+20BCS6757,HARMANPREET KAUR KALER,Male,22,84,94,CSE-16,8.52,7.81,8.21,8.31,8.49,8.69,7.68,8.24,718,C,ML,Frontend,Android,94.78,Machine Learning,Good,No
+20BCS6758,MOHIT SHARMA,Female,20,77,87,CSE-16,7.35,7.38,8.38,8.09,8.62,7.78,8.21,7.97,555,Android,Frontend,Frontend,C,84.72,Analyst,Bad,No
+20BCS6759,SHAYAK AHMED AL BARAT,Female,21,79,86,CSE-16,8.51,8.45,8.21,8.93,8.11,7.6,8.34,8.31,669,DL,Android,Backend,Backend,94.92,Software Development,Average,No
+20BCS6760,HASSAN ZUBEIR KOMBO,Male,21,94,90,CSE-16,7.84,8.98,7.29,7.16,8.82,7.51,7.02,7.8,503,DL,C,DL,UI/UX,84.06,Machine Learning,Bad,No
+20BCS6761,VINIT,Male,19,99,91,CSE-16,7.28,8.99,8.46,7.66,8.03,7.3,7.28,7.86,943,C,DL,Python,Frontend,78.24,Analyst,Excellent,Yes
+20BCS6762,RINITA DAS,Male,20,81,96,CSE-16,8.17,7.45,7.54,8.88,8.52,8.24,7.9,8.1,614,Android,Backend,Android,Full-Stack,92.65,Web-Dev,Bad,No
+20BCS6763,SIMRANJEET KAUR,Male,22,85,85,CSE-16,7.67,7.26,7.17,7.57,7.96,8.46,7.8,7.7,548,ML,Full-Stack,Android,ML,82.71,Machine Learning,Bad,No
+20BCS6764,PRIYAM JISILLA MARANDI,Male,19,90,85,CSE-16,7.9,8.5,8.57,8.14,7.57,7.3,7.44,7.92,770,C++,Python,Android,C,83.79,Analyst,Good,Yes
+20BCS6765,SORABH SINGH,Male,19,85,87,CSE-16,7.6,8.42,7.54,7.51,7.02,8.84,7.01,7.71,731,DL,C++,UI/UX,ML,81.11,Analyst,Good,No
+20BCS6766,PREETI,Male,22,95,98,CSE-16,7.95,7.57,8.56,7.7,7.64,7.9,7.04,7.77,703,Backend,DL,Frontend,C,79.89,Software Development,Good,No
+20BCS6767,LAKSHAY SHARMA,Male,22,84,80,CSE-16,7.06,7.32,8.52,7.25,8.93,8.07,8.99,8.02,832,Python,UI/UX,Python,Python,80.07,Software Development,Excellent,Yes
+20BCS6768,DEEPIKA ,Female,22,71,76,CSE-16,8.86,7.88,7.27,7.24,7.69,8.37,7.87,7.88,684,Android,ML,ML,Full-Stack,79.88,Software Development,Average,No
+20BCS6769,DEEPAK,Female,22,78,81,CSE-16,8.4,7.01,7.41,8.11,7.34,7.96,7.5,7.68,879,Python,Android,C,Android,88.6,Analyst,Excellent,Yes
+20BCS6770,NAVODITA JOSEPH,Male,21,99,98,CSE-16,8.27,7.45,7.52,8.24,7.79,8.58,8.41,8.04,527,DL,DL,UI/UX,Full-Stack,86.07,Web-Dev,Bad,No
+20BCS6771,VIKAS SHARMA,Male,20,90,86,CSE-16,8.38,8.4,7.78,7.75,8.24,7.41,7.06,7.86,880,C++,ML,Backend,Frontend,98.43,Software Development,Excellent,Yes
+20BCS6772,RUPANJANA MITRA,Male,22,94,89,CSE-16,8.45,7.65,7.9,8.61,8.01,7.43,7.6,7.95,952,ML,DL,C,ML,94.04,Analyst,Excellent,Yes
+20BCS6773,MAYANK PARNHOLIA,Female,21,94,81,CSE-16,8.47,7.92,8.62,7.39,7.49,7.04,8.93,7.98,736,Python,ML,Android,C,93.86,Analyst,Good,No
+20BCS6774,ANISHA RAMTEKE,Female,20,91,95,CSE-16,8.59,8.17,8.6,8.21,7.13,8.85,8.01,8.22,963,Frontend,C,Frontend,Backend,89.19,Analyst,Excellent,Yes
+20BCS6775,PRARTHNA,Female,20,87,95,CSE-16,8.2,8.72,7.81,7.03,8.86,8.95,8.57,8.31,731,ML,DL,Frontend,UI/UX,99.16,Machine Learning,Good,No
+20BCS6776,HARSIMRAN KAUR,Female,19,79,81,CSE-16,8.96,7.89,7.9,7.23,7.08,7.54,8.27,7.84,920,UI/UX,Backend,DL,Python,71.75,Machine Learning,Excellent,Yes
+20BCS6777,Argha Bhowmick,Male,19,96,95,CSE-16,7.96,8.54,8.83,8.31,8.3,8.08,7.11,8.16,921,DL,UI/UX,UI/UX,Full-Stack,71.43,Machine Learning,Excellent,Yes
+20BCS6778,HARSHDEEP SINGH,Female,20,81,90,CSE-16,8.71,7.14,8.36,7.21,8.42,7.55,8.36,7.96,926,Full-Stack,Full-Stack,ML,DL,91.24,Web-Dev,Excellent,Yes
+20BCS6779,TSEBO PATRICIA MOSEHLE,Female,19,90,82,CSE-16,8.26,8.79,7.63,7.78,7.88,8.6,8.65,8.23,830,UI/UX,Full-Stack,Frontend,Full-Stack,89.5,Analyst,Excellent,Yes
+20BCS6780,vaibhav dubey,Male,22,92,86,CSE-16,8.99,8.89,8.16,7.44,7.79,8.49,8.01,8.25,956,Backend,Backend,Android,Python,76.04,Software Development,Excellent,Yes
+20BCS6781,ANKIT KUMAR,Female,22,89,95,CSE-16,7.41,7.57,8.19,8.49,7.75,7.59,7.77,7.82,778,Backend,ML,Android,C++,97.08,Software Development,Good,Yes
+20BCS6782,KRISHNAMURTHY SUSHMA MURTHY,Female,20,88,98,CSE-16,8.51,8.39,8.7,7.41,8.06,7.84,8.65,8.22,818,Frontend,Frontend,C,UI/UX,71.64,Machine Learning,Excellent,Yes
+20BCS6783,ABHISHEK RAJ,Male,21,93,76,CSE-16,8.28,7.85,8.39,7.99,8.22,7.88,8.86,8.21,839,Backend,Full-Stack,UI/UX,ML,87.89,Web-Dev,Excellent,Yes
+20BCS6784,MANISHA THAPA,Female,22,99,90,CSE-16,7.74,7.06,7.3,7.12,7.21,8.89,7.2,7.5,711,C++,C++,DL,C,72.3,Software Development,Good,No
+20BCS6785,ANKIT SETH,Male,20,88,93,CSE-16,7.14,8.81,7.7,7.48,7.59,7.78,8.31,7.83,673,Android,Frontend,Full-Stack,DL,90.01,Machine Learning,Average,No
+20BCS6786,HELINA SUKRIYAL,Male,21,88,94,CSE-16,8.74,8.03,7.6,8.63,7.86,8.55,8.66,8.3,833,Frontend,ML,Full-Stack,Frontend,88.47,Software Development,Excellent,Yes
+20BCS6787,ANCHAL VERMA,Female,20,74,98,CSE-16,8.11,8.99,8.57,7.51,8.12,7.2,8.33,8.12,615,UI/UX,Android,C,Android,71.06,Software Development,Bad,No
+20BCS6788,JYOTI SHARMA,Male,20,92,76,CSE-16,8.9,8.16,7.31,7.65,7.68,8.74,8.41,8.12,638,C++,C,Python,Frontend,98.47,Machine Learning,Average,No
+20BCS6789,Barsha Deb,Male,22,97,88,CSE-16,8.49,8.84,7.52,8.07,7.49,8.57,7.84,8.12,534,C++,Frontend,C,DL,70.8,Analyst,Bad,No
+20BCS6790,Akshay,Female,21,77,93,CSE-16,7.01,8.01,7.16,8.11,8.92,7.16,8.2,7.8,555,Android,Frontend,C++,Python,87.02,Software Development,Bad,No
+20BCS6791,Dheerender kumar sharma,Male,22,92,89,CSE-16,8.55,8.48,8.95,7.85,8.84,8.67,8.77,8.59,915,UI/UX,Frontend,Python,Backend,84.78,Web-Dev,Excellent,Yes
+20BCS6792,NEETU KAUR,Female,22,72,85,CSE-16,8.59,7.32,8.5,8.98,7.35,8.68,7.04,8.07,789,UI/UX,C++,Full-Stack,C++,70.79,Machine Learning,Good,Yes
+20BCS6793,ELISETTI SANJAY KUMAR,Male,19,71,95,CSE-16,7.62,7.21,7.94,8.34,8.87,8.39,8.6,8.14,850,Full-Stack,UI/UX,Full-Stack,C,95.58,Analyst,Excellent,Yes
+20BCS6794,RAJESH SINGH,Female,21,71,98,CSE-16,7.02,8.53,8.72,8.28,8.86,8.63,7.44,8.21,997,DL,Android,C++,DL,80.37,Machine Learning,Excellent,Yes
+20BCS6795,AKSHAY SAROHA,Female,21,87,89,CSE-16,7.7,7.86,7.07,7.12,8.45,7.83,8.28,7.76,554,Android,Android,Python,C++,84.66,Web-Dev,Bad,No
+20BCS6796,JAYANT SINGH GOUD,Male,22,77,82,CSE-16,8.2,8.01,8.13,8.58,8.76,8.18,8.51,8.34,848,Python,DL,Full-Stack,Backend,95.69,Analyst,Excellent,Yes
+20BCS6797,DEEPAK YADAV,Male,21,93,96,CSE-16,8.34,7.68,8,8.89,8.37,7.96,7.78,8.15,692,Python,Full-Stack,C,UI/UX,92.56,Web-Dev,Average,No
+20BCS6798,RENU,Male,22,73,97,CSE-16,8.26,8.93,7.34,7.63,8.4,8.42,7.89,8.12,538,Android,DL,Full-Stack,Python,86,Software Development,Bad,No
+20BCS6799,NINGOMBAM ELTON,Female,19,82,97,CSE-16,8.58,8.36,7.23,8.23,7.85,8.8,8.14,8.17,515,C,Full-Stack,Python,UI/UX,90.29,Web-Dev,Bad,No
+20BCS6800,CHAHAT PATHAK,Female,22,89,92,CSE-16,7.96,8.09,8.72,7.07,8.61,7.71,8.18,8.05,766,ML,UI/UX,C,UI/UX,72.87,Analyst,Good,Yes
+20BCS6801,PRINCEJOT SINGH,Male,22,79,88,CSE-16,7.35,8.14,8.17,8.2,7.99,7.37,8.22,7.92,658,Full-Stack,UI/UX,C,C,82.87,Software Development,Average,No
+20BCS6802,MANPREET SINGH,Male,20,81,75,CSE-17,7.05,7.29,7.3,8.74,7.81,7.52,8.95,7.81,935,Android,C++,ML,C,90.55,Machine Learning,Excellent,Yes
+20BCS6803,AARTI GROVER,Female,19,71,99,CSE-17,7.06,8.1,8.23,7.4,8.56,7.77,8.77,7.98,665,UI/UX,ML,Backend,ML,99.13,Analyst,Average,No
+20BCS6804,MUSKAN ARORA ,Female,20,70,97,CSE-17,8.47,7.58,8.62,7.31,7.29,8.74,7.31,7.9,694,Android,Python,DL,C,73.94,Software Development,Average,No
+20BCS6805,TANNU PRIYA,Female,22,85,96,CSE-17,8.17,7.73,8.19,8.54,8.75,7,8.47,8.12,878,Backend,C++,ML,Android,75.96,Machine Learning,Excellent,Yes
+20BCS6806,YARA CRISTINA ELIAS CUAMBE,Male,21,76,93,CSE-17,7.79,8.07,8.06,7.63,7.68,8.87,8.08,8.03,748,Full-Stack,Frontend,DL,Frontend,86.89,Machine Learning,Good,No
+20BCS6807,LALIT,Male,22,84,90,CSE-17,8.31,7.99,8.6,8.99,8.27,8.72,7.39,8.32,766,DL,Frontend,Frontend,Python,90.26,Web-Dev,Good,No
+20BCS6808,ANJALI SHARMA,Male,20,88,76,CSE-17,7.41,7.61,7.61,8.81,7.35,8.49,8.1,7.91,717,Android,Full-Stack,ML,ML,94.75,Analyst,Average,No
+20BCS6809,KARAN SINGH,Male,20,84,99,CSE-17,7.94,8.16,8.64,8.16,8.21,8.06,8.38,8.22,757,Full-Stack,ML,UI/UX,Backend,83.55,Machine Learning,Good,No
+20BCS6810,HARJEET SINGH,Male,21,71,95,CSE-17,8.66,8.68,8.34,8.12,8.34,7.15,7.5,8.11,713,UI/UX,DL,Frontend,Android,89.51,Machine Learning,Average,No
+20BCS6811,YASH KHURANA,Female,22,92,92,CSE-17,8.7,7.37,8.84,8.71,7.88,8.09,7.7,8.18,779,C,Frontend,C++,Android,94.12,Web-Dev,Good,Yes
+20BCS6812,AKSHITA,Female,20,75,82,CSE-17,8.98,8.39,8.8,8,7.69,8.38,8.33,8.37,984,UI/UX,C++,Frontend,Python,98.49,Machine Learning,Excellent,Yes
+20BCS6813,NEHA CHAUDHARY,Male,19,70,97,CSE-17,8.67,8.57,8.73,8.75,7.7,8.27,7.31,8.29,739,Frontend,Python,C,Python,97.88,Machine Learning,Good,No
+20BCS6814,Hrithik Raushan,Male,22,98,78,CSE-17,8.94,7.45,8.89,8.39,8.35,7.2,7.12,8.05,659,Android,C++,C++,ML,90.84,Web-Dev,Average,No
+20BCS6815,ADITYA LINGWAL,Male,20,94,93,CSE-17,7.76,7.55,7.85,8.88,8.24,7.71,8.14,8.02,771,Frontend,C++,DL,Full-Stack,72.91,Machine Learning,Good,Yes
+20BCS6816,MANJOT KAUR,Male,21,86,83,CSE-17,7.97,8.98,7.32,8.01,7.58,7.16,8.45,7.92,755,ML,Frontend,Python,UI/UX,90.79,Web-Dev,Good,No
+20BCS6817,JASRAJ SINGH,Female,20,87,99,CSE-17,8.26,7.54,7.39,7.19,7.39,8.01,8.72,7.79,933,C,Full-Stack,Android,Full-Stack,92.87,Machine Learning,Excellent,Yes
+20BCS6818,Sahil,Female,21,73,75,CSE-17,7.91,7.51,8.06,8.06,7.18,8.03,8.91,7.95,662,Backend,ML,Backend,Python,93.46,Web-Dev,Average,No
+20BCS6819,RIYA THAKUR,Female,19,70,80,CSE-17,7.01,7.97,7.62,8.78,7.11,7.74,7.21,7.63,716,DL,Backend,C++,ML,73.34,Software Development,Average,No
+20BCS6820,MD ABDULLAH AL NAIM,Female,21,80,76,CSE-17,7.59,7.05,7.4,7.96,8.28,8.96,8.25,7.93,823,Frontend,ML,Android,DL,80.75,Machine Learning,Good,Yes
+20BCS6821,RAMANDEEP KAUR,Male,21,94,90,CSE-17,7.84,7.35,8.01,8.53,8.82,7.72,7.84,8.02,515,DL,Android,Full-Stack,ML,98.22,Machine Learning,Bad,No
+20BCS6822,NANDINI MUKHERJEE,Male,19,97,98,CSE-17,7.13,7.91,7.29,7.5,8.42,7.67,8.83,7.82,927,Python,Python,C++,Full-Stack,70.55,Software Development,Excellent,Yes
+20BCS6823,Raja Ubair,Male,22,80,99,CSE-17,8.09,7.78,7.57,7.75,8.21,7.62,7.55,7.8,513,C++,DL,DL,Full-Stack,88.3,Machine Learning,Bad,No
+20BCS6824,SONAM DOLKER,Male,21,91,83,CSE-17,7.25,8.25,8.39,8.82,7.7,8.8,7.79,8.14,963,Python,Android,Backend,C,98.69,Machine Learning,Excellent,Yes
+20BCS6825,SIMER,Female,20,81,88,CSE-17,8.89,7.19,8.23,7.5,8.39,7.36,7.76,7.9,998,ML,Backend,Python,Android,90.82,Analyst,Excellent,Yes
+20BCS6826,Shaker yousuf,Male,20,96,97,CSE-17,7.22,8.31,7.94,8.43,7.48,7.68,7.29,7.76,832,DL,DL,Android,Full-Stack,89.08,Machine Learning,Excellent,Yes
+20BCS6827,Nitu Sharma,Female,20,86,84,CSE-17,8.96,7.77,7.45,8.42,8.57,7.81,8.77,8.25,960,ML,Python,DL,Android,80.69,Software Development,Excellent,Yes
+20BCS6828,ANISHA RANI,Male,22,99,85,CSE-17,8.62,7.44,8.68,7.88,7.07,7.31,8.01,7.86,910,UI/UX,C,UI/UX,Full-Stack,94.25,Machine Learning,Excellent,Yes
+20BCS6829,SWATI,Male,19,93,76,CSE-17,8.41,7.52,8.74,7.3,7.54,8.28,8.24,8,719,UI/UX,C++,Python,DL,79.6,Software Development,Average,No
+20BCS6830,Sumit Prasad,Female,21,83,86,CSE-17,7.68,7.98,8.3,8.61,7.64,8.66,7.26,8.02,899,Python,ML,Full-Stack,Python,71.47,Analyst,Excellent,Yes
+20BCS6831,SOUMEN PANDA,Male,19,75,81,CSE-17,8.68,8.66,8.11,7.48,7.7,7.98,7.06,7.95,566,UI/UX,Backend,Frontend,Android,71.13,Machine Learning,Bad,No
+20BCS6832,AMULYA ASHISH,Male,21,94,78,CSE-17,8.81,7.84,8.61,7.18,8.89,7.41,7.08,7.97,673,C,Android,C++,UI/UX,73.29,Machine Learning,Average,No
+20BCS6833,SUKHCHAIN SINGH,Male,20,79,75,CSE-17,8.16,7.1,8.9,7.17,7.42,8,8.72,7.92,944,Backend,UI/UX,Android,Python,98.56,Web-Dev,Excellent,Yes
+20BCS6834,SHILPA DEVI,Female,21,81,91,CSE-17,8.76,8.19,8.28,8.03,7.03,7.24,7.91,7.92,564,Python,C,ML,Backend,90.79,Machine Learning,Bad,No
+20BCS6835,Ajeet KUMAR,Female,19,99,79,CSE-17,8.12,8.46,7.04,7.93,7.59,8.97,7.31,7.92,506,ML,Android,C++,Frontend,85.8,Software Development,Bad,No
+20BCS6836,JASHANDEEP,Female,22,95,75,CSE-17,8.97,8.48,7.73,7.73,7.17,8.58,7.46,8.02,908,Full-Stack,Backend,UI/UX,ML,88.5,Software Development,Excellent,Yes
+20BCS6837,MIR MUAVIZ SALEEM,Male,20,74,90,CSE-17,8.97,8.3,8.2,8.91,8.23,7.19,7.31,8.16,501,Python,Python,DL,Python,88.93,Software Development,Bad,No
+20BCS6838,PARMEET SINGH,Female,19,84,80,CSE-17,7.03,7.2,8.88,7.97,8.4,7.45,7.38,7.76,975,UI/UX,Android,ML,Backend,84.55,Machine Learning,Excellent,Yes
+20BCS6839,ITHAMSETTY PRAVALLIKA,Female,19,97,76,CSE-17,7.43,7.18,7.58,8.22,8.57,8.56,8.59,8.02,754,DL,C,Python,Python,96.39,Analyst,Good,No
+20BCS6840,SPARSH AGARWAL,Female,20,74,83,CSE-17,7.64,8.94,8.35,7.93,8.74,7.79,7.86,8.18,793,Python,Full-Stack,Frontend,Android,81.3,Analyst,Good,Yes
+20BCS6841,HEPHZEBA SHAJI,Female,21,93,97,CSE-17,7.2,7.66,8.1,8.05,7.3,8.85,7.18,7.76,839,C++,Python,Python,C,98.58,Software Development,Excellent,Yes
+20BCS6842,NISHANT RAJOTIA,Female,22,83,88,CSE-17,8.89,7.31,8.3,7.99,7.75,8.1,8.38,8.1,580,UI/UX,UI/UX,UI/UX,ML,74.87,Machine Learning,Bad,No
+20BCS6843,GURNIWAZ SINGH,Male,20,90,91,CSE-17,8.98,8.73,7.06,7.73,7.03,7.3,7.07,7.7,791,Frontend,Full-Stack,DL,Android,74.51,Analyst,Good,Yes
+20BCS6844,FIZA RAI,Female,21,72,84,CSE-17,8.79,7.46,7.42,8.52,8.09,8,7.04,7.9,968,Android,Frontend,UI/UX,Frontend,79.96,Analyst,Excellent,Yes
+20BCS6845,RISHU SHUKLA,Male,21,82,92,CSE-17,8.21,8.42,7.61,7.49,7.64,8.04,8.16,7.94,942,Frontend,Frontend,C,Backend,71.19,Machine Learning,Excellent,Yes
+20BCS6846,GARIMA BHATIA,Female,22,96,78,CSE-17,8.39,8.02,7.39,8.22,8.85,7.66,7.11,7.95,656,UI/UX,C++,DL,UI/UX,70.05,Analyst,Average,No
+20BCS6847,NAVLEEN KAUR,Female,20,81,82,CSE-17,7.6,8.72,8.61,7.18,7.74,8.38,8.85,8.15,803,UI/UX,UI/UX,ML,ML,98.17,Machine Learning,Good,Yes
+20BCS6848,KARTIK CHANDLA,Male,19,70,98,CSE-17,8.3,8.85,7.68,8.72,8.66,8.13,8.31,8.38,544,Android,Backend,Frontend,UI/UX,77.51,Software Development,Bad,No
+20BCS6849,SIDHARTHA GHOSHAL,Female,22,73,90,CSE-17,7.96,7.3,8.91,7.76,7.58,8.4,7.07,7.85,764,Full-Stack,DL,Full-Stack,Android,78.29,Analyst,Good,No
+20BCS6850,NAVYA SINGLA,Male,21,77,99,CSE-17,7.26,7.15,7.45,7.71,8.64,8.01,8.18,7.77,777,Full-Stack,DL,Frontend,C++,93.2,Analyst,Good,Yes
+20BCS6851,KSHITIJ SAHAJPAL,Male,20,70,88,CSE-17,8.07,8.13,8.79,8.72,8.93,8.6,7.52,8.39,740,Frontend,C,C++,DL,82.41,Analyst,Good,No
+20BCS6852,HARSH RAMAN,Male,19,79,99,CSE-18,8.29,7.66,7.77,7.13,8.92,7.88,8.19,7.98,529,Backend,Full-Stack,ML,Python,99.24,Analyst,Bad,No
+20BCS6853,RAJDEEP,Female,20,89,85,CSE-18,8.81,8.65,8.6,8.45,8.69,8.31,7.36,8.41,597,Android,Frontend,Python,Backend,90,Web-Dev,Bad,No
+20BCS6854,DILPREET SINGH,Male,22,98,98,CSE-18,7.62,7.89,7.91,7.53,8.15,8.89,8.86,8.12,593,Frontend,C,UI/UX,UI/UX,88.88,Software Development,Bad,No
+20BCS6855,SANCHITA SINHA,Female,21,81,75,CSE-18,7.9,7.44,7.75,7.1,8.99,7.73,7.09,7.71,661,Backend,Full-Stack,ML,ML,80.57,Web-Dev,Average,No
+20BCS6856,VAIBHAV MATHUR,Female,20,76,86,CSE-18,8.46,7.92,8.69,8.32,8.83,7.66,7.16,8.15,707,UI/UX,Frontend,UI/UX,DL,84.63,Machine Learning,Average,No
+20BCS6857,SHREY DUA,Female,20,94,96,CSE-18,8.24,7.35,7.48,8.3,7.64,8.16,7.24,7.77,678,Backend,UI/UX,Full-Stack,Full-Stack,76.95,Machine Learning,Average,No
+20BCS6858,GUR SIMRAN KAUR,Male,22,75,77,CSE-18,8.62,7.75,7.05,8.15,8.65,7.75,8.81,8.11,787,Full-Stack,DL,Full-Stack,Backend,73.91,Web-Dev,Good,No
+20BCS6859,DIVYANSH JAIN,Male,20,88,85,CSE-18,8.35,8.8,7.93,7.02,7.53,8.25,8.58,8.07,580,C++,Backend,C++,UI/UX,81.65,Machine Learning,Bad,No
+20BCS6860,NALIN,Female,20,94,97,CSE-18,8.88,8.33,8.46,8.53,7.88,8.5,7.66,8.32,765,C++,Full-Stack,C++,C,70.03,Software Development,Good,Yes
+20BCS6861,KARTIK SUDHERA,Female,20,70,75,CSE-18,8.94,7.2,7.8,8.34,7.29,8.44,7.99,8,775,Frontend,Backend,Frontend,C,90.58,Analyst,Good,No
+20BCS6862,ADAPALA VAMSI KRISHNA,Female,22,91,76,CSE-18,7.29,7.19,7.35,7.96,8.54,8.59,7.72,7.81,765,Android,C,UI/UX,DL,79.64,Web-Dev,Good,No
+20BCS6863,AMISHA,Male,21,76,75,CSE-18,8.42,7.25,8.65,8.76,7.25,7.32,8.84,8.07,911,Frontend,C,Full-Stack,UI/UX,94.81,Machine Learning,Excellent,Yes
+20BCS6864, OBUSELE PERSIS ECHIKWA ,Female,19,84,93,CSE-18,7.14,8.3,7.23,8.26,8.81,7.78,8.97,8.07,618,Android,Frontend,UI/UX,C++,96.41,Machine Learning,Average,No
+20BCS6865,SAHIL YADAV,Female,19,97,79,CSE-18,7.05,8.64,8.55,7.62,8.93,8.28,7.7,8.11,817,ML,C,Python,Backend,72.59,Web-Dev,Good,Yes
+20BCS6866,TARANDEEP KAUR,Female,19,83,90,CSE-18,8.84,8.68,8.03,7.51,7.96,7.17,7.87,8.01,850,Android,Full-Stack,C++,DL,82.72,Software Development,Excellent,Yes
+20BCS6867,TUSHAN ARORA,Male,20,80,98,CSE-18,8.83,7.96,8.85,7.7,8.37,7.69,7,8.06,878,Full-Stack,C++,DL,Frontend,82.04,Analyst,Excellent,Yes
+20BCS6868,ROBINPAUL,Female,22,77,83,CSE-18,8.89,8.53,8.01,7.63,7.09,7.98,7.3,7.92,657,DL,Android,Android,Full-Stack,74.75,Machine Learning,Average,No
+20BCS6869,GAURAV KAUSHAL,Female,19,91,81,CSE-18,7.54,8.32,8.76,7.98,7.75,8.23,7.96,8.08,568,Full-Stack,Frontend,C++,C++,83.61,Web-Dev,Bad,No
+20BCS6870,AMAR SINGH,Female,19,73,82,CSE-18,7.24,7.58,8.79,8.13,8.82,8.54,8.59,8.24,881,Backend,Python,C,Android,77.94,Web-Dev,Excellent,Yes
+20BCS6871,RASIKH TAHIR RAINA,Male,19,95,82,CSE-18,7.1,7.63,8.46,8.1,8.91,7.91,7.26,7.91,536,DL,Full-Stack,ML,Backend,76.69,Machine Learning,Bad,No
+20BCS6872,MONEY NAGPAL,Female,19,82,82,CSE-18,8.03,8.97,8.09,8.97,8.99,8.19,8.22,8.49,974,DL,ML,ML,DL,82.73,Software Development,Excellent,Yes
+20BCS6873,ARPIT THAKUR,Female,20,86,82,CSE-18,8.42,8.05,8.87,8.67,7.85,7.44,8.21,8.22,698,UI/UX,ML,Android,C++,80.32,Analyst,Average,No
+20BCS6874,AAMIR SHAFI BANDAY,Female,20,77,85,CSE-18,8.05,7.67,7.14,8.21,7.1,8.14,8.8,7.87,660,Frontend,C++,Backend,Full-Stack,71.8,Machine Learning,Average,No
+20BCS6875,ADITYA JOSHI,Male,21,99,82,CSE-18,7.03,7.32,8.92,8.04,8.29,7.32,8.24,7.88,624,ML,Frontend,DL,Python,74.33,Web-Dev,Average,No
+20BCS6876,MAANIK SHARMA,Male,22,90,77,CSE-18,8.23,8.97,8.09,7.28,7.74,7.47,7.16,7.85,587,Backend,C,C++,Frontend,76.97,Web-Dev,Bad,No
+20BCS6877,MUNISH PRASHAR,Male,20,81,94,CSE-18,8.11,8.35,7.74,8.4,7.63,7.81,8.07,8.02,937,UI/UX,DL,Frontend,Android,85.73,Machine Learning,Excellent,Yes
+20BCS6878,SUKHJOT SINGH,Female,21,92,96,CSE-18,7.86,8.12,7.41,8.33,8.69,7.83,7.17,7.92,652,Full-Stack,C,UI/UX,Python,74.77,Web-Dev,Average,No
+20BCS6879,Abhay Singh,Female,19,71,82,CSE-18,7.18,7.77,7.69,7.48,8.05,7.81,8.74,7.82,634,DL,C,ML,Frontend,82.23,Analyst,Bad,No
+20BCS6880,HARNEET SINGH BHATIA,Male,20,83,91,CSE-18,7.52,7.08,8.8,8.11,8.36,8.62,8.04,8.08,763,Frontend,Python,UI/UX,Full-Stack,74.33,Software Development,Good,No
+20BCS6881,ERA MEHTA,Female,20,75,97,CSE-18,8.83,8.52,7.1,7.39,8.88,8.06,7.82,8.09,993,Full-Stack,Frontend,ML,UI/UX,88.55,Machine Learning,Excellent,Yes
+20BCS6882,AMRIT SINGH ANTAL,Male,19,78,76,CSE-18,7.82,8.66,7.12,7.5,8.42,7.81,8.97,8.04,854,Android,Python,C,Python,77.65,Analyst,Excellent,Yes
+20BCS6883,Rahul Yadav,Female,19,77,84,CSE-18,7.66,7.21,8.93,7.79,8.19,7.92,8.93,8.09,744,C++,UI/UX,UI/UX,Android,73.6,Analyst,Good,No
+20BCS6884,NISSIM SINGH,Male,19,87,79,CSE-18,8.17,8.82,8.53,8.75,8.84,7.71,8.42,8.46,994,Full-Stack,Python,Python,Android,70.6,Analyst,Excellent,Yes
+20BCS6885,DHAMAN BHARAT,Female,22,86,79,CSE-18,8.09,7.95,7.58,7.06,8.09,8.55,7.95,7.9,884,C,ML,Full-Stack,Frontend,93.22,Web-Dev,Excellent,Yes
+20BCS6886,GURINDER SINGH PANESAR,Male,19,99,85,CSE-18,7.61,8.48,8.8,8.33,8.57,7.92,7.39,8.16,671,UI/UX,Python,UI/UX,Full-Stack,79.91,Analyst,Average,No
+20BCS6887,BUDDHA PRANABH,Female,20,79,83,CSE-18,7.11,7.38,8.08,8.52,8.08,8.22,8.33,7.96,791,Python,Frontend,Android,ML,77.99,Machine Learning,Good,Yes
+20BCS6888,DAKSH ANAND,Male,20,82,96,CSE-18,7.53,8.14,7.43,7.98,8.04,7.09,7.65,7.69,953,DL,C,UI/UX,UI/UX,75.81,Machine Learning,Excellent,Yes
+20BCS6889,AKASH BANGA,Female,19,94,79,CSE-18,8.59,8.27,8.89,7.36,7.96,8.89,7.36,8.19,775,Backend,C++,C,C++,94.78,Web-Dev,Good,Yes
+20BCS6890,AJAY,Male,19,92,78,CSE-18,7.69,7.48,8.95,7.26,7.27,8.75,7.7,7.87,687,Backend,C,C++,Backend,71.3,Analyst,Average,No
+20BCS6891,YATIN GULATI,Male,22,86,81,CSE-18,7.26,7.23,7.72,7.28,7.93,7.56,7.86,7.55,610,ML,Full-Stack,DL,ML,70.16,Software Development,Bad,No
+20BCS6892,ABHIMANYU SHARMA,Male,21,83,76,CSE-18,8.05,7.24,7.18,7.12,8.53,7.28,7.65,7.58,655,Frontend,C,ML,Full-Stack,74.13,Software Development,Average,No
+20BCS6893,ANMOLPREET SINGH,Female,22,93,82,CSE-18,7.95,8.42,7.69,8.75,7.9,7.72,7.8,8.03,781,Frontend,UI/UX,Frontend,Frontend,78.54,Web-Dev,Good,Yes
+20BCS6894,SURYAM SHARMA,Male,22,79,87,CSE-18,7.19,7.96,7.82,8.43,7.18,7.53,7.64,7.68,666,Android,C,C,Python,78.03,Software Development,Average,No
+20BCS6895,AVINASH MEENA,Female,20,75,78,CSE-18,8.37,7.88,8.94,7.33,8.13,7.16,7.37,7.88,978,DL,ML,Python,C++,94.3,Software Development,Excellent,Yes
+20BCS6896,RAHUL,Female,19,76,98,CSE-18,7.78,8.19,8.1,8.49,7.15,8.22,8.17,8.01,856,Backend,DL,ML,Backend,92.11,Analyst,Excellent,Yes
+20BCS6897,KSHITIJA RAJESH SHEREKAR,Female,19,91,78,CSE-18,8.7,8.64,8.59,7.38,8.91,7.48,7.88,8.23,759,C++,Python,C,UI/UX,83.79,Machine Learning,Good,No
+20BCS6898,GAGAN DEEP SINGH,Male,19,95,88,CSE-18,8.49,7.44,8.55,8.7,7.9,8.21,7.46,8.11,884,DL,C,Python,UI/UX,76.36,Software Development,Excellent,Yes
+20BCS6899,RAKSHAK GANJOO,Male,20,75,94,CSE-18,8.12,8.27,7.85,7.7,7.58,7.31,8.79,7.95,723,C++,Backend,Android,Full-Stack,87.73,Machine Learning,Average,No
+20BCS6900,AMITAB BALI,Female,20,70,78,CSE-18,8.42,7.46,8.57,7.71,8.78,8.43,7.06,8.06,674,ML,C,Full-Stack,ML,81.82,Web-Dev,Average,No
+20BCS6901,MUHAMMED RASHAD K ,Female,20,81,78,CSE-18,7.47,8.8,7.31,8.19,8.04,8.04,7.77,7.95,689,ML,C++,Android,Android,75.88,Analyst,Average,No
+20BCS6902,MITHIL SAINI,Female,20,72,98,CSE-19,8.19,7.82,8.55,7.36,7.2,8.75,7.31,7.88,996,Android,Android,DL,UI/UX,90.48,Machine Learning,Excellent,Yes
+20BCS6903,Shivam,Female,19,82,79,CSE-19,7.04,7.7,7.13,8.48,7.51,7.42,7.89,7.6,690,Python,Python,C,Full-Stack,82.26,Analyst,Average,No
+20BCS6904,KESHAV,Male,19,87,80,CSE-19,7.44,7.42,7.34,8.27,8.72,8.19,7.17,7.79,834,UI/UX,Full-Stack,Full-Stack,Python,71.96,Web-Dev,Excellent,Yes
+20BCS6905,DECHEN WANGMO,Male,19,94,82,CSE-19,8.54,8.37,7.16,7.41,7.79,7.86,7.92,7.86,704,C,UI/UX,DL,ML,85.74,Software Development,Average,No
+20BCS6906,GARVIT KURL,Female,21,85,89,CSE-19,7.67,8.35,7.19,8.12,7.8,7.73,7.55,7.77,627,C,DL,C,ML,79.5,Analyst,Average,No
+20BCS6907,SUPRATIM DAS,Female,22,86,75,CSE-19,8.96,8.02,7.43,7.5,8.73,8.71,7.23,8.08,950,Backend,ML,Python,UI/UX,83.38,Machine Learning,Excellent,Yes
+20BCS6908,AADITYA MITTAL,Male,19,90,77,CSE-19,8.73,8.52,7.23,8.3,8.72,8.81,8.13,8.35,685,Android,Full-Stack,Full-Stack,Android,70.35,Web-Dev,Average,No
+20BCS6909,IGNATIUS TATENDA MHEMBERE,Female,22,72,76,CSE-19,8.22,7.14,8.47,8.28,8.16,7.33,7.49,7.87,700,Android,UI/UX,ML,Frontend,93.46,Machine Learning,Average,No
+20BCS6910,UTKARSH VISHWAKARMA,Male,21,82,98,CSE-19,7.18,8.29,8.44,7.51,8.18,8.21,8.8,8.09,923,C++,ML,ML,C++,87.71,Web-Dev,Excellent,Yes
+20BCS6911,Kartike bhatia,Female,19,85,81,CSE-19,7.6,8.19,7.03,7.67,7.54,7.77,8.54,7.76,780,ML,Backend,Full-Stack,ML,98.04,Software Development,Good,Yes
+20BCS6912,SAPNA,Female,22,75,83,CSE-19,8.98,8.88,8.64,8.6,7.11,8.74,7.98,8.42,772,Frontend,Python,UI/UX,Frontend,81.66,Web-Dev,Good,No
+20BCS6913,MOHAN BERA,Male,22,88,91,CSE-19,7.95,7.83,7.51,8.59,8.26,7.07,7.02,7.75,757,ML,C++,Full-Stack,Android,76.15,Software Development,Good,No
+20BCS6914,UNNATI BANSAL,Male,21,83,92,CSE-19,7.96,7.01,7.32,8.31,7.9,8.93,7.25,7.81,714,Full-Stack,Backend,Android,Frontend,75.22,Analyst,Average,No
+20BCS6915,SHAFIA RAHMAN,Male,20,71,96,CSE-19,8.99,8.47,8.15,7.57,7.22,7.84,8.56,8.11,786,UI/UX,ML,DL,Python,84.75,Machine Learning,Good,Yes
+20BCS6916,KRISHAN GOYAL,Male,21,71,87,CSE-19,8.31,8.29,7.71,8.46,8.62,8.42,7.73,8.22,744,Android,ML,ML,ML,98.75,Web-Dev,Good,No
+20BCS6917,SANDEEPAN KOLAY,Male,22,81,96,CSE-19,8.3,7.71,8.82,7.73,7.73,8.77,8.9,8.28,616,C,Backend,C,Backend,78.56,Analyst,Average,No
+20BCS6918,SIDHANT THAPA,Female,22,98,76,CSE-19,7.06,8.11,8.03,7.42,7.23,8.71,7.16,7.67,936,Backend,ML,C,Frontend,87.2,Analyst,Excellent,Yes
+20BCS6919,ANKIT ,Male,20,77,87,CSE-19,7.18,8.36,7.94,8.87,8.79,8.43,8.18,8.25,689,Android,UI/UX,ML,C,85.29,Analyst,Average,No
+20BCS6920,ANEESH ARORA,Female,22,74,93,CSE-19,7.65,8.13,8.63,8.12,8.38,7.73,7.75,8.06,847,DL,DL,Android,C,85.9,Web-Dev,Excellent,Yes
+20BCS6921,SARIK THAKUR,Male,21,86,95,CSE-19,7.91,8.73,8.15,8.37,7.07,8.01,7.33,7.94,725,Android,ML,UI/UX,Python,91.01,Analyst,Good,No
+20BCS6922,PUNIT KUMAR TEOTHIA,Male,19,98,95,CSE-19,8.77,7.1,7.51,7.55,8.2,8.65,8.42,8.03,938,Backend,Frontend,C++,Android,94.39,Software Development,Excellent,Yes
+20BCS6923,RAJNEESH SHARMA ,Female,20,90,88,CSE-19,7.57,8.17,8.05,8.84,8.44,7.13,8.31,8.07,721,DL,UI/UX,Frontend,ML,98.96,Software Development,Good,No
+20BCS6924,PANKAJ SHARMA,Female,20,96,92,CSE-19,8.8,8.88,7.93,8.47,8.11,8.94,7.6,8.39,635,Backend,Frontend,Full-Stack,Frontend,79.06,Analyst,Average,No
+20BCS6925,YOGESH,Female,22,89,86,CSE-19,7.9,7.87,8.55,7.14,7.38,7.01,8.87,7.82,955,DL,ML,DL,ML,96.11,Machine Learning,Excellent,Yes
+20BCS6926,RAGHAV SHARMA,Female,21,94,93,CSE-19,7.93,8.32,7.18,7.22,8.85,8.5,8.76,8.11,734,ML,UI/UX,DL,Python,92.5,Software Development,Good,No
+20BCS6927,SAVARKAR HERAMB MAKRAND ,Male,20,71,93,CSE-19,7.94,7.68,8.1,8.78,7.74,7.03,7.79,7.87,600,UI/UX,C++,C++,C++,91.15,Analyst,Bad,No
+20BCS6928,TUSHAR SHARMA,Male,19,92,90,CSE-19,7.58,7.32,7.28,8.45,7.64,8.16,8.4,7.83,885,Full-Stack,C++,Android,ML,80.88,Machine Learning,Excellent,Yes
+20BCS6929,GAGANDEEP Banthotra,Female,22,90,94,CSE-19,8.9,8.47,7.49,8.37,8.14,7.74,7.4,8.07,851,C,Full-Stack,UI/UX,Frontend,99.77,Analyst,Excellent,Yes
+20BCS6930,YUGAL NAG,Male,20,88,79,CSE-19,7.32,8.95,8.49,8.6,8.66,8.67,8.59,8.47,787,Python,Android,Backend,Frontend,97.61,Machine Learning,Good,Yes
+20BCS6931,ANSHITA SHARMA,Male,22,97,75,CSE-19,8.57,8.18,8.58,8.54,7.58,8.91,7.47,8.26,696,UI/UX,UI/UX,UI/UX,Frontend,87.91,Machine Learning,Average,No
+20BCS6932,TAJINDER SINGH,Female,22,70,84,CSE-19,8.2,8.75,7.54,7.94,7.91,7.56,8.88,8.11,860,C++,Backend,DL,Full-Stack,98.02,Software Development,Excellent,Yes
+20BCS6933,PRANJUL SHARMA,Female,19,74,84,CSE-19,8.07,7.18,8.44,7.19,8.94,8.15,8.39,8.05,534,DL,C,ML,ML,73.67,Machine Learning,Bad,No
+20BCS6934,KUSHAGR SONI,Male,21,98,84,CSE-19,8.62,7.75,7.6,7.07,7.47,7.42,7.11,7.58,751,UI/UX,Python,Backend,Backend,76.89,Web-Dev,Good,No
+20BCS6935,AMEL MATHEW,Male,20,92,94,CSE-19,8.82,7.54,8.34,7.08,7.88,8.27,7.38,7.9,518,DL,Android,C++,Backend,83.88,Web-Dev,Bad,No
+20BCS6936,PAVAN  KALYAN K,Female,19,85,90,CSE-19,8.72,8.03,8.53,8.49,7.7,8.72,8.69,8.41,706,C++,Android,DL,C++,72.79,Software Development,Average,No
+20BCS6937,GURPREET SINGH,Female,19,95,95,CSE-19,8.05,8.21,7.73,8.19,8.17,8.35,7.45,8.02,870,DL,Frontend,Python,UI/UX,71.49,Machine Learning,Excellent,Yes
+20BCS6938,SYED ZESHAN HAIDER KAZMI,Male,22,84,97,CSE-19,8.49,8.19,8.08,7.45,8.43,8.42,8.03,8.16,796,C++,DL,Python,Android,89.99,Machine Learning,Good,Yes
+20BCS6939,YADWINDER SINGH,Male,22,76,75,CSE-19,7.04,8.23,7.87,8.65,8.45,7.72,8,7.99,630,ML,Python,DL,Android,86.8,Web-Dev,Bad,No
+20BCS6940,TARIQ ABUBAKAR ALLY,Female,21,87,92,CSE-19,8.73,7.44,8.76,7.67,8.11,7.66,7.32,7.96,862,Full-Stack,Backend,UI/UX,Full-Stack,89.52,Machine Learning,Excellent,Yes
+20BCS6941,GURKIRAN CHOHAN,Female,19,92,97,CSE-19,7.14,7.61,8.45,7.4,7.79,7.98,8.82,7.88,837,UI/UX,Backend,Full-Stack,Full-Stack,76.37,Software Development,Excellent,Yes
+20BCS6942,KANIKA PANDIT ,Female,21,93,75,CSE-19,8.9,8.85,7.45,7.26,7.36,8.28,7.47,7.94,974,C,Android,Python,C,96.09,Software Development,Excellent,Yes
+20BCS6943,AJAYBIR SINGH,Female,21,78,98,CSE-19,7.1,8.68,7.33,7.34,8.11,8.01,8.83,7.91,612,UI/UX,Python,Backend,ML,74.9,Web-Dev,Bad,No
+20BCS6944,REJA NOEL ZAKARIA WANI,Female,22,77,96,CSE-19,7.92,8.67,8.18,8.33,8.23,8.45,7.43,8.17,619,UI/UX,Android,Frontend,Backend,73.17,Analyst,Bad,No
+20BCS6945,RAVI PRIYA SINGH,Male,20,72,93,CSE-19,8.91,8.18,7.77,8.68,7.14,7.8,8.37,8.12,790,C,DL,Backend,Full-Stack,77.2,Analyst,Good,Yes
+20BCS6946,AMANPREET SINGH,Male,22,96,93,CSE-19,8.33,7.45,8.85,7.22,7.32,7.57,8.3,7.86,545,DL,C++,UI/UX,Backend,99.01,Web-Dev,Bad,No
+20BCS6947,JAPPREET KAUR,Female,19,77,76,CSE-19,8.74,8.59,8.39,8.11,8.28,7.67,7.29,8.15,550,Full-Stack,Android,Android,Python,96.84,Machine Learning,Bad,No
+20BCS6948,ABHITEJ ,Female,22,91,91,CSE-19,7.08,7.61,7.11,8.6,7.52,7.58,8.88,7.77,656,Python,Frontend,C++,ML,85.25,Machine Learning,Average,No
+20BCS6949,KARTIK SAINI,Male,20,79,76,CSE-19,8.67,8.84,7.43,7.43,8.32,7.69,8.27,8.09,757,ML,UI/UX,C++,C,97.1,Analyst,Good,No
+20BCS6950,KARAN DHAND,Female,19,90,86,CSE-19,8.94,7.34,8.1,8.67,7.95,7.4,8.62,8.15,752,Android,Backend,Backend,C++,70.22,Analyst,Good,No
+20BCS6951,ANANYA YADAV,Male,20,78,87,CSE-19,7.44,7.53,8.16,8.36,8.83,7.11,7.29,7.82,784,UI/UX,C,ML,Android,80.48,Software Development,Good,Yes
+20BCS6952,TANISHQ SOOD,Female,20,78,76,CSE-20,7.54,7.15,8.84,7.28,7.91,8.1,7.7,7.79,973,Backend,Android,UI/UX,Frontend,89.5,Machine Learning,Excellent,Yes
+20BCS6953,PRIYANKA ,Male,19,79,77,CSE-20,8.5,7.39,8.08,7.3,8.53,8.32,7.8,7.99,600,DL,C,ML,UI/UX,81.66,Software Development,Bad,No
+20BCS6954,ADITYA DAHIYA,Female,19,78,77,CSE-20,7.66,8.06,8.68,7.98,7.4,7.19,8.79,7.97,525,Frontend,Python,Android,ML,89.94,Software Development,Bad,No
+20BCS6955,HARSHDEEP SINGH,Female,20,94,90,CSE-20,8.84,7.06,8.58,7.96,7.15,8.64,8.47,8.1,681,Backend,ML,C,DL,79.16,Software Development,Average,No
+20BCS6956,SANT PARKASH SINGH,Female,21,93,83,CSE-20,8.53,8.47,8.8,8.58,8.02,7.42,8.4,8.32,793,Backend,C,DL,Full-Stack,91.55,Web-Dev,Good,Yes
+20BCS6957,MUKUL,Male,20,80,89,CSE-20,8.92,8.22,8.16,7.07,7.4,8.9,7.61,8.04,547,C++,DL,DL,Frontend,90.34,Web-Dev,Bad,No
+20BCS6958,ARSHDEEP SINGH,Male,22,85,84,CSE-20,8.68,7.65,8.54,8.9,7.26,7.1,8.55,8.1,652,C,ML,Backend,Frontend,81.66,Analyst,Average,No
+20BCS6959,SNEHA,Female,20,80,86,CSE-20,7.49,7.61,8.66,8.8,8.46,8.47,7.78,8.18,851,DL,C,Backend,UI/UX,71.37,Software Development,Excellent,Yes
+20BCS6960,GURKAMAL SINGH SHERGILL,Male,20,78,86,CSE-20,7.98,7.03,8.25,8.06,7.06,7,8.13,7.64,511,UI/UX,C,Backend,ML,82.41,Software Development,Bad,No
+20BCS6961,LOVEPREET SINGH BUCK,Male,20,87,88,CSE-20,8.93,8.83,8.24,8.01,8.13,7.83,7.53,8.21,764,ML,Backend,Frontend,Full-Stack,88.75,Machine Learning,Good,No
+20BCS6962,JASPREET SINGH,Male,19,73,80,CSE-20,7.91,7.63,8.98,7.43,7.75,7.06,8.12,7.84,948,C,Backend,UI/UX,C,94.05,Analyst,Excellent,Yes
+20BCS6963,PASSANG LHAMU GURUNG,Male,20,90,83,CSE-20,8,8.2,7.76,7.84,7.4,7.35,8.08,7.8,562,Android,C++,C++,C,74.18,Analyst,Bad,No
+20BCS6964,RAJ KUMAR,Male,22,89,83,CSE-20,7.81,7.21,7.59,8.01,8.16,8.47,8.64,7.98,957,Android,UI/UX,Python,Backend,82.67,Machine Learning,Excellent,Yes
+20BCS6965,KARAN SINGLA,Male,20,76,80,CSE-20,7.11,7.83,8.73,7.39,8.52,8.95,8.67,8.17,649,C,ML,ML,Full-Stack,92.17,Machine Learning,Average,No
+20BCS6966,CHERRYL JAIN,Female,20,80,99,CSE-20,7.5,8.54,7.03,8.23,7.13,7.23,7.32,7.57,818,DL,DL,Frontend,DL,86.31,Analyst,Good,Yes
+20BCS6967,HARSHWARDHAN CHOUDHARY,Female,19,91,96,CSE-20,8.16,8.94,7.27,8.63,8.95,8.65,8.97,8.51,791,C,C,Full-Stack,C,97.58,Machine Learning,Good,Yes
+20BCS6968,HARPREET SINGH,Male,22,91,78,CSE-20,8.04,8.87,8,7.55,8.68,8.21,8.77,8.3,784,C++,Android,UI/UX,Full-Stack,82.6,Web-Dev,Good,Yes
+20BCS6969,MD MAHADY HASAN,Male,19,97,98,CSE-20,8.53,7.11,8.27,8.64,8.06,8.01,7.98,8.09,929,ML,Backend,C++,DL,96.08,Software Development,Excellent,Yes
+20BCS6970,MAHIMA GHOSH,Male,21,75,87,CSE-20,8.12,7.05,8.85,8.41,7.2,7.79,7.82,7.89,875,Backend,DL,ML,Python,78.74,Analyst,Excellent,Yes
+20BCS6971,Rajat Malik,Male,22,99,78,CSE-20,7.68,7.99,7.53,8.11,7.39,8.63,7.23,7.79,570,ML,ML,Python,Python,97.45,Machine Learning,Bad,No
+20BCS6972,ARUNESH TRIPATHI,Female,20,92,77,CSE-20,7.22,7.49,8.65,7.95,7.41,7.17,7.48,7.62,663,Python,Full-Stack,DL,ML,81.06,Web-Dev,Average,No
+20BCS6973,JAGRATI SHARMA,Female,22,83,80,CSE-20,8.04,7.11,8.64,8.99,7.81,7.44,8.82,8.12,806,Backend,C,Python,C,76.39,Web-Dev,Good,Yes
+20BCS6974,SARABJOT SINGH MAHAL ,Male,20,77,93,CSE-20,7.48,7.54,8.7,8.4,8.4,8.69,7.4,8.09,990,ML,ML,Full-Stack,Python,85.22,Analyst,Excellent,Yes
+20BCS6975,AKARSH KALSI,Female,20,90,88,CSE-20,8.42,7.93,8.19,7.99,8.4,8.26,8.75,8.28,908,ML,Backend,Android,C++,82.8,Analyst,Excellent,Yes
+20BCS6976,DIVYANGI SINGH,Male,21,89,99,CSE-20,8.05,7.82,7.33,8.72,7.17,8.09,8.87,8.01,908,Frontend,Full-Stack,DL,DL,77.42,Web-Dev,Excellent,Yes
+20BCS6977,PARVEEN,Female,22,81,81,CSE-20,8.36,7.77,7.62,7.98,8.24,8.28,8.28,8.08,623,Frontend,C++,C++,ML,73.95,Software Development,Bad,No
+20BCS6978,VAKAS KUMAR SINGH,Male,20,87,90,CSE-20,8.91,7.16,8.91,7.77,8.64,8.52,7.73,8.23,744,Full-Stack,ML,Full-Stack,UI/UX,97.09,Web-Dev,Good,No
+20BCS6979,DIPANSHU SODHI,Male,22,80,87,CSE-20,7.91,7.86,8.65,8.76,8.44,8.26,8.68,8.37,627,C++,Full-Stack,Backend,C++,86.51,Software Development,Average,No
+20BCS6980,YASH KUMAI,Male,19,73,90,CSE-20,7.34,8.63,8.9,8.32,7.58,7.32,8.26,8.05,780,UI/UX,Python,DL,UI/UX,95.34,Software Development,Good,No
+20BCS6981,ISHITA OBEROI,Male,21,92,86,CSE-20,7.37,7.38,7.59,8.43,7.18,7.82,7.63,7.63,832,Android,Python,ML,Frontend,78.47,Machine Learning,Excellent,Yes
+20BCS6982,SYED MUSADDIQ ANDRABI,Female,21,94,99,CSE-20,8.33,7.4,8.37,7.01,8.96,8,8.24,8.04,881,UI/UX,DL,DL,Android,91.7,Analyst,Excellent,Yes
+20BCS6983,SUHANI SINGH,Female,22,97,88,CSE-20,8.45,8.12,8.89,8.7,7.45,8.15,7.3,8.15,682,DL,DL,Full-Stack,Full-Stack,89.12,Software Development,Average,No
+20BCS6984,Vansh,Female,20,80,80,CSE-20,8.75,7.81,8.19,7.33,7.03,8.47,7.59,7.88,564,UI/UX,Android,DL,Python,96.15,Software Development,Bad,No
+20BCS6985,DUSHYANT JAKHAR,Male,22,74,86,CSE-20,8.94,7.08,8.5,7.15,7.8,8.6,8.15,8.03,712,C++,UI/UX,Frontend,Backend,95.29,Web-Dev,Average,No
+20BCS6986,ANURAG SINGH,Female,20,70,95,CSE-20,7.18,7.22,7.14,8.45,7.74,7.71,7.5,7.56,982,ML,C,Python,C++,72.02,Analyst,Excellent,Yes
+20BCS6987,ANKIT MEHRA,Male,22,95,99,CSE-20,8.42,8.51,7.59,9,8.52,7.59,8.22,8.26,701,Backend,UI/UX,Backend,Python,89.27,Web-Dev,Good,No
+20BCS6988,BRYAN YONESTA SITUMORANG,Female,22,85,93,CSE-20,7.07,7.84,7.38,7.45,7.69,7.76,8.8,7.71,773,Full-Stack,DL,ML,Python,85.67,Software Development,Good,Yes
+20BCS6989,RITESH,Male,19,96,80,CSE-20,8.56,7.21,8.38,8.64,7.3,7.05,7.93,7.87,707,Python,C++,C++,Android,94.32,Web-Dev,Average,No
+20BCS6990,RUCHIR KUMAR,Male,19,94,75,CSE-20,7.04,8.16,8.6,8.29,7.21,8.23,8.63,8.02,630,ML,C++,Backend,DL,95.68,Analyst,Average,No
+20BCS6991,SURYA TREHAN,Male,19,99,90,CSE-20,8.42,7.11,8.71,7.09,8.49,8.65,7.79,8.04,608,UI/UX,ML,UI/UX,Python,78.75,Software Development,Average,No
+20BCS6992,DAVINDER KAUR,Male,20,82,87,CSE-20,8.48,7.42,7.82,8.54,8.5,7.88,8.42,8.15,705,Python,UI/UX,ML,Android,82.59,Analyst,Average,No
+20BCS6993,RAJVEER SINGH WALIA,Female,21,96,87,CSE-20,8.71,8.51,7.84,8.73,7.07,7.74,7.94,8.08,589,DL,Backend,DL,Full-Stack,75.3,Analyst,Bad,No
+20BCS6994,NEHA KASHYAP,Male,22,89,94,CSE-20,7.28,8.8,8.41,7.11,8.84,7.54,7.1,7.87,990,Python,ML,ML,UI/UX,96.15,Analyst,Excellent,Yes
+20BCS6995,SHUBHAM KUMAR,Female,22,70,92,CSE-20,7.67,7.07,7.88,8.16,7.65,8.94,7.47,7.83,762,C++,C,DL,Backend,72.46,Web-Dev,Good,No
+20BCS6996,ADITYA RANJAN KAPOOR,Female,19,99,92,CSE-20,8.52,7.89,8.55,8.47,8.07,7.06,7.9,8.07,976,DL,Backend,Backend,Frontend,98.54,Web-Dev,Excellent,Yes
+20BCS6997,NEETIKA RAJORIA,Female,19,95,84,CSE-20,7.29,8.44,7.68,8.47,8.09,7.78,7.79,7.93,759,Full-Stack,Python,C,ML,84.81,Analyst,Good,No
+20BCS6998,MAANVIRENDER SIHAG,Female,20,77,90,CSE-20,8.22,7.41,8.93,8.83,8.01,8.03,8.61,8.29,782,C++,Full-Stack,Backend,Full-Stack,97,Analyst,Good,Yes
+20BCS6999,SHAANJIT SINGH,Male,19,91,89,CSE-20,7.06,7.48,8.08,8.83,8.5,7.42,8.32,7.96,624,C,ML,DL,C++,81.82,Analyst,Average,No
+20BCS7000,RITURAJ RAMAN,Male,21,89,77,CSE-20,8.89,8.91,8.98,7.44,7.66,7.36,8.66,8.27,939,C,Python,Python,DL,93.04,Machine Learning,Excellent,Yes
