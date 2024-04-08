@@ -7,11 +7,30 @@ import json
 from flask_cors import CORS
 
 
+
 course = ['Machine Learning', 'Analyst', 'Software Development', 'Web-Dev']
 performance = ['Excellent', 'Good', 'Average', 'Bad']
 placement = ['Will', 'Will Not']
 skills=['Android', 'ML', 'DL', 'C', 'UI/UX', 'Backend', 'Frontend','Full-Stack', 'Python', 'C++']
 columns=['UID', 'Name', 'Sex', 'Age','10th', '12th', 'Sem1', 'Sem2','Sem3', 'Sem4', 'Sem5', 'Sem6', 'Sem7', 'Current CGPA', 'AMCAT','Skill1', 'Skill2', 'Skill3', 'Skill4', 'Avg. Attendance']
+
+dataset = pd.read_csv('Dataset.csv')
+training_data = dataset.drop(['UID', 'Name', 'Section', 'Sex', 'Age'], axis=1)
+training_data['Course Assigned'] = training_data['Course Assigned'].map(
+    {'Machine Learning': 1, 'Analyst': 2, 'Software Development': 3, 'Web-Dev': 4})
+training_data['Performance'] = training_data['Performance'].map({'Excellent': 1, 'Good': 2, 'Average': 3, 'Bad': 4})
+training_data['Placed Status'] = training_data['Placed Status'].map({'Yes': 1, 'No': 0})
+skills = training_data.Skill1.unique()
+mapping = {value: index for index, value in enumerate(skills)}
+
+# Use pandas map function to replace values in column
+training_data['Skill1'] = training_data['Skill1'].map(mapping)
+training_data['Skill2'] = training_data['Skill2'].map(mapping)
+training_data['Skill3'] = training_data['Skill3'].map(mapping)
+training_data['Skill4'] = training_data['Skill4'].map(mapping)
+X = training_data.drop(['Course Assigned', 'Performance', 'Placed Status'], axis=1)
+minmax = MinMaxScaler()
+X_train1 = minmax.fit_transform(X)
 
 app = Flask(__name__)
 CORS(app)
@@ -48,19 +67,19 @@ def predict():
 
 
     # MInMax Scaling
-    minmax = MinMaxScaler()
-    input_data = minmax.fit_transform(input_data)
+    # minmax = MinMaxScaler()
+    # input_data = minmax.fit_transform(input_data)
     input_data = minmax.transform(input_data)
 
-    model1 = load_model('course_assigned_model.keras')
-    model2 = load_model('performance_model.keras')
-    model3 = load_model('placed_status_model.keras')
-    model1.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    model2.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    model3.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    # model1 = pickle.load(open('course_assigned_model.pkl', 'rb'))
-    # model2 = pickle.load(open('performance_model.pkl', 'rb'))
-    # model3 = pickle.load(open('placed_status_model.pkl', 'rb'))
+    # model1 = load_model('course_assigned_model.keras')
+    # model2 = load_model('performance_model.keras')
+    # model3 = load_model('placed_status_model.keras')
+    # model1.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    # model2.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    # model3.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    model1 = pickle.load(open('course_assigned_model.pkl', 'rb'))
+    model2 = pickle.load(open('performance_model.pkl', 'rb'))
+    model3 = pickle.load(open('placed_status_model.pkl', 'rb'))
     
 
     username = user_input['Name'][0]
