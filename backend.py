@@ -35,11 +35,6 @@ X_train1 = minmax.fit_transform(X)
 app = Flask(__name__)
 CORS(app)
 
-# @app.route("/")
-# def index():
-#   """Render the HTML template for user input"""
-#   return render_template("index.html")
-
 @app.route("/predict", methods=["POST"])
 def predict():
     data=request.get_json()
@@ -67,16 +62,9 @@ def predict():
 
 
     # MInMax Scaling
-    # minmax = MinMaxScaler()
-    # input_data = minmax.fit_transform(input_data)
+    minmax = pickle.load(open('minmaxscalar.pkl', 'rb'))
     input_data = minmax.transform(input_data)
 
-    # model1 = load_model('course_assigned_model.keras')
-    # model2 = load_model('performance_model.keras')
-    # model3 = load_model('placed_status_model.keras')
-    # model1.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    # model2.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    # model3.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     model1 = pickle.load(open('course_assigned_model.pkl', 'rb'))
     model2 = pickle.load(open('performance_model.pkl', 'rb'))
     model3 = pickle.load(open('placed_status_model.pkl', 'rb'))
@@ -95,15 +83,6 @@ def predict():
                      'recommended_course':recommended_course,
                      'user_performance':user_performance,
                      'placement_status':placement_status})
-
-
-# @app.route("/predict-course/<param>", methods=["POST","GET"])
-# def predict_course(param):
-#   """Handle POST requests, make predictions and return results"""
-  
-  
-#   recommended_course = course[model.predict(param)[0] - 1]
-#   return  jsonify({'prediction': f"Recommended Course is {recommended_course}"})
 
 
 if __name__ == "__main__":
